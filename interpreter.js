@@ -61,7 +61,7 @@ Lexer.prototype.atomicSequence = function() {
 
 Lexer.prototype.getNextToken = function() {
   if (this.currentChar !== null) {
-    if (this.currentChar == "\\") {
+    if ((this.currentChar == "\\") || (this.currentChar == "$")) {
       return {type: "COMMAND", value: this.command()};
     }
 
