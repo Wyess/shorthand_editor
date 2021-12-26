@@ -220,7 +220,7 @@ function parseInputTexts(texts) {
           chars.push(new CharScroll(parseFloat(match[1])));
         } else if ((match = items[i].match(/^speed{(\d+(?:\.\d+)?)}/))) {
           chars.push(new CharSpeed(parseFloat(match[1]) / 1000));
-        } else if ((match = items[i].match(/^br{(\d+)}/))) {
+        } else if ((match = items[i].match(/^br{([1-9]\d*)}/)) !== null) {
           const n = parseInt(match[1]);
           for (var i = 0; i < n; i++) {
             chars.push(new CharNewline());
