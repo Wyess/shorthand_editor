@@ -18,7 +18,7 @@ Lexer.prototype.error = function() {
 };
 
 Lexer.prototype.command = function() {
-  var result = this.currentChar;
+  let result = this.currentChar;
   this.advance();
   while ((this.currentChar !== null) && /[a-z{}_\d.,-]+/.test(this.currentChar)) {
     result += this.currentChar;
@@ -49,7 +49,7 @@ Lexer.prototype.peek = function(dp) {
 };
 
 Lexer.prototype.atomicSequence = function() {
-  var result = this.currentChar;
+  let result = this.currentChar;
   this.advance();
   while (this.pos < this.text.length && /[ゃゅょぁぃぅぇぉーんャュョァィゥェォン]/.test(this.currentChar)) {
     result += this.currentChar;
@@ -114,7 +114,7 @@ Parser.prototype.factor = function() {
   const token = this.currentToken;
   if (token.type === "LPAREN") {
     this.eat("LPAREN");
-    var seq = "";
+    let seq = "";
     while (this.currentToken !== null && this.currentToken.type == "ATOMIC_SEQUENCE") {
       seq += this.currentToken.value;
       this.eat("ATOMIC_SEQUENCE");
@@ -139,7 +139,7 @@ Parser.prototype.string = function() {
 };
 
 Parser.prototype.page = function() {
-  var token = this.currentToken;
+  let token = this.currentToken;
   const result = [];
   if (token.type != "COMMAND") {
     result.push(this.string()); 
@@ -157,20 +157,20 @@ Parser.prototype.parse = function() {
 
 function parseInputTexts(texts) {
   const charsArray = [];
-  var shorthand = "none";
+  let shorthand = "none";
 
   texts.forEach(function(text) {
     const lexer = new Lexer(text);
     const parser = new Parser(lexer);
     const items = parser.parse(); 
     const chars = [];
-    for (var i = 0; i < items.length; i++) {
+    for (let i = 0; i < items.length; i++) {
       if (Array.isArray(items[i])) {
-        for (var j = 0; j < items[i].length; j++) {
+        for (let j = 0; j < items[i].length; j++) {
           const tok = items[i][j];
 
           if (shorthand == "none") {
-            var s = "";
+            let s = "";
             while (j < items[i].length) {
               if (items[i][j] == "\n") {
                 if (s != "") {
@@ -186,24 +186,20 @@ function parseInputTexts(texts) {
             if (s != "") {
               chars.push(new CharText(s));
             }
+          } else if (table[shorthand]?.dictionary[tok]) {
+            const names = table[shorthand]?.dictionary[tok].split(" ");
+            for (const name of names) {
+              chars.push(new CharBase(name, table[shorthand]));
+            }
           } else if (Char.dict[tok]) {
             chars.push(new Char.dict[tok]());
-          } else if (tok != "") {
-            if (Char.catalog[shorthand]) {
-              let entry = Char.catalog[shorthand][tok];
-              if (Array.isArray(entry)) {
-                entry.forEach(function(ctor) { chars.push(new ctor()); });
-              } else {
-                chars.push(new entry());
-              }
-            } else {
-                chars.push(new CharText("\u25A1"));
-            }
+          } else {
+            chars.push(new CharText("\u25A1"));
           }
         }
       } else {
         items[i] = items[i].substring(1);
-        var match;
+        let match;
         if ((match = items[i].match(/^([hv])sp(?:ace)?{(-?\d+(?:\.\d+)?)}/)) !== null) {
           if (match[1] == "h") {
             chars.push(new CharRight(parseFloat(match[2])));
@@ -222,7 +218,7 @@ function parseInputTexts(texts) {
           chars.push(new CharSpeed(parseFloat(match[1]) / 1000));
         } else if ((match = items[i].match(/^br{([1-9]\d*)}/)) !== null) {
           const n = parseInt(match[1]);
-          for (var i = 0; i < n; i++) {
+          for (let i = 0; i < n; i++) {
             chars.push(new CharNewline());
           }
         }
