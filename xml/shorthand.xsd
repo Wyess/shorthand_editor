@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="shorthand">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element ref="dictionary" />
+        <xs:element ref="characters" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="dictionary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="entry" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="entry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="index" />
+        <xs:element ref="characterNames" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="index">
+    <xs:simpleType>
+      <xs:list itemType="xs:string" />
+    </xs:simpleType>
+  </xs:element>
+
+  <xs:element name="characterNames">
+    <xs:simpleType>
+      <xs:list itemType="xs:string" />
+    </xs:simpleType>
+  </xs:element>
+
+  <xs:element name="characters">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="character" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="character">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element name="description" type="xs:string" />
+        <xs:element name="model" type="xs:string" />
+        <xs:element name="head" type="xs:string" />
+        <xs:element name="tail" type="xs:string" />
+        <xs:element name="headModel" type="xs:string" />
+        <xs:element name="tailModel" type="xs:string" />
+        <xs:element name="color" type="xs:string" minOccurs="0" />
+        <xs:element name="bold" type="xs:boolean" minOccurs="0" />
+        <xs:element ref="bbox" minOccurs="0" />
+        <xs:element name="offsetX" type="xs:float" />
+        <xs:element name="offsetY" type="xs:float" />
+        <xs:element name="right" type="xs:float" minOccurs="0"/>
+        <xs:element ref="glyph" minOccurs="0" maxOccurs="unbounded" />
+        <xs:element ref="substitution" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="bbox">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="minX" type="xs:float" />
+        <xs:element name="maxX" type="xs:float" />
+        <xs:element name="minY" type="xs:float" />
+        <xs:element name="maxY" type="xs:float" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="substitution">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="type" type="xs:string" />
+        <xs:element name="target" type="xs:string" maxOccurs="unbounded" />
+        <xs:element name="by" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sub" substitutionGroup="substitution" />
+
+  <xs:element name="glyph">
+    <xs:complexType>
+      <xs:all>
+        <xs:element ref="key" />
+        <xs:element name="refKey" type="xs:string" minOccurs="0" />
+        <xs:element name="path" type="xs:string" />
+        <xs:element name="pathExtra" type="xs:string" minOccurs="0" />
+        <xs:element name="entryX" type="xs:float" minOccurs="0" />
+        <xs:element name="entryY" type="xs:float" minOccurs="0" />
+        <xs:element name="exitX" type="xs:float" minOccurs="0"/>
+        <xs:element name="exitY" type="xs:float" minOccurs="0"/>
+        <xs:element ref="bbox" minOccurs="0" />
+        <xs:element name="length" type="xs:float" minOccurs="0" />
+        <xs:element name="model" type="xs:string" minOccurs="0" />
+        <xs:element name="head" type="xs:string" minOccurs="0" />
+        <xs:element name="tail" type="xs:string" minOccurs="0" />
+        <xs:element name="headModel" type="xs:string" minOccurs="0" />
+        <xs:element name="tailModel" type="xs:string" minOccurs="0" />
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="key">
+    <xs:simpleType>
+      <xs:list itemType="xs:string" />
+    </xs:simpleType>
+  </xs:element>
+
+</xs:schema>
