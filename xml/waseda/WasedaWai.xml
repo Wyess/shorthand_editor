@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>わい</index>
+      <characterNames>WasedaWai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWai</name>
+      <description>わい</description>
+      <model>CR4CR1</model>
+      <head>CR</head>
+      <tail>SWRCR</tail>
+      <headModel>CR4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.5</offsetX>
+      <offsetY>2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaSai)_X</key>
+        <path> M 0.000000 0.000000 c 1.038350 -0.845361 3.112120 -2.464350 4.340620 -1.543060 c 0.633337 0.474961 0.393787 1.783570 -0.136912 2.370990 c -0.731323 0.809488 -2.304490 1.093540 -3.231440 0.518348 c -0.461699 -0.286493 -0.717293 -1.404500 -0.483286 -1.556800 c 0.549667 -0.357742 1.536400 0.810466 1.030120 1.783860</path>
+        <exitX>1.51909</exitX>
+        <exitY>1.57335</exitY>
+        <length>15.328</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c -1.058960 -0.295582 -1.637690 -1.225760 -1.395360 -2.238310 c 0.242336 -1.012550 1.268190 -1.899520 2.254770 -1.835030 c 0.986574 0.064472 1.715320 0.498592 1.783710 1.858060 c 0.054753 1.088320 -0.794309 2.004450 -1.680040 2.167430 c -0.286239 0.052671 -0.702538 0.136749 -0.837521 -0.107656 c -0.354191 -0.641309 0.799393 -0.590684 1.998040 -0.590684</path>
+        <exitX>2.12359</exitX>
+        <exitY>-0.74619</exitY>
+        <length>15.274</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -1.058960 -0.295582 -1.637690 -1.225760 -1.395360 -2.238310 c 0.242336 -1.012550 1.268190 -1.899520 2.254770 -1.835030 c 0.986574 0.064472 1.715320 0.498592 1.783710 1.858060 c 0.054753 1.088320 -0.794309 2.004450 -1.680040 2.167430 c -0.286239 0.052671 -0.640095 0.089770 -0.837521 -0.107656 c -0.563004 -0.563004 0.432711 -1.023470 1.356930 -0.075497</path>
+        <exitX>1.48248</exitX>
+        <exitY>-0.231002</exitY>
+        <length>15.018</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

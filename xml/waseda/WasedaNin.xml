@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>にん</index>
+      <characterNames>WasedaNin</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNin</name>
+      <description>にん</description>
+      <model>EL8CL1E1F</model>
+      <head>EL</head>
+      <tail>EF</tail>
+      <headModel>EL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.192000 0.628500 7.941000 1.912700 7.941000 0.000000 c -0.110000 -0.692500 -1.102550 -0.657626 -1.319550 -0.212326 c -0.286000 0.587000 0.642552 0.402926 1.297550 0.402926 h 1.500000</path>
+        <exitX>11.419</exitX>
+        <exitY>0.1906</exitY>
+        <length>13.392</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

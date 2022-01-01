@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>思い出す</index>
+      <characterNames>WasedaO WasedaMoJoshi WasedaOmoidasuP WasedaSu</characterNames>
+    </entry>
+    <entry>
+      <index>思い出さ</index>
+      <characterNames>WasedaO WasedaMoJoshi WasedaOmoidasuP WasedaSa</characterNames>
+    </entry>
+    <entry>
+      <index>思い出して</index>
+      <characterNames>WasedaO WasedaMoJoshi WasedaOmoidasuP WasedaShite</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaOmoidasuP</name>
+      <description>思い出ｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_N(WasedaShite)</key>
+        <path>M0, 0</path>
+        <entryX>3</entryX>
+        <entryY>-5.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaShita)</key>
+        <path>M0, 0</path>
+        <entryX>3</entryX>
+        <entryY>-5.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaSareP)</key>
+        <path>M0, 0</path>
+        <entryX>2</entryX>
+        <entryY>-10</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M0, 0</path>
+        <entryX>-0.3</entryX>
+        <entryY>-1.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

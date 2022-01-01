@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>せず</index>
+      <characterNames>WasedaSezu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSezu</name>
+      <description/>
+      <model>CR1</model>
+      <head>CR</head>
+      <tail>CR</tail>
+      <headModel>CR1</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c -0.464098 0.000000 -0.537361 -0.383642 -0.517103 -0.663243 c 0.018148 -0.250487 0.293070 -0.529720 0.544069 -0.521198 c 0.228126 0.007750 0.448088 0.278271 0.461222 0.506150 c 0.016029 0.278107 -0.163556 0.678291 -0.488188 0.678291</path>
+        <entryX>2.828</entryX>
+        <entryY>2.828</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <bbox>
+          <minX>-0.52</minX>
+          <maxX>0.489</maxX>
+          <minY>-1.185</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>3.451</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

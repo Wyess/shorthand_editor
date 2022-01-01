@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しき</index>
+      <characterNames>WasedaShiki</characterNames>
+    </entry>
+  </dictionary>
+    <entry>
+      <index>ひき</index>
+      <characterNames>WasedaShiki</characterNames>
+    </entry>
+  <characters>
+    <character>
+      <name>WasedaShiki</name>
+      <description>しき</description>
+      <model>SWL16F</model>
+      <head>SWL</head>
+      <tail>SWLF</tail>
+      <headModel>SWL16</headModel>
+      <tailModel>SWL16F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>6.9</offsetX>
+      <offsetY>-7.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -3.255200 3.255200 -7.651290 11.181600 -6.761890 14.500900 M -6.761890 16.500900</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-6.762</exitX>
+        <exitY>16.501</exitY>
+        <length>16.411</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -3.255200 3.255200 -7.651290 11.181600 -6.761890 14.500900 M -6.761890 16.500900</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-6.762</exitX>
+        <exitY>16.501</exitY>
+        <length>16.411</length>
+      </glyph>
+      <glyph>
+        <key>T(NEL)_X</key>
+        <path> M 0.000000 0.000000 c -2.301770 3.986790 -6.021620 11.835200 -5.132230 15.154500 M -4.784930 17.124100</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4.785</exitX>
+        <exitY>17.124</exitY>
+        <length>16.243</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(NELCL4)_X</target>
+        <by>T(NEL)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>T(NELCL8)_X</target>
+        <by>T(NEL)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>T(ECL)_X</target>
+        <by>T(NEL)_X</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

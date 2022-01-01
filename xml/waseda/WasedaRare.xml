@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>かれ たれ なれ はれ まれ られ われ</index>
+      <characterNames>WasedaRare WasedaWa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRare</name>
+      <description>られｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>2.121320343559643</exitX>
+        <exitY>2.1213203435596424</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

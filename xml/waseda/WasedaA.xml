@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>あ</index>
+      <characterNames>WasedaA</characterNames>
+    </entry>
+    <entry>
+      <index>あき</index>
+      <characterNames>WasedaWa WasedaKoi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaA</name>
+      <description>あ</description>
+      <model>EL4</model>
+      <head>EL</head>
+      <tail>EL</tail>
+      <headModel>EL4</headModel>
+      <tailModel>EL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 1.4551 0.7737 4.4424 1.65126 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>m 0 0 c 1.4551 0.7737 4.4424 1.65126 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(SWL)</key>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(WL)</key>
+        <path>m 0 0 c 1.0195 0.5421 2.8872 0.3191 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(XSW)</key>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 1.02161 0.5432 2.89547 0.3589 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER4)</key>
+        <path>m0 0 c1.04821 0.5574 2.97476 0.5919 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>m0 0 c1.0298 0.5475 2.9223 0.4575 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0c 1.45511 0.773700000000002 3.78509 1.2188 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaKa)</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 4.465441 1.948222 4.465441 0.048994</path>
+        <exitX>4.465</exitX>
+        <exitY>0.049</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.465</maxX>
+          <minY>0</minY>
+          <maxY>1.075</maxY>
+        </bbox>
+        <length>5.279</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

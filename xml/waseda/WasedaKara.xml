@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>から</index>
+      <characterNames>WasedaKara</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKara</name>
+      <description>から</description>
+      <model>SER4F</model>
+      <head>SER</head>
+      <tail>SERF</tail>
+      <headModel>SER4</headModel>
+      <tailModel>SER4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(SE)_X</key>
+        <path> M 0.000000 0.000000 c 1.997140 0.000000 2.611610 2.405000 2.000000 3.464000</path>
+        <exitX>1.15811</exitX>
+        <exitY>5.27817</exitY>
+        <length>4.735</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.131930 0.793000 2.611610 2.405000 2.000000 3.464000</path>
+        <exitX>1.15811</exitX>
+        <exitY>5.27817</exitY>
+        <length>4.302</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

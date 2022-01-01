@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>おー</index>
+      <characterNames>WasedaOu</characterNames>
+    </entry>
+    <entry>
+      <index>おと</index>
+      <characterNames>WasedaOu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaOu</name>
+      <description>おー</description>
+      <model>SW4CL1</model>
+      <head>SW</head>
+      <tail>SWCL</tail>
+      <headModel>SW4</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.3</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(SEL4)</key>
+        <path> M 0.000000 0.000000 l -1.206330 3.298360 c -0.238496 0.652099 0.259355 0.895874 0.522354 0.688314 c 0.329153 -0.259770 0.049034 -1.439730 0.006282 -2.133720</path>
+        <exitX>-0.677694</exitX>
+        <exitY>1.85296</exitY>
+        <length>6.893</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <path> M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.317250 0.780097 0.599162 0.599057 c 0.341655 -0.219407 0.382828 -0.854039 0.130837 -0.998954 c -0.206058 -0.118499 -0.558219 -0.032086 -0.709644 0.084191</path>
+        <exitX>-1.18598</exitX>
+        <exitY>2.98265</exitY>
+        <length>6.723</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SR)</key>
+        <path> M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.516589 0.902107 0.753496 0.665200 c 0.320144 -0.320144 -0.207749 -1.040720 -0.457771 -1.473780</path>
+        <exitX>-0.910605</exitX>
+        <exitY>2.48978</exitY>
+        <length>6.623</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.145806 3.164014 c -0.315744 0.871891 0.490497 0.872760 0.753496 0.665200 c 0.329153 -0.259770 -0.134344 -0.988445 -0.590566 -1.110690</path>
+        <exitX>-0.983</exitX>
+        <exitY>2.719</exitY>
+        <length>6.284</length>
+        <bbox>
+          <minX>-1.218</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>3.943</maxY>
+        </bbox>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SWL4)</target>
+        <by>X_HM(SWL8)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ながら</index>
+      <characterNames>WasedaNagara</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNagara</name>
+      <description>ながら</description>
+      <model>EL8</model>
+      <head>EL</head>
+      <tail>EL</tail>
+      <headModel>EL8</headModel>
+      <tailModel>EL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.040730 0.663100 7.678210 1.825000 8.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.497</length>
+      </glyph>
+      <glyph>
+        <key>X_H()</key>
+        <path> M 0.000000 0.000000 c 2.040730 0.663100 7.678210 1.825000 8.000000 0.000000 M 4.423791 -1.500000 v 0.100000 h -0.100000 v -0.100000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.324</exitX>
+        <exitY>-1.5</exitY>
+        <length>8.797</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

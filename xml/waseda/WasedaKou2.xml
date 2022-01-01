@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>コー</index>
+      <characterNames>WasedaKou2</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKou2</name>
+      <description>コー</description>
+      <model>E4P</model>
+      <head>E</head>
+      <tail>P</tail>
+      <headModel>E4</headModel>
+      <tailModel>E4P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0 0 h 4M 2 0 v 1.5</path>
+        <exitX>2</exitX>
+        <exitY>1.5</exitY>
+        <length>5.5</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL) X_H(S) X_H(SL) X_H(SE)</key>
+        <path>M 0 0 h 4M 2 0</path>
+        <exitX>2</exitX>
+        <exitY>0.2</exitY>
+        <length>4</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

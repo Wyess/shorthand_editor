@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぎゃ</index>
+      <characterNames>WasedaGya</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaGya</name>
+      <description>ぎゃ</description>
+      <model>SL8</model>
+      <head>SL</head>
+      <tail>SL</tail>
+      <headModel>SL8</headModel>
+      <tailModel>SL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.1</offsetX>
+      <offsetY>-4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m -2.5,3.997611 v 0.1</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaKya</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

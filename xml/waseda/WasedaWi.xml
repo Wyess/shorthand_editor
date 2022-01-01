@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ゐ うぃ 悪</index>
+      <characterNames>WasedaWi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWi</name>
+      <description>ゐ</description>
+      <model>UWL4CL1</model>
+      <head>WL</head>
+      <tail>SELCL</tail>
+      <headModel>UWL4</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -0.975201 0.2797 -1.83318 1.0997 -1.83318 2.1089 c 0 0.729097 0.64032 1.23553 1.39113 1.26735 c 0.144706 0.00613 0.686894 -0.092681 0.811994 -0.361208 c 0.083796 -0.179869 0.024398 -0.511852 -0.164678 -0.572061 c -0.437816 -0.139418 -0.770985 0.367481 -1.07707 0.860232</path>
+        <exitX>-0.871804</exitX>
+        <exitY>3.30322</exitY>
+        <length>8.136</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>M 0.000000 0.000000 c -0.975201 0.279700 -1.887338 1.179049 -1.833180 2.108900 c 0.036474 0.626227 0.640320 1.235530 1.391130 1.267350 c 0.144706 0.006130 1.004981 -0.163022 0.951392 -0.520520 c -0.065607 -0.437674 -1.099741 -0.662180 -1.300417 -0.267729 c -0.162927 0.320252 0.285172 0.558996 0.797335 0.725409</path>
+        <exitX>0.006</exitX>
+        <exitY>3.313</exitY>
+        <bbox>
+          <minX>-1.835</minX>
+          <maxX>0.512</maxX>
+          <minY>0</minY>
+          <maxY>3.376</maxY>
+        </bbox>
+        <length>8.99</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.729097 0.640320 1.235530 1.391130 1.267350 c 0.144706 0.006130 0.641371 -0.005950 0.781232 -0.407351 c 0.100582 -0.288668 -0.068285 -0.852513 -0.373607 -0.837516 c -0.436724 0.021451 -0.414426 0.679881 -0.414426 1.244566</path>
+        <exitX>-0.449</exitX>
+        <exitY>3.376</exitY>
+        <bbox>
+          <minX>-1.833</minX>
+          <maxX>0.368</maxX>
+          <minY>0</minY>
+          <maxY>3.377</maxY>
+        </bbox>
+        <length>8.489</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

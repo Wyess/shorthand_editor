@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>と変</index>
+      <characterNames>WasedaToHenki</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaToHenki</name>
+      <description>と</description>
+      <model>SW16</model>
+      <head>SW</head>
+      <tail>SW</tail>
+      <headModel>SW16</headModel>
+      <tailModel>SW16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-6.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 l -6.761880 14.500900 l 0.623668 -0.781689</path>
+        <exitX>-6.13821</exitX>
+        <exitY>13.7192</exitY>
+        <length>17</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -6.761880 14.500900</path>
+        <exitX>-6.76188</exitX>
+        <exitY>14.5009</exitY>
+        <length>16</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

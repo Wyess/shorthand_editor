@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぴ</index>
+      <characterNames>WasedaPi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPi</name>
+      <description>ぴ</description>
+      <model>SWL8NEL4CL1</model>
+      <head>SWL</head>
+      <tail>NELCL</tail>
+      <headModel>SWL8</headModel>
+      <tailModel>NEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.3</offsetX>
+      <offsetY>-3.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(NEL8)</key>
+        <path>m 0 0 c -1.69793 0.980301 -5.58539 5.17009 -3.75382 7.13783 c 0.860217 0.924168 3.46997 -0.101931 3.46997 -1.51851 c 0 -1.28493 -1.53767 -0.132568 -1.45366 0.35946 c 0.077479 0.453794 0.649379 0.288293 1.37475 -0.132101</path>
+        <exitX>-0.36276</exitX>
+        <exitY>5.84668</exitY>
+        <length>17.242</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c -1.69793 0.980301 -5.58539 5.17009 -3.75382 7.13783 c 0.860217 0.924168 3.38493 0.010715 3.75157 -1.3576 c 0.224221 -0.836807 -0.372502 -0.95893 -0.722941 -0.092971 c -0.228753 0.565266 -0.438365 1.08966 -0.573869 1.46194</path>
+        <exitX>-1.29906</exitX>
+        <exitY>7.1492</exitY>
+        <length>16.621</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c -1.69793 0.980301 -5.58539 5.17009 -3.75382 7.13783 c 0.860217 0.924168 3.10333 -0.1502 3.46997 -1.51851 c 0.344272 -1.28484 -0.756203 -1.42628 -0.756203 -0.376163 c 0 0.587397 -0.00612 1.06563 -0.00612 1.49405</path>
+        <exitX>-1.04617</exitX>
+        <exitY>6.73721</exitY>
+        <length>16.880</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -1.69793 0.980301 -5.58539 5.17009 -3.75382 7.13783 c 0.860217 0.924168 3.10333 -0.1502 3.46997 -1.51851 c 0.344272 -1.28484 -1.34164 -0.918359 -1.04664 -0.386159 c 0.2937 0.5087 0.455416 0.726511 0.672616 1.10271</path>
+        <exitX>-0.657873</exitX>
+        <exitY>6.33586</exitY>
+        <length>16.584</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

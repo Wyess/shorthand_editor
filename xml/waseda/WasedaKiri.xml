@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>_きり</index>
+      <characterNames>WasedaKiri</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKiri</name>
+      <description>きり</description>
+      <model>E8F</model>
+      <head>E</head>
+      <tail>EF</tail>
+      <headModel>E8</headModel>
+      <tailModel>E8F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(VERTICAL)_X</key>
+        <path> M 0.000000 0.000000 v 8.000000 M0 10</path>
+        <exitX>0</exitX>
+        <exitY>10</exitY>
+        <length>8</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 8.000000 M10 0</path>
+        <exitX>10</exitX>
+        <exitY>0</exitY>
+        <length>8</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

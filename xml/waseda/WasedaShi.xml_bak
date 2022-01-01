@@ -1,0 +1,318 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>し</index>
+      <characterNames>WasedaShi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShi</name>
+      <description>し</description>
+      <model>NEL8CL1</model>
+      <head>NEL</head>
+      <tail>NELCL</tail>
+      <headModel>NEL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaWa)_X</key>
+        <path>m 0 0 c 2.329 0 5.822 -2.5835 5.822 -4.885 c 0 -1.0555 -1.255 -0.8817 -0.961 -0.3497 c 0.294 0.5087 0.464 0.8257 0.681 1.2018</path>
+        <exitX>5.542</exitX>
+        <exitY>-4.0329</exitY>
+        <length>11.348</length>
+      </glyph>
+      <glyph>
+        <key/>
+        <path>m 0 0 c 0 2.8227 -1.5507 6.9282 -4 6.9282 c -0.986698 0 -0.163299 -1.24644 0.460708 -1.11788 c 0.350561 0.072219 0.184204 0.50213 -0.023758 1.0735</path>
+        <exitX>-3.56305</exitX>
+        <exitY>6.88382</exitY>
+        <length>11.852</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.2616 -0.865 -0.9666 -0.3328 c 0.2937 0.5087 0.554514 0.86223 0.771714 1.23843</path>
+        <exitX>5.54091</exitX>
+        <exitY>-4.08037</exitY>
+        <length>11.180</length>
+        <head>SWR</head>
+        <tail>SWRCR</tail>
+        <model>SWR8CR1</model>
+        <headModel>SWR8</headModel>
+        <tailModel>CR1</tailModel>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaSei)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.52693 -0.174994 -1.51384 0.342184 c 0.012252 0.484157 0.938514 0.248248 1.43157 0.248248</path>
+        <exitX>5.65353</exitX>
+        <exitY>-4.39557</exitY>
+        <length>11.729</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaWa)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -0.657799 0.039061 -0.796229 0.599568 c -0.144419 0.584756 -0.294602 1.10417 -0.442781 1.65718</path>
+        <exitX>4.49679</exitX>
+        <exitY>-2.72925</exitY>
+        <length>11.409</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaAi)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.448935 -0.205316 -0.686914 -0.483073 -0.679334 c -0.310031 0.00846 -0.535049 0.478739 -0.49705 0.786549 c 0.027336 0.221428 0.262501 0.48478 0.484431 0.461871 c 0.285021 -0.029422 0.36026 -0.357185 0.487857 -0.707759</path>
+        <exitX>5.72797</exitX>
+        <exitY>-5.12467</exitY>
+        <length>11.521</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NE4)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.299445 -0.270788 -0.782467 -0.764515 -0.497413 c -0.797323 0.460334 -0.562742 1.42675 0.12707 0.943749 l 0.637446 -0.446336</path>
+        <exitX>5.7358</exitX>
+        <exitY>-4.986</exitY>
+        <length>11.643</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER25)</key>
+        <path>m 0 0 c 2.048 -1.0891 5.714 -2.6744 5.714 -4.9675 c 0 -1.0513 -1.71352 0.204855 -1.48458 0.774343 c 0.171941 0.427703 0.731581 0.160232 1.40677 -0.198933</path>
+        <exitX>5.63619</exitX>
+        <exitY>-4.39209</exitY>
+        <length>11.894</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NE25)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.35193 0.271939 -1.18083 0.695492 c 0.146241 0.362006 0.508587 0.168003 1.13894 -0.273374</path>
+        <exitX>5.69391</exitX>
+        <exitY>-4.56388</exitY>
+        <length>11.354</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SE25)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.74292 -0.178309 -1.08999 0.278874 c 0.391298 0.27399 0.355754 0.255855 0.8951 0.626756</path>
+        <exitX>5.54091</exitX>
+        <exitY>-4.08037</exitY>
+        <length>11.104</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER4)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.31627 0.00452 -1.25546 0.444253 c 0.054513 0.39417 0.276192 0.60615 1.19123 0.077846</path>
+        <exitX>5.67157</exitX>
+        <exitY>-4.4639</exitY>
+        <length>11.434</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <path>m 0 0 c 2.0364 -1.1288 6.61152 -3.46758 5.82606 -4.82805 c -0.188428 -0.326367 -0.568436 0.229001 -0.920036 0.882755 c -0.302308 0.562103 -0.583614 1.19694 -0.704088 1.40659</path>
+        <exitX>4.20193</exitX>
+        <exitY>-2.53871</exitY>
+        <length>10.984</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL16)</key>
+        <path>m 0 0 c 2.0364 -1.14419 5.7358 -2.72101 5.7358 -5.054 c 0 -1.02193 -1.45307 0.333932 -1.28715 0.81363 c 0.128881 0.372623 0.766584 0.106635 1.17666 -0.12078</path>
+        <exitX>5.62531</exitX>
+        <exitY>-4.36115</exitY>
+        <length>11.490</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SL8)</key>
+        <path>m 0 0 c 2.0364 -1.1288 6.15362 -3.58194 5.86957 -4.64202 c -0.332846 -1.2422 -1.20836 1.1898 -1.37406 1.7804</path>
+        <exitX>4.49551</exitX>
+        <exitY>-2.86162</exitY>
+        <length>10.593</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NE8)</key>
+        <path>m 0 0 c 2.02885 -1.1246 5.8001 -2.5739 5.8001 -4.8669 c 0 -0.3853 -0.1734 -0.6318 -0.42922 -0.6363 c -0.42275 -0.0148 -1.00026 0.6628 -0.76372 1.0135 c 0.2436 0.3479 0.80621 -0.0962 1.19294 -0.3772</path>
+        <exitX>5.8001</exitX>
+        <exitY>-4.8669</exitY>
+        <length>11.587</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path>m 0 0 c 2.029 -1.1245 5.715 -2.6746 5.715 -4.9675 c 0 -1.0512 -1.26883 -0.303688 -1.38662 0.145897 c -0.12096 0.461707 0.48417 0.350264 1.16762 0.828803</path>
+        <exitX>5.496</exitX>
+        <exitY>-3.9928</exitY>
+        <length>11.458</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>m 0 0 c 2.0483 -1.089 5.7144 -2.675 5.7144 -4.968 c 0 -1.051 -1.85423 0.39838 -1.48776 0.84133 c 0.270309 0.32672 0.946121 -0.13381 1.42562 -0.32678</path>
+        <exitX>5.65226</exitX>
+        <exitY>-4.45345</exitY>
+        <length>11.881</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 2.048 -1.0891 5.714 -2.6744 5.714 -4.9675 c 0 -1.0513 -1.76858 0.481566 -1.48458 1.01677 c 0.217 0.4067 0.60465 0.182666 1.29158 -0.06737</path>
+        <exitX>5.521</exitX>
+        <exitY>-4.0181</exitY>
+        <length>11.842</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL4)</key>
+        <path>m 0 0 c 2.0287 -1.125 5.714 -2.674 5.714 -4.967 c 0 -0.783 -0.954712 -0.87673 -1.19163 -0.51468 c -0.280674 0.42892 0.291945 0.60713 1.12395 1.04952</path>
+        <exitX>5.64632</exitX>
+        <exitY>-4.43216</exitY>
+        <length>11.301</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>m 0 0 c 2.0287 -1.125 5.714 -2.674 5.714 -4.967 c 0 -0.783 -1.09944 -0.73983 -1.288 -0.338 c -0.21246 0.45274 0.52932 0.67484 1.22032 0.87284</path>
+        <exitX>5.64632</exitX>
+        <exitY>-4.43216</exitY>
+        <length>11.318</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.603618 -1.0754 -0.710859 -1.27104 -0.32019 c -0.226056 0.451418 0.184781 0.725617 1.17602 0.95441</path>
+        <exitX>5.64078</exitX>
+        <exitY>-4.35178</exitY>
+        <length>11.317</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SW16)</key>
+        <path>m 0 0 c 2.051 -1.0904 5.90172 -3.66043 5.47632 -4.90729 c -0.29744 -0.87182 -0.66854 0.15315 -1.50919 2.26515</path>
+        <exitX>3.96713</exitX>
+        <exitY>-2.64214</exitY>
+        <length>10.945</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SE4)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7357 -2.6844 5.7357 -4.986 c 0 -1.0553 -1.6709 -0.490506 -1.22223 -0.05835 c 0.429694 0.413884 0.715952 0.666501 1.02312 0.973662</path>
+        <exitX>5.53659</exitX>
+        <exitY>-4.07069</exitY>
+        <length>11.344</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER16)</key>
+        <path>m 0 0 c 2.02871 -1.1246 5.71446 -2.6746 5.71446 -4.9675 c 0 -0.265858 -0.08892 -0.431175 -0.263762 -0.506244 c -0.337411 -0.144868 -0.944374 0.01417 -1.05888 0.30377 c -0.167123 0.422698 0.337271 0.267451 1.24107 0.789257</path>
+        <exitX>5.63289</exitX>
+        <exitY>-4.38072</exitY>
+        <length>11.304</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NER8)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.448935 -0.205316 -0.686914 -0.483073 -0.679334 c -0.310031 0.00846 -0.535049 0.478739 -0.49705 0.786549 c 0.027336 0.221428 0.262501 0.48478 0.484431 0.461871 c 0.285021 -0.029422 0.36026 -0.357185 0.487857 -0.707759</path>
+        <exitX>5.72797</exitX>
+        <exitY>-5.12467</exitY>
+        <length>11.521</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SW8)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -0.575586 0.00631 -0.684364 0.294391 c -0.185986 0.492562 -0.441267 1.09343 -0.861131 2.2225</path>
+        <exitX>4.19031</exitX>
+        <exitY>-2.46911</exitY>
+        <length>11.776</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL8)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.998414 -1.25738 -0.193443 -1.25842 0.265386 c -0.00119 0.52533 0.689589 0.420561 1.23142 0.073869</path>
+        <exitX>5.70879</exitX>
+        <exitY>-4.64675</exitY>
+        <length>11.359</length>
+      </glyph>
+      <glyph>
+        <key>X_H(BNER)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.2616 -0.865 -0.9666 -0.3328 c 0.2937 0.5087 1.01635 1.72529 0.555922 2.52277</path>
+        <exitX>5.32512</exitX>
+        <exitY>-2.79603</exitY>
+        <length>12.418</length>
+      </glyph>
+      <glyph>
+        <key>X_H(BSW)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -1.26634 -0.854586 -1.37904 -0.102347 c -0.048786 0.325637 0.341603 0.53441 0.833318 0.29518 c 0.399251 -0.194244 0.865303 -0.683843 1.2173 -1.64605</path>
+        <exitX>6.40739</exitX>
+        <exitY>-6.43922</exitY>
+        <length>13.265</length>
+      </glyph>
+      <glyph>
+        <key>X_H(BE)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -0.998414 -1.24668 -0.097504 -1.41641 0.344383 c -0.154914 0.403301 0.22831 0.762397 0.779042 0.290633 c 0.264355 -0.22645 0.981207 -1.09945 -0.572851 -1.09945</path>
+        <exitX>4.52558</exitX>
+        <exitY>-5.45043</exitY>
+        <length>13.181</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 2.03644 -1.1288 5.73582 -2.6844 5.73582 -4.9861 c 0 -1.4267 -2.31267 0.3404 -1.32461 0.3404 c 0.39983 -0.0209 0.89846 0.01561 1.29828 -0.0054</path>
+        <exitX>5.70949</exitX>
+        <exitY>-4.6511</exitY>
+        <length>11.783</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>m 0 0 c 2.029 -1.1246 5.714 -2.6746 5.714 -4.9675 c 0 -1.0512 -0.493688 -0.439405 -0.597895 -0.192244 c -0.220322 0.522564 -0.176495 1.3193 -0.176495 1.9791</path>
+        <exitX>4.93961</exitX>
+        <exitY>-3.18064</exitY>
+        <length>11.160</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 2.0364 -1.1288 5.7358 -2.6844 5.7358 -4.986 c 0 -1.0553 -0.875132 -1.20076 -0.866937 0.031477 c 0.00305 0.457897 -0.00819 1.49344 -0.00819 1.86985</path>
+        <exitX>4.86067</exitX>
+        <exitY>-3.08467</exitY>
+        <length>11.897</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target/>
+        <by/>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_N(WasedaSai)</target>
+        <by>X_N(WasedaSei)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SER4)</target>
+        <by>X_HM(SER8)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SW4)</target>
+        <by>X_HM(SW16)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SW8)</target>
+        <by>X_HM(SW16)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SE3)</target>
+        <by>X_HM(SE4)</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>ELCL4</target>
+        <target>NELCL4</target>
+        <target>ECL4</target>
+        <target>SERCL4</target>
+        <target>ECL</target>
+        <target>NE</target>
+        <target>NEP</target>
+        <target>E</target>
+        <target>SEL4</target>
+        <target>EP</target>
+        <target>ECL4P</target>
+        <target>NECLP</target>
+        <target>NELCL8</target>
+        <target>ELONL</target>
+        <target>NWR</target>
+        <target>ER_P</target>
+        <target>HENKI_SA</target>
+        <target>NERB</target>
+        <target>NEOWLB</target>
+        <target>NEFB</target>
+        <target>NEB</target>
+        <by>R</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

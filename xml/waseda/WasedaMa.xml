@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ま</index>
+      <characterNames>WasedaMa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMa</name>
+      <description>ま</description>
+      <model>ER8</model>
+      <head>ER</head>
+      <tail>ER</tail>
+      <headModel>ER8</headModel>
+      <tailModel>ER8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(EL4)</key>
+        <path>m 0 0 c 1.7244 -0.7319 6.3524 -0.876 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.143</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>m 0 0 c 3.04662 -1.29321 5.3976 -0.845528 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.209</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path>m 0 0 c 1.6813 -0.7137 4.98672 -0.773829 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.111</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path>m 0 0 c 3.1159 -1.322 9.4622 -2.088 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>9.298</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWR)</key>
+        <path>m 0 0 c 2.52091 -1.07 6.66667 -2.3094 8.00001 0</path>
+        <exitX>8.00001</exitX>
+        <exitY>0</exitY>
+        <length>8.641</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 2.52091 -1.07 8.24938 -1.30427 7.69679 0.758043</path>
+        <exitX>7.69679</exitX>
+        <exitY>0.758043</exitY>
+        <length>8.656</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0c 2.52091 -1.07 8.00001 -2.0823 8.00001 0</path>
+        <exitX>8.00001</exitX>
+        <exitY>0</exitY>
+        <length>8.752</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(SE)</target>
+        <by>X_H(SER)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(SER)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

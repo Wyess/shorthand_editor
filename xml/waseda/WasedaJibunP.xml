@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>自分</index>
+      <characterNames>WasedaShin WasedaJibunP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaJibunP</name>
+      <description/>
+      <model/>
+      <head/>
+      <tail/>
+      <headModel/>
+      <tailModel/>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <exitX>-4.7</exitX>
+        <exitY>3.5</exitY>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>な</index>
+      <characterNames>WasedaNa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNa</name>
+      <description>な</description>
+      <model>EL8</model>
+      <head>EL</head>
+      <tail>EL</tail>
+      <headModel>EL8</headModel>
+      <tailModel>EL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(ER4)</key>
+        <path>m 0 0c 2.665 0.8659 5.5867 1.3934 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.246</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>m 0 0c 2.6214 0.851800000000001 5.465 1.0761 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.175</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 2.5998 0.845 5.4003 0.845 8.0001 0</path>
+        <exitX>8.0001</exitX>
+        <exitY>0</exitY>
+        <length>8.133</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(UWL4)</key>
+        <path>m 0 0 c 1.52541 0.4956 5.35892 1.39161 8.00001 0</path>
+        <exitX>8.00001</exitX>
+        <exitY>0</exitY>
+        <length>8.192</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 2.04073 0.6631 7.08295 1.58837 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.345</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWL)</key>
+        <path>m 0 0 c 2.04073 0.6631 7.07342 1.60488 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.349</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>m 0 0 c 2.1847 0.7099 8.64983 2.42522 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.975</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0c 2.04073 0.6631 7.67821 1.825 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.497</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(NEL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なかｐ</index>
+      <characterNames>WasedaNakaP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakaP</name>
+      <description>なかｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaNoJoshi)_N(WasedaO)</key>
+        <path>M0,0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1</exitX>
+        <exitY>1.5</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaNoJoshi)_H(EL)</key>
+        <path>M0,0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1</exitX>
+        <exitY>1.3</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>しつ</index>
+      <characterNames>WasedaShitsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShitsu</name>
+      <description/>
+      <model>SW4F</model>
+      <head>SW</head>
+      <tail>SWF</tail>
+      <headModel>SW4</headModel>
+      <tailModel>SW4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.3</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.368100 3.758700 M -2.121304 5.611449</path>
+        <exitX>-2.121</exitX>
+        <exitY>5.611</exitY>
+        <bbox>
+          <minX>-1.368</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>3.759</maxY>
+        </bbox>
+        <length>4</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

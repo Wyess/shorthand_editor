@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>れき</index>
+      <characterNames>WasedaReki</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaReki</name>
+      <description>れき</description>
+      <model>SER8ONWR4</model>
+      <head>SER</head>
+      <tail>SERONWR</tail>
+      <headModel>SER8</headModel>
+      <tailModel>ONWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path> M 0.000000 0.000000 c 1.738210 1.003530 5.191850 4.992140 4.036350 6.979940 c -0.665037 1.144200 -1.958480 0.456122 -2.442030 0.026990 c -0.363908 -0.322953 -1.399530 -1.272510 -0.841531 -1.640110 c 0.278821 -0.074710 2.073790 1.542590 2.979820 1.984520</path>
+        <exitX>3.73261</exitX>
+        <exitY>7.35134</exitY>
+        <length>17.09</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SR)</key>
+        <path> M 0.000000 0.000000 l 4.588610 6.553220 l -0.789299 -0.447408</path>
+        <exitX>3.79931</exitX>
+        <exitY>6.10581</exitY>
+        <length>8.907</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c 1.738210 1.003530 5.191850 4.992140 4.036350 6.979940 c -0.665037 1.144200 -1.958480 0.456122 -2.442030 0.026990 c -0.363908 -0.322953 -1.476570 -1.734750 -0.918572 -2.102350 c 0.508900 -0.335300 1.668100 1.776000 2.281000 2.726400</path>
+        <exitX>2.95674</exitX>
+        <exitY>7.63097</exitY>
+        <length>17.61</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.738210 1.003530 5.191850 4.992140 4.036350 6.979940 c -0.665037 1.144200 -1.958480 0.456122 -2.442030 0.026990 c -0.363908 -0.322953 -1.476570 -1.734750 -0.918572 -2.102350 c 0.508900 -0.335300 1.668100 1.776000 2.281000 2.726400</path>
+        <exitX>2.95674</exitX>
+        <exitY>7.63097</exitY>
+        <length>17.61</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

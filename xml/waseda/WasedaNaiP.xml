@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ないｐ</index>
+      <characterNames>WasedaNaiP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNaiP</name>
+      <description>ないｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaWa)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.3</entryX>
+        <entryY>-1.3</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaTeJoshi)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaToJoshi)_X</key>
+        <path>M 0.000000 0.000000 l -1.026100 2.819000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.026</exitX>
+        <exitY>2.819</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_H(SW)</key>
+        <path>M 0.000000 0.000000 l -1.026100 2.819000 l 0.250000 -0.433000</path>
+        <entryX>-0.5</entryX>
+        <entryY>-1.4</entryY>
+        <exitX>-0.776</exitX>
+        <exitY>2.386</exitY>
+        <length>3.5</length>
+      </glyph>
+      <glyph>
+        <key>T(S)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0.5</entryX>
+        <entryY>-3</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SCL)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0.5</entryX>
+        <entryY>-1.4</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.5</entryX>
+        <entryY>-1.4</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SWR)_X</key>
+        <path>M 0.000000 0.000000 l 2.598100 1.500000</path>
+        <entryX>0</entryX>
+        <entryY>-1.6</entryY>
+        <exitX>2.598</exitX>
+        <exitY>1.5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path>M 0.000000 0.000000 l 2.819100 1.026000</path>
+        <entryX>-0.7</entryX>
+        <entryY>-2.2</entryY>
+        <exitX>2.819</exitX>
+        <exitY>1.026</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(SE)_X</key>
+        <path>M 0.000000 0.000000 l -2.298100 1.928500</path>
+        <entryX>0.5</entryX>
+        <entryY>-2</entryY>
+        <exitX>-2.298</exitX>
+        <exitY>1.929</exitY>
+        <length>3</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

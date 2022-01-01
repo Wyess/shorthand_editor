@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>よ</index>
+      <characterNames>WasedaYo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYo</name>
+      <description>よ</description>
+      <model>NER16</model>
+      <head>NER</head>
+      <tail>NER</tail>
+      <headModel>NER16</headModel>
+      <tailModel>NER16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(S4CR1)_H(NER)</key>
+        <path>m 0 0 c 2.03772 -2.91015 12.4544 -13.1706 13.8564 -8</path>
+        <exitX>13.8564</exitX>
+        <exitY>-8</exitY>
+        <length>18.104</length>
+      </glyph>
+      <glyph>
+        <key>M(S4CR1)_H(SWR)</key>
+        <path>m 0 0 c 2.03772 -2.91015 11.8334 -10.023 13.8564 -8</path>
+        <exitX>13.8564</exitX>
+        <exitY>-8</exitY>
+        <length>16.700</length>
+      </glyph>
+      <glyph>
+        <key>M(SW16CR1)_X</key>
+        <path>m 0 0 c 2.03772 -2.91015 10.5734 -8 13.8564 -8</path>
+        <exitX>13.8564</exitX>
+        <exitY>-8</exitY>
+        <length>16.285</length>
+      </glyph>
+      <glyph>
+        <key>X_H(BNER)</key>
+        <path>m 0 0 c 2.22622 -6.1165 10.6447 -13.441 13.1064 -9.1772</path>
+        <exitX>13.1064</exitX>
+        <exitY>-9.1772</exitY>
+        <length>18.401</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path>m 0 0 c 0 -4.516 4.0812 -13.856 8 -13.856</path>
+        <exitX>8</exitX>
+        <exitY>-13.856</exitY>
+        <length>16.946</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 2.1524 -5.914 11.3137 -16.187 11.3137 -11.314</path>
+        <exitX>11.3137</exitX>
+        <exitY>-11.314</exitY>
+        <length>18.479</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 2.22622 -6.1165 12.2962 -13.773 13.1064 -9.1772</path>
+        <exitX>13.1064</exitX>
+        <exitY>-9.1772</exitY>
+        <length>18.546</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWR)</key>
+        <path>m 0 0 c 1.2151 -3.3384 8.59164 -14.0257 12.853 -9.77455</path>
+        <exitX>12.853</exitX>
+        <exitY>-9.77455</exitY>
+        <length>18.209</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 1.2151 -3.3384 7.9227 -11.3137 11.3138 -11.3137</path>
+        <exitX>11.3138</exitX>
+        <exitY>-11.3137</exitY>
+        <length>16.466</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>M(S4CR1)_H(E)</target>
+        <by>M(S4CR1)_H(NER)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(S4CR1)_H(ER)</target>
+        <by>M(S4CR1)_H(NER)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SW4CL1)_X</target>
+        <by>M(SW16CR1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(S4CR1)_X</target>
+        <by>M(SW16CR1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SW8CR1)_X</target>
+        <by>M(SW16CR1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(E)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(ER)</target>
+        <by>X_H(E)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(NER)</target>
+        <by>X_H(E)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

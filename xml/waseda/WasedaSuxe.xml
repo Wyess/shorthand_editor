@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>すぇ</index>
+      <characterNames>WasedaSuxe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSuxe</name>
+      <description/>
+      <model>NEL8CL4P</model>
+      <head>NEL</head>
+      <tail>P</tail>
+      <headModel>NEL8</headModel>
+      <tailModel>CL4P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 2.028800 -1.124600 5.714400 -2.674300 5.714400 -4.967400 c 0.000000 -2.167700 -2.623479 -1.313631 -2.765277 0.931547 c -0.086230 1.365341 1.153438 1.656835 2.531647 0.057301</path>
+        <exitX>5.481</exitX>
+        <exitY>-3.979</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>5.714</maxX>
+          <minY>-6.223</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>16.462</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 c 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 c 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

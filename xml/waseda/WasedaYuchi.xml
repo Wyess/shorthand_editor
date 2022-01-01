@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ゆち</index>
+      <characterNames>WasedaYuchi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYuchi</name>
+      <description>ゆち</description>
+      <model>NER8CR1</model>
+      <head>NER</head>
+      <tail>NERCR</tail>
+      <headModel>NER8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c 0.207697 0.062913 0.471023 0.156079 0.828402 0.350212 c 0.445752 0.242137 0.819905 0.756044 0.590566 1.153270 c -0.167518 0.290151 -1.257630 0.207983 -0.753496 -0.665201 c 1.237200 -2.142890 3.201880 -4.343580 5.815980 -4.343580 c 0.435292 0.000000 0.767620 0.114382 0.859944 0.419694 c 0.117295 0.387892 -0.231536 0.915372 -0.614017 1.049260 c -0.341375 0.119501 -1.030240 -0.028985 -1.012460 -0.390234 c 0.028014 -0.569310 0.935673 -0.455370 1.648250 -0.455370</path>
+        <exitX>7.36317</exitX>
+        <exitY>-2.88195</exitY>
+        <length>16.959</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.207697 0.062913 0.471023 0.156079 0.828402 0.350212 c 0.445752 0.242137 0.819905 0.756044 0.590566 1.153270 c -0.167518 0.290151 -1.257630 0.207983 -0.753496 -0.665201 c 1.237200 -2.142890 3.201880 -4.343580 5.815980 -4.343580 c 0.275300 0.000000 0.528448 0.250972 0.536378 0.493884 c 0.009910 0.303312 -0.340825 0.561190 -0.628078 0.659078 c -0.165748 0.056483 -0.432930 0.072514 -0.519219 -0.079858 c -0.189742 -0.335054 0.372153 -0.810640 0.436653 -1.069440</path>
+        <exitX>6.30719</exitX>
+        <exitY>-3.50163</exitY>
+        <length>15.052</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

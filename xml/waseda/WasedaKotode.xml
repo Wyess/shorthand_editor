@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ことで</index>
+      <characterNames>WasedaKotode</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKotode</name>
+      <description>ことで</description>
+      <model>S8NW1</model>
+      <head>S</head>
+      <tail>NW</tail>
+      <headModel>S8</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.1</offsetX>
+      <offsetY>-4.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 v 7.319160 c 0.000000 0.565940 -0.567037 0.873200 -0.900000 0.558800 c -0.263693 -0.248920 -0.016340 -0.889630 0.231761 -1.075710 c 0.307662 -0.230760 0.668239 0.056400 0.668239 0.516910</path>
+        <exitX>0</exitX>
+        <exitY>7.31916</exitY>
+        <length>10.934</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 v 8.000000 c -0.262148 -0.399955 -0.526361 -0.799162 -1.078850 -1.093440</path>
+        <exitX>-1.07885</exitX>
+        <exitY>6.90656</exitY>
+        <length>9.556</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

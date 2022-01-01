@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>働</index>
+      <characterNames>WasedaHa WasedaHatarakuP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHatarakuP</name>
+      <description>働ｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <entryX>-1</entryX>
+        <entryY>-3</entryY>
+        <length>1</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(S4)</key>
+        <path>M0,0</path>
+        <entryX>-1</entryX>
+        <entryY>-6</entryY>
+        <length>1</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

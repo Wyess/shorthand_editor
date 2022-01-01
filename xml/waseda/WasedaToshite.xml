@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>として</index>
+      <characterNames>WasedaToshite</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaToshite</name>
+      <description>として</description>
+      <model>SW4CL1NW1</model>
+      <head>SW</head>
+      <tail>NW</tail>
+      <headModel>SW4</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.8</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.313556 0.931741 0.576555 0.724180 c 0.421938 -0.332997 0.055353 -1.028640 -0.148213 -1.448170 c -0.189359 -0.390251 -0.433727 -1.117940 -0.575140 -1.542240</path>
+        <exitX>-1.35313</exitX>
+        <exitY>1.03212</exitY>
+        <length>8.1</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.490497 0.872761 0.753496 0.665200 c 0.421938 -0.332997 -0.244144 -0.841121 -0.590566 -1.153270 c -0.232329 -0.209344 -0.561167 -0.624322 -0.919367 -0.975944</path>
+        <exitX>-1.96277</exitX>
+        <exitY>1.83434</exitY>
+        <length>7.798</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

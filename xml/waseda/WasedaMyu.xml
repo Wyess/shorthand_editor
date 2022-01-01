@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>みゅ</index>
+      <characterNames>WasedaMyu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMyu</name>
+      <description>みゅ</description>
+      <model>ER8ONL4</model>
+      <head>ER</head>
+      <tail>ERONL</tail>
+      <headModel>ER8</headModel>
+      <tailModel>ONL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.520910 -1.070000 7.163920 -1.699090 8.000010 0.000000 c 0.298542 -0.612789 0.730968 -3.296070 -0.015813 -3.296070 c -0.540748 0.000000 -0.397961 2.181620 0.015813 3.296070</path>
+        <exitX>8.00001</exitX>
+        <exitY>0</exitY>
+        <length>15.469</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

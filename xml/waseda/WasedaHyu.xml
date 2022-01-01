@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ひゅ</index>
+      <characterNames>WasedaHyu</characterNames>
+    </entry>
+    <entry>
+      <index>ふみ</index>
+      <characterNames>WasedaHyu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHyu</name>
+      <description>ひゅ</description>
+      <model>SWL8CL1</model>
+      <head>SWL</head>
+      <tail>SWLCL</tail>
+      <headModel>SWL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.3</offsetX>
+      <offsetY>-3.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(ELCL)_X</key>
+        <path>m 0 0 c -1.53226 1.82608 -3.49689 4.40611 -3.61959 6.42291 c -0.01248 0.205061 0.000884 0.986273 0.305569 1.17369 c 0.372417 0.229082 0.624562 -0.0069 0.579168 -0.360401 c -0.04643 -0.36157 -0.586892 -1.08574 -0.840614 -1.31757</path>
+        <exitX>-3.57546</exitX>
+        <exitY>5.91864</exitY>
+        <length>11.227</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c -1.83452 1.05916 -4.13129 3.71125 -4.25403 5.72805 c -0.041928 0.688927 0.231933 1.1333 0.536618 1.32072 c 0.372417 0.229082 0.914584 -0.19564 0.919061 -0.794709 c 0.00422 -0.564297 -0.618167 -0.66188 -0.81039 -0.133769 c -0.203345 0.558669 -0.063853 0.160413 -0.285742 0.785046</path>
+        <exitX>-3.89448</exitX>
+        <exitY>6.90534</exitY>
+        <length>12.406</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -1.83452 1.05916 -4.13133 3.71125 -4.25403 5.72805 c -0.01248 0.205061 0.000884 0.986273 0.305569 1.17369 c 0.372417 0.229082 0.624562 -0.0069 0.579168 -0.360401 c -0.04643 -0.36157 -0.607995 -0.81225 -0.861717 -1.04408</path>
+        <exitX>-4.23101</exitX>
+        <exitY>5.49726</exitY>
+        <length>10.899</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(NE)_X</target>
+        <by>T(ELCL)_X</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぼう</index>
+      <characterNames>WasedaBou</characterNames>
+    </entry>
+    <entry>
+      <index>ぼー</index>
+      <characterNames>WasedaBou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaBou</name>
+      <description>ぼう</description>
+      <model>SEL16</model>
+      <head>SEL</head>
+      <tail>SEL</tail>
+      <headModel>SEL16</headModel>
+      <tailModel>SEL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-6.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 0.188692,8.2581 c 0.595912,0.595912 1.258984,0.645968 1.715108,0.523751</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaHo</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

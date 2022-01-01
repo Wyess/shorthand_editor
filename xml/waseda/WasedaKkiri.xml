@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>っきり</index>
+      <characterNames>WasedaKkiri</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKkiri</name>
+      <description>っきり</description>
+      <model>XE16F</model>
+      <head>XE</head>
+      <tail>EF</tail>
+      <headModel>XE16</headModel>
+      <tailModel>XE16F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 16.000000</path>
+        <exitX>18</exitX>
+        <exitY>0.1</exitY>
+        <length>16</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

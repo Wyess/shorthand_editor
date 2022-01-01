@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ふつ</index>
+      <characterNames>WasedaFutsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaFutsu</name>
+      <description>ふつ</description>
+      <model>CR1NE4F</model>
+      <head>CR</head>
+      <tail>NEF</tail>
+      <headModel>CR1</headModel>
+      <tailModel>NE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1</offsetX>
+      <offsetY>0.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.291272 0.504498 0.069370 0.900740 -0.240400 1.128940 c -0.199503 0.146968 -0.612451 0.144598 -0.740293 -0.067670 c -0.121558 -0.201835 -0.051420 -0.465381 0.272305 -0.652282 l 2.969340 -1.714350</path>
+        <exitX>3.7804</exitX>
+        <exitY>-2.09276</exitY>
+        <length>6.321</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ません</index>
+      <characterNames>WasedaMasen</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMasen</name>
+      <description>ません</description>
+      <model>SW25F</model>
+      <head>SW</head>
+      <tail>SWF</tail>
+      <headModel>SW25</headModel>
+      <tailModel>SW25F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>16.1</offsetX>
+      <offsetY>-9.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -8.550501 23.492000 M -9.172735 25.114864</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-9.173</exitX>
+        <exitY>25.115</exitY>
+        <length>25</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ないでしょう</index>
+      <characterNames>WasedaNaideshou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNaideshou</name>
+      <description>ないでしょう</description>
+      <model>PSW4OWR4</model>
+      <head>PSW</head>
+      <tail>SWOWR</tail>
+      <headModel>PSW4</headModel>
+      <tailModel>OWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.4</offsetX>
+      <offsetY>-1.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.101170 3.371420 c -0.210160 0.643440 -2.912920 0.521997 -3.276600 0.088495 c -0.316661 -0.377456 2.979840 -0.352558 3.362850 -0.352558</path>
+        <entryX>-1</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>-1.015</exitX>
+        <exitY>3.107</exitY>
+        <length>10.523</length>
+      </glyph>
+      <glyph>
+        <key>M(SEL8)_X</key>
+        <path>M 0.000000 0.000000 l -1.101170 3.371420 c -0.210160 0.643440 -2.912920 0.521997 -3.276600 0.088495 c -0.316661 -0.377456 2.979840 -0.352558 3.362850 -0.352558</path>
+        <entryX>-0.5</entryX>
+        <entryY>-2.2</entryY>
+        <exitX>-1.015</exitX>
+        <exitY>3.107</exitY>
+        <length>10.523</length>
+      </glyph>
+      <glyph>
+        <key>M(SER8)_X</key>
+        <path>M 0.000000 0.000000 l -1.101170 3.371420 c -0.210160 0.643440 -2.912920 0.521997 -3.276600 0.088495 c -0.316661 -0.377456 2.979840 -0.352558 3.362850 -0.352558</path>
+        <entryX>0.5</entryX>
+        <entryY>-4.2</entryY>
+        <exitX>-1.015</exitX>
+        <exitY>3.107</exitY>
+        <length>10.523</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

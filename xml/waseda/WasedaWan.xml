@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>わん</index>
+      <characterNames>WasedaWan</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWan</name>
+      <description>わん</description>
+      <model>UWL4F</model>
+      <head>WL</head>
+      <tail>ELF</tail>
+      <headModel>UWL4</headModel>
+      <tailModel>UWL4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.8</offsetX>
+      <offsetY>-1.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.975000 0.374500 -1.833000 1.099700 -1.833000 2.108900 c 0.000000 1.508640 1.871400 1.760550 2.797770 0.834187</path>
+        <exitX>2.59334</exitX>
+        <exitY>1.78216</exitY>
+        <length>6.71</length>
+      </glyph>
+      <glyph>
+        <key>X_M(SWL4SWR4)</key>
+        <path> M 0.000000 0.000000 c -0.975000 0.374500 -1.833000 1.099700 -1.833000 2.108900 c 0.000000 1.508640 1.871400 1.760550 2.797770 0.834187</path>
+        <exitX>2.59334</exitX>
+        <exitY>2.78216</exitY>
+        <length>6.71</length>
+      </glyph>
+      <glyph>
+        <key>T(NE)_X</key>
+        <path>M 0.000000 0.000000 c -0.866540 0.593142 -1.582991 1.294152 -1.582991 2.303352 c 0.000000 1.508640 1.871400 1.760550 2.797770 0.834187 M 2.748209 1.853564</path>
+        <exitX>2.748</exitX>
+        <exitY>1.854</exitY>
+        <bbox>
+          <minX>-1.583</minX>
+          <maxX>1.215</maxX>
+          <minY>0</minY>
+          <maxY>3.679</maxY>
+        </bbox>
+        <length>6.654</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>まつ</index>
+      <characterNames>WasedaMatsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMatsu</name>
+      <description/>
+      <model/>
+      <head/>
+      <tail/>
+      <headModel/>
+      <tailModel/>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c -0.044000 0.341000 -0.197400 1.016000 -0.570400 1.231000 c -0.308600 0.178000 -0.576100 0.037000 -0.655600 -0.175000 c -0.118500 -0.315000 0.155000 -0.661000 0.563900 -0.839000 c 2.622200 -1.141000 7.340000 -1.660000 7.340000 0.255000</path>
+        <exitX>6.678</exitX>
+        <exitY>0.472</exitY>
+        <bbox>
+          <minX>-1.254</minX>
+          <maxX>6.678</maxX>
+          <minY>-0.804</minY>
+          <maxY>1.312</maxY>
+        </bbox>
+        <length>11.375</length>
+      </glyph>
+      <glyph>
+        <key>M(SW4)_X</key>
+        <path>m 0 0c 2.52091 -1.07 8 -2.0823 8 0</path>
+        <entryX>-1</entryX>
+        <entryY>-1</entryY>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+        <length>8.752</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

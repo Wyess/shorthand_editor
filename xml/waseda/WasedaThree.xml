@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>３</index>
+      <characterNames>WasedaThree</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaThree</name>
+      <description>３</description>
+      <model>UER3UER3</model>
+      <head>UER</head>
+      <tail>UER</tail>
+      <headModel>UER3</headModel>
+      <tailModel>UER3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.2</offsetX>
+      <offsetY>-1.6</offsetY>
+      <right>3</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.988395 -0.988396 2.618290 -1.199180 3.156080 -0.289850 c 0.488040 0.825209 -0.614458 1.823030 -1.610250 2.383170 c 1.570180 0.051300 1.676790 0.680557 1.545840 1.352600 c -0.212972 1.092990 -1.987720 2.263330 -3.156080 1.094970</path>
+        <exitX>-0.06441</exitX>
+        <exitY>4.54089</exitY>
+        <length>13.236</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

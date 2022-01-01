@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>タト</index>
+      <characterNames>WasedaTatoJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTatoJoshi</name>
+      <description>タト</description>
+      <model>SW8NE1|SW8CL1</model>
+      <head>SW</head>
+      <tail>SWCR</tail>
+      <headModel>SW8</headModel>
+      <tailModel>NE1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.7</offsetX>
+      <offsetY>-3.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 l -2.503580 6.861850 c -0.317836 0.871130 0.216100 0.922357 0.436925 0.670392 c 0.238287 -0.271889 0.195005 -1.898110 0.154306 -2.278070</path>
+        <exitX>-1.91235</exitX>
+        <exitY>5.25418</exitY>
+        <length>10.882</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -2.736160 7.517600 c 0.120320 -0.449040 0.938561 -0.816068 1.297590 -0.816068</path>
+        <exitX>-1.43857</exitX>
+        <exitY>6.70153</exitY>
+        <length>9.606</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

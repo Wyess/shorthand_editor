@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>&#12371;</index>
+      <characterNames>WasedaKo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKo</name>
+      <description>&#12371;</description>
+      <model>E16</model>
+      <head>E</head>
+      <tail>E</tail>
+      <headModel>E16</headModel>
+      <tailModel>E16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path> M 0.000000 0.000000 l 16.000000 0.000000 l -0.402400 0.200000</path>
+        <exitX>15.5076</exitX>
+        <exitY>0.2</exitY>
+        <length>16.449</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 16.000000 0.000000</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(SER)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

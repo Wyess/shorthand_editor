@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>まで</index>
+      <characterNames>WasedaMade</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMade</name>
+      <description>まで</description>
+      <model>PS3</model>
+      <head>PS</head>
+      <tail>PS</tail>
+      <headModel>PS3</headModel>
+      <tailModel>PS3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(ER8CR4)_X</key>
+        <path>M 5.900000 1.600000 M 7.400000 -1.400000 v 3.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>7.4</exitX>
+        <exitY>1.6</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 1.000000 0.000000 M 2.500000 -1.5000000 v 3.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>2.5</exitX>
+        <exitY>1.5</exitY>
+        <length>3</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

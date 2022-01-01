@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>しっ</index>
+      <characterNames>WasedaShiltsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShiltsu</name>
+      <description/>
+      <model>SW4FP</model>
+      <head>SW</head>
+      <tail>P</tail>
+      <headModel>SW4</headModel>
+      <tailModel>SW4FP</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.368101 3.758699 M 0.488085 2.490328</path>
+        <exitX>0.488</exitX>
+        <exitY>2.49</exitY>
+        <bbox>
+          <minX>-1.368</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>3.759</maxY>
+        </bbox>
+        <length>4</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

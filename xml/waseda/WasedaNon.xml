@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>のん</index>
+      <characterNames>WasedaNon</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNon</name>
+      <description/>
+      <model>EL16F</model>
+      <head>EL</head>
+      <tail>ELF</tail>
+      <headModel>EL16</headModel>
+      <tailModel>EL16F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 2.881100 0.665000 13.880387 2.119613 16.000000 0.000000 M 18.058400 -1.086129</path>
+        <exitX>18.058</exitX>
+        <exitY>-1.086</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>16</maxX>
+          <minY>0</minY>
+          <maxY>1.108</maxY>
+        </bbox>
+        <length>16.288</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

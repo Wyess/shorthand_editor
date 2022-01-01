@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ら</index>
+      <characterNames>WasedaRa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRa</name>
+      <description>ら</description>
+      <model>SER8</model>
+      <head>SER</head>
+      <tail>SER</tail>
+      <headModel>SER8</headModel>
+      <tailModel>SER8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NER)_H()</key>
+        <path>m 0 0 c 1.9594 0 4 4.67 4 6.928</path>
+        <exitX>4</exitX>
+        <exitY>6.928</exitY>
+        <length>8.473</length>
+      </glyph>
+      <glyph>
+        <key>T(NER)_X</key>
+        <path>m 0 0 c 1.48459 0 5.22323 4.8095 4 6.9282</path>
+        <exitX>4</exitX>
+        <exitY>6.9282</exitY>
+        <length>8.696</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 2.858 2.0012 6.72302 6.9282 4 6.9282</path>
+        <exitX>4</exitX>
+        <exitY>6.9282</exitY>
+        <length>9.426</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>m 0 0 c 1.93551 1.3553 4 4.5784 4 6.9283</path>
+        <exitX>4</exitX>
+        <exitY>6.9283</exitY>
+        <length>8.238</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.26387 1.5852 5.22323 4.8095 4 6.9282</path>
+        <exitX>4</exitX>
+        <exitY>6.9282</exitY>
+        <length>8.604</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

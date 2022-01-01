@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>きつ</index>
+      <characterNames>WasedaKitsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKitsu</name>
+      <description>きつ</description>
+      <model>E8CL1SW1F</model>
+      <head>E</head>
+      <tail>SWF</tail>
+      <headModel>E8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.489000 -0.130500 4.985700 -0.173900 7.472000 0.000000 c 0.262000 0.009100 0.490341 -0.314183 0.507945 -0.567427 c 0.019810 -0.285044 -0.192141 -0.709166 -0.477863 -0.711641 c -0.499366 -0.004330 -0.754304 0.948304 -0.856603 1.229100 l -0.513035 1.409510</path>
+        <exitX>5.4549</exitX>
+        <exitY>3.24131</exitY>
+        <length>12.324</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

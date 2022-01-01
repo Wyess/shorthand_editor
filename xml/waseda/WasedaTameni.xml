@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>ために</index>
+      <characterNames>WasedaTameni</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTameni</name>
+      <description/>
+      <model>UWL4EL8CL1</model>
+      <head>SWL</head>
+      <tail>EL</tail>
+      <headModel>UWL4</headModel>
+      <tailModel>EL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaNoJoshi)_X</key>
+        <path>M 0.000000 0.000000 c -0.975000 0.374500 -1.939250 1.183590 -1.833000 2.108900 c 0.131345 1.143800 1.673929 1.775382 2.797770 2.025420 c 2.559983 0.569559 7.727960 0.443685 7.727960 -1.476420 c 0.000000 -0.488800 -0.335000 -0.772100 -0.644000 -0.854900 c -0.307000 -0.088100 -0.569000 0.028200 -0.417000 0.302800 c 0.233000 0.403400 0.533183 0.821810 0.827183 1.183910</path>
+        <entryX>7</entryX>
+        <entryY>0</entryY>
+        <exitX>8.459</exitX>
+        <exitY>3.29</exitY>
+        <bbox>
+          <minX>-1.841</minX>
+          <maxX>8.693</maxX>
+          <minY>0</minY>
+          <maxY>4.432</maxY>
+        </bbox>
+        <length>18.434</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c -0.975000 0.374500 -1.939250 1.183590 -1.833000 2.108900 c 0.131345 1.143800 1.673929 1.775382 2.797770 2.025420 c 2.559983 0.569559 7.727960 0.443685 7.727960 -1.476420 c 0.000000 -0.488800 -0.335000 -0.772100 -0.644000 -0.854900 c -0.307000 -0.088100 -0.569000 0.028200 -0.417000 0.302800 c 0.233000 0.403400 0.533183 0.821810 0.827183 1.183910</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>8.459</exitX>
+        <exitY>3.29</exitY>
+        <bbox>
+          <minX>-1.841</minX>
+          <maxX>8.693</maxX>
+          <minY>0</minY>
+          <maxY>4.432</maxY>
+        </bbox>
+        <length>18.434</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>れん</index>
+      <characterNames>WasedaRen</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRen</name>
+      <description>れん</description>
+      <model>SER16CR1NE1F</model>
+      <head>SER</head>
+      <tail>NEF</tail>
+      <headModel>SER16</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-6.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 3.824400 2.119900 8.963600 8.268300 8.901700 11.813000 c 0.000000 1.032700 -1.517150 0.778740 -0.957311 0.215514 c 0.274919 -0.276580 0.622228 -0.622232 0.902011 -0.902016 l 1.095930 -1.095930</path>
+        <exitX>11.3748</exitX>
+        <exitY>8.59813</exitY>
+        <length>19.977</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

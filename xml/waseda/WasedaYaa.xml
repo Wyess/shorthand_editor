@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>やあ</index>
+      <characterNames>WasedaYaa</characterNames>
+    </entry>
+    <entry>
+      <index>やー</index>
+      <characterNames>WasedaYaa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYaa</name>
+      <description>やあ</description>
+      <model>NER8</model>
+      <head>NER</head>
+      <tail>NER</tail>
+      <headModel>NER8</headModel>
+      <tailModel>NER8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 1.202014,-5.329489 c 0,0.545901 0.118182,1.053504 0.67553,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaYa</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

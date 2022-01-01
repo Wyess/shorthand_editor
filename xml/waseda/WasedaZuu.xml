@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ずう</index>
+      <characterNames>WasedaZuu</characterNames>
+    </entry>
+    <entry>
+      <index>ずー</index>
+      <characterNames>WasedaZuu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaZuu</name>
+      <description>ずう</description>
+      <model>NEL8CL4</model>
+      <head>NEL</head>
+      <tail>NELCL4</tail>
+      <headModel>NEL8</headModel>
+      <tailModel>CL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 3.268934,-2.775263 c 0,0.545901 0.118182,1.053504 0.6755299,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaSu</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

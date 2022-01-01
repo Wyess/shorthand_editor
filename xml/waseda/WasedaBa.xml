@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ば</index>
+      <characterNames>WasedaBa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaBa</name>
+      <description>ば</description>
+      <model>SEL8</model>
+      <head>SEL</head>
+      <tail>SEL</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>SEL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0</path>
+        <pathExtra>m 0.2446876,5.607452 v 0.1</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaHa</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

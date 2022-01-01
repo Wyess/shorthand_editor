@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>〆</index>
+      <characterNames>WasedaEnd</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaEnd</name>
+      <description>〆</description>
+      <model>@</model>
+      <head>@</head>
+      <tail>@</tail>
+      <headModel>@</headModel>
+      <tailModel>@</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>11.2</offsetX>
+      <offsetY>8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X_</key>
+        <path> M 0.000000 0.000000 c -1.144640 2.810380 -3.411510 5.365710 -8.039490 7.384420 M -5.071550 1.951070 c 1.772450 0.879530 3.099590 2.013520 3.761410 3.527690 M -10.838400 8.515900 c -2.261480 -6.996440 5.839900 -12.131200 11.136200 -11.493500 c 2.261300 0.272270 4.151140 3.727310 3.454000 5.895620 c -1.330070 4.136910 -6.867990 8.739260 -11.910300 5.300110</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-8.158</exitX>
+        <exitY>8.218</exitY>
+        <length>57.834</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c -2.261480 -6.996440 5.846645 -12.184789 11.136200 -11.493500 c 3.465774 0.452940 4.151142 3.727303 3.454000 5.895620 c -1.330064 4.136890 -6.867990 8.739260 -11.910300 5.300110 M 5.766850 -6.564830 c 1.772450 0.879530 3.099590 2.013520 3.761410 3.527690 M 10.838400 -8.515900 c -1.144640 2.810380 -3.411510 5.365710 -8.039490 7.384420</path>
+        <exitX>2.799</exitX>
+        <exitY>-1.131</exitY>
+        <bbox>
+          <minX>-0.389</minX>
+          <maxX>14.835</maxX>
+          <minY>-11.555</minY>
+          <maxY>0.907</maxY>
+        </bbox>
+        <length>58.179</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

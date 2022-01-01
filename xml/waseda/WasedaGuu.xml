@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぐう</index>
+      <characterNames>WasedaGuu</characterNames>
+    </entry>
+    <entry>
+      <index>ぐー</index>
+      <characterNames>WasedaGuu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaGuu</name>
+      <description>ぐう</description>
+      <model>E8CL4</model>
+      <head>E</head>
+      <tail>ECL4</tail>
+      <headModel>E8</headModel>
+      <tailModel>CL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 3.5,-0.54766 c 0,0.545901 0.118182,1.053504 0.67553,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaKu</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

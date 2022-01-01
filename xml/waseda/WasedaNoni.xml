@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>のに</index>
+      <characterNames>WasedaNoni</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNoni</name>
+      <description>のに</description>
+      <model>EL8ONWL4</model>
+      <head>EL</head>
+      <tail>ELONWL</tail>
+      <headModel>EL8</headModel>
+      <tailModel>ONWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.189000 0.669200 7.465840 1.881540 7.970000 0.000000 c 0.308203 -1.150230 -0.936702 -2.359230 -1.683480 -2.359230 c -0.443871 0.000000 0.849145 1.994570 1.305320 2.912360</path>
+        <exitX>7.59184</exitX>
+        <exitY>0.553125</exitY>
+        <length>14.994</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

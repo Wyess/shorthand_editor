@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なくてｘ</index>
+      <characterNames>WasedaNakute</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakute</name>
+      <description>なくてｘ</description>
+      <model>XS3</model>
+      <head>XS</head>
+      <tail>SWNW</tail>
+      <headModel>XS3</headModel>
+      <tailModel>XS3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaWa)_HM(ER8)</key>
+        <path>M 0.000000 0.000000 v 2.306140 c -0.000048 0.565945 -0.604486 0.908633 -0.900000 0.558800 c -0.391920 -0.463961 0.184286 -1.000050 0.900023 -1.318840</path>
+        <entryX>-0.7</entryX>
+        <entryY>-0.4</entryY>
+        <exitX>0</exitX>
+        <exitY>1.546</exitY>
+        <length>5.516</length>
+      </glyph>
+      <glyph>
+        <key>T(SELCL)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-1</entryX>
+        <entryY>-1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

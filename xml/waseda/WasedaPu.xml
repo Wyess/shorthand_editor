@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぷ</index>
+      <characterNames>WasedaPu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPu</name>
+      <description>ぷ</description>
+      <model>SWL16</model>
+      <head>SWL</head>
+      <tail>SWL</tail>
+      <headModel>SWL16</headModel>
+      <tailModel>SWL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>6.9</offsetX>
+      <offsetY>-7.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c -3.2552 3.2552 -10.1102 14.5009 -6.76189 14.5009</path>
+        <exitX>-6.76189</exitX>
+        <exitY>14.5009</exitY>
+        <length>17.242</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -3.2552 3.2552 -7.65129 11.1816 -6.76189 14.5009</path>
+        <exitX>-6.76189</exitX>
+        <exitY>14.5009</exitY>
+        <length>16.411</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

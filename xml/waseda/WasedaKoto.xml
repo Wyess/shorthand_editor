@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>こと</index>
+      <characterNames>WasedaKoto</characterNames>
+    </entry>
+    <entry>
+      <index>事</index>
+      <characterNames>WasedaKoto</characterNames>
+    </entry>
+    <entry>
+      <index>ことし</index>
+      <characterNames>WasedaKoto WasedaSuP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKoto</name>
+      <description>こと</description>
+      <model>S8</model>
+      <head>S</head>
+      <tail>S</tail>
+      <headModel>S8</headModel>
+      <tailModel>S8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>m 0 0 v 8 l 0.314892 -0.469422</path>
+        <exitX>0.314892</exitX>
+        <exitY>7.53058</exitY>
+        <length>8.565</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 v 8</path>
+        <exitX>0</exitX>
+        <exitY>8</exitY>
+        <length>8.000</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(S)</target>
+        <by>X_H(SEL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

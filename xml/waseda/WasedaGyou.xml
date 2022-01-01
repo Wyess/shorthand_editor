@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぎょう</index>
+      <characterNames>WasedaGyou</characterNames>
+    </entry>
+    <entry>
+      <index>ぎょー</index>
+      <characterNames>WasedaGyou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaGyou</name>
+      <description>ぎょう</description>
+      <model>SL8ONEL4</model>
+      <head>SL</head>
+      <tail>SLONEL</tail>
+      <headModel>SL8</headModel>
+      <tailModel>ONEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1</offsetX>
+      <offsetY>-4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m -1.608673,3.23781 c 0,0.5459 0.743997,1.0535 1.301345,1.20284</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaKyo</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

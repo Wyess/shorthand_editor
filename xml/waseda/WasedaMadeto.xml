@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>までと</index>
+      <characterNames>WasedaMadeto</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMadeto</name>
+      <description>までと</description>
+      <model>PS3NE1</model>
+      <head>PS</head>
+      <tail>NE</tail>
+      <headModel>PS3</headModel>
+      <tailModel>NE1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 v 3.000000 c 0.061847 0.934642 0.964246 0.891383 0.648696 0.081409 c -0.147870 -0.379561 -0.454045 -1.038470 -0.648696 -1.595110</path>
+        <exitX>0</exitX>
+        <exitY>1.4863</exitY>
+        <length>6.394</length>
+      </glyph>
+      <glyph>
+        <key>X_H(ER)</key>
+        <path> M 0.000000 0.000000 v 3.000000 c 0.043507 0.657485 0.747991 0.433237 0.860742 -0.251762 c 0.100327 -0.609517 -0.837755 -0.901427 -0.837755 -0.633190 c 0.000000 0.187757 0.031918 0.829654 0.031918 1.124420</path>
+        <exitX>0.054905</exitX>
+        <exitY>3.23947</exitY>
+        <length>6.923</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 0.000000 3.000000 c -0.040520 -0.463110 0.602847 -1.087860 0.940224 -1.210650</path>
+        <entryX>2</entryX>
+        <entryY>-1.3</entryY>
+        <exitX>0.940224</exitX>
+        <exitY>1.78935</exitY>
+        <length>4.606</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(ER)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

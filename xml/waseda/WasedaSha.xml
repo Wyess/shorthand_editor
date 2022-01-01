@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しゃ</index>
+      <characterNames>WasedaSha</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSha</name>
+      <description>しゃ</description>
+      <model>SR8</model>
+      <head>SR</head>
+      <tail>SR</tail>
+      <headModel>SR8</headModel>
+      <tailModel>SR8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 1.5045 2.2306 1.92646 8.51619 0 8</path>
+        <exitX>0</exitX>
+        <exitY>8</exitY>
+        <length>8.922</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 1.5045 2.2306 1.944 6.4812 0 8</path>
+        <exitX>0</exitX>
+        <exitY>8</exitY>
+        <length>8.607</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

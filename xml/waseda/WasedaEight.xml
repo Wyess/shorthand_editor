@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>８</index>
+      <characterNames>WasedaEight</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaEight</name>
+      <description>８</description>
+      <model>8</model>
+      <head>NWL</head>
+      <tail>NEL</tail>
+      <headModel>8</headModel>
+      <tailModel>8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>3</offsetX>
+      <offsetY>-2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.272850 -1.018270 -2.480570 -1.631670 -3.144200 -0.043070 c -0.346620 0.829743 1.919810 2.173700 1.787460 3.467240 c -0.088300 0.863237 -0.769580 1.991730 -1.636710 2.024350 c -0.334930 0.012600 -0.687650 -0.397043 -0.689140 -0.732209 c -0.009000 -2.072580 4.220980 -4.565550 4.220980 -4.565550</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0.538</exitX>
+        <exitY>0.151</exitY>
+        <length>18.302</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

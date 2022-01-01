@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なかったでｘ</index>
+      <characterNames>WasedaNakattade</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakattade</name>
+      <description>なかったでｘ</description>
+      <model>XS3</model>
+      <head>XS</head>
+      <tail>SWNW</tail>
+      <headModel>XS3</headModel>
+      <tailModel>XS3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 0.000000 3.000000 c -0.262135 -0.399966 -0.526334 -0.799183 -1.078820 -1.093480</path>
+        <exitX>-1.07882</exitX>
+        <exitY>1.90652</exitY>
+        <length>4.556</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_HM(ER8)</key>
+        <path> M 0.000000 0.000000 v 2.979390 c 0.000000 0.484820 -0.969503 0.339367 -0.969503 -0.198851 c 0.000000 -0.354695 0.560640 -0.721298 0.969503 -0.924717</path>
+        <entryX>-1</entryX>
+        <entryY>-1</entryY>
+        <exitX>0</exitX>
+        <exitY>1.85582</exitY>
+        <length>5.765</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_H(S)</key>
+        <path> M 0.000000 0.000000 v 3.319150 c 0.000000 0.565945 -0.567037 0.873200 -0.900000 0.558800 c -0.263693 -0.248921 -0.016341 -0.889627 0.231761 -1.075710 c 0.307662 -0.230760 0.668239 0.056411 0.668239 0.516914</path>
+        <entryX>-1</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>3.31915</exitY>
+        <length>6.934</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(E)_H(SEL)</target>
+        <by>T(E)_H(S)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

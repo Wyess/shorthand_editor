@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なくとｘ</index>
+      <characterNames>WasedaNakuto</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakuto</name>
+      <description>なくとｘ</description>
+      <model>XS3</model>
+      <head>XS</head>
+      <tail>S</tail>
+      <headModel>XS3</headModel>
+      <tailModel>XS3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 0.000000 3.000000 c -0.040517 -0.463111 0.602847 -1.087860 0.940224 -1.210650</path>
+        <exitX>0.940224</exitX>
+        <exitY>1.78935</exitY>
+        <length>4.606</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

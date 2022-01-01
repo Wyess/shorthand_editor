@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>一</index>
+      <characterNames>WasedaOneLong</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaOneLong</name>
+      <description>一</description>
+      <model>SW18P</model>
+      <head>SW</head>
+      <tail>SWP</tail>
+      <headModel>SW18</headModel>
+      <tailModel>SW18P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>9</offsetX>
+      <offsetY>-7.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -8.996510 15.112100 M -5.213720 12.706800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-5.214</exitX>
+        <exitY>12.707</exitY>
+        <length>17.587</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -8.996510 15.112100 M -5.213720 12.706800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-5.214</exitX>
+        <exitY>12.707</exitY>
+        <length>17.587</length>
+      </glyph>
+      <glyph>
+        <key>X_M(SWL4SWR4)</key>
+        <path>M 0.000000 0.000000 l -8.996510 15.112100 M -5.213720 12.706800 M -1.213720 8.706800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.214</exitX>
+        <exitY>8.707</exitY>
+        <length>17.587</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL16)</key>
+        <path>M 0.000000 0.000000 l -8.996510 15.112100 M -5.213720 12.706800 M 1.213720 7.706800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.214</exitX>
+        <exitY>7.707</exitY>
+        <length>17.587</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <path>M 0.000000 0.000000 l -8.996510 15.112100 M -5.213720 12.706800 M -0.213720 7.706800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.214</exitX>
+        <exitY>7.707</exitY>
+        <length>17.587</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

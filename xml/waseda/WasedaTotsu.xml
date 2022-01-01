@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>とつ</index>
+      <characterNames>WasedaTotsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTotsu</name>
+      <description/>
+      <model>CR1NE4</model>
+      <head>CRNE</head>
+      <tail>NE</tail>
+      <headModel>CR1</headModel>
+      <tailModel>NE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 -0.997926 -0.557763 -1.355822 -0.006800 c -0.308600 0.475120 -0.021365 0.971099 0.443773 0.645412 l 2.973937 -2.082335</path>
+        <exitX>2.062</exitX>
+        <exitY>-1.444</exitY>
+        <bbox>
+          <minX>-1.484</minX>
+          <maxX>2.062</maxX>
+          <minY>-1.444</minY>
+          <maxY>0.743</maxY>
+        </bbox>
+        <length>6.352</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NE)</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 -0.997926 -0.557763 -1.355822 -0.006800 c -0.308600 0.475120 -0.021365 0.971099 0.443773 0.645412 l 2.973937 -2.082335 l -0.280576 0.619635</path>
+        <exitX>1.781</exitX>
+        <exitY>-0.824</exitY>
+        <bbox>
+          <minX>-1.484</minX>
+          <maxX>2.062</maxX>
+          <minY>-1.444</minY>
+          <maxY>0.743</maxY>
+        </bbox>
+        <length>7.032</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

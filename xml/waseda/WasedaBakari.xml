@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ばかり</index>
+      <characterNames>WasedaBakari</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaBakari</name>
+      <description>ばかり</description>
+      <model>SEL8S3</model>
+      <head>SEL</head>
+      <tail>S</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>S3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(S)</key>
+        <path> M 0.000000 0.000000 c 0.000000 3.776400 0.935824 6.850980 4.187110 5.979800 v 2.500000 l 0.200000 -0.492400</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.387</exitX>
+        <exitY>7.987</exitY>
+        <length>11.757</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 3.776400 0.935824 6.850980 4.187110 5.979800 v 2.500000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.187</exitX>
+        <exitY>8.48</exitY>
+        <length>11.226</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

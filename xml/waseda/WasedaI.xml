@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>い</index>
+      <characterNames>WasedaI</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaI</name>
+      <description>い</description>
+      <model>ER4</model>
+      <head>ER</head>
+      <tail>ER4</tail>
+      <headModel>ER4</headModel>
+      <tailModel>ER4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>0.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaAi)_X</key>
+        <path>m 0 0 c 1.57891 -0.9116 3.00275 -0.925413 4.41794 -0.108354</path>
+        <exitX>4.41794</exitX>
+        <exitY>-0.108354</exitY>
+      </glyph>
+      <glyph>
+        <key>T(SCR)_H(SW)</key>
+        <path>m 0 0 c 1.57891 -0.9116 4.85258 -0.785709 4 1.55675</path>
+        <exitX>4</exitX>
+        <exitY>1.55675</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWR4)</key>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+        <path>m 0 0 c 1.57891 -0.9116 3.36913 -1.17464 4 0</path>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL4)</key>
+        <path>m 0,0 c 1.0252,-0.5919 2.9518,-0.5573 4,0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path>m 0 0 c 1.57891 -0.9116 3.10827 -0.205825 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>m 0 0 c 1.00556 -0.5805 2.88958 -0.3608 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 1.41 -0.8141 4.60079 -1.88614 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path>m 0 0 c 1.57891 -0.9116 4.70024 -2.61331 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 1.57891 -0.9116 4.71182 -1.95571 4 0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0,0 c 1.57891,-0.9116 4.00001,-1.2364 4,0</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <glyph>
+        <key>M(ER8CR4)_H(SW)</key>
+        <path>M 0.000000 0.000000 c 1.680443 -0.450273 4.657319 -1.519704 3.945499 0.436006</path>
+        <exitX>3.945</exitX>
+        <exitY>0.436</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.054</maxX>
+          <minY>-0.699</minY>
+          <maxY>0.436</maxY>
+        </bbox>
+        <length>5.012</length>
+      </glyph>
+      <substitution>
+        <type>key</type>
+        <target>X_H(NEL)</target>
+        <target>X_H(SER)</target>
+        <target>X_H(SR)</target>
+        <by>X_H(E)</by>
+      </substitution>
+    </character>
+  </characters>
+</shorthand>

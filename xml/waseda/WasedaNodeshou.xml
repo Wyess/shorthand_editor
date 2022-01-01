@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>のでしょう</index>
+      <characterNames>WasedaNodeshou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNodeshou</name>
+      <description>のでしょう</description>
+      <model>SWR4OWR4</model>
+      <head>SWR</head>
+      <tail>SWROWR</tail>
+      <headModel>SWR4</headModel>
+      <tailModel>OWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.9</offsetX>
+      <offsetY>-1.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -0.949482 2.997240 -2.208990 3.334720 c -1.287900 0.345088 -2.306350 0.168162 -2.670020 -0.265341 c -0.316661 -0.377456 3.171170 -0.481775 3.832680 -0.481775</path>
+        <exitX>-1.04634</exitX>
+        <exitY>2.5876</exitY>
+        <length>11.03</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>かけ</index>
+      <characterNames>WasedaKa WasedaCe</characterNames>
+    </entry>
+    <entry>
+      <index>とって</index>
+      <characterNames>WasedaTo WasedaLtsuP WasedaCe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaCe</name>
+      <description/>
+      <model>TSE3</model>
+      <head>SE</head>
+      <tail>SE</tail>
+      <headModel>TSE3</headModel>
+      <tailModel>TSE3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l 2.015023 2.015001</path>
+        <entryX>-1.038038</entryX>
+        <entryY>-1.07268</entryY>
+        <exitX>2.015</exitX>
+        <exitY>2.015</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>2.015</maxX>
+          <minY>0</minY>
+          <maxY>2.015</maxY>
+        </bbox>
+        <length>2.85</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

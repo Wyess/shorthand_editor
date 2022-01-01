@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しみ</index>
+      <characterNames>WasedaShimi</characterNames>
+    </entry>
+    <entry>
+      <index>しめ</index>
+      <characterNames>WasedaShimi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShimi</name>
+      <description>しみ</description>
+      <model>NER4SWR4</model>
+      <head>NER</head>
+      <tail>SWR</tail>
+      <headModel>NER4</headModel>
+      <tailModel>SWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 -0.779360 1.554410 -3.811960 2.642390 -3.088730 c 1.088120 0.723300 -0.141632 3.283880 -1.182110 3.931820</path>
+        <exitX>1.46028</exitX>
+        <exitY>0.84309</exitY>
+        <length>9.088</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>M 0.000000 0.000000 c 0.000000 -0.779360 1.450813 -3.624366 2.642390 -3.088730 c 1.088120 0.489130 0.513376 4.960711 -1.182110 3.534029</path>
+        <exitX>1.46</exitX>
+        <exitY>0.445</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>3.197</maxX>
+          <minY>-3.155</minY>
+          <maxY>0.725</maxY>
+        </bbox>
+        <length>9.616</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

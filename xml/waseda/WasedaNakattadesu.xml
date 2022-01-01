@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なかったです</index>
+      <characterNames>WasedaNakattadesu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakattadesu</name>
+      <description>なかったです</description>
+      <model>XS4CR1</model>
+      <head>XS</head>
+      <tail>SCR</tail>
+      <headModel>XS4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 3.319150 c 0.000000 0.565945 -0.567037 0.873200 -0.900000 0.558800 c -0.590690 -0.557600 0.559666 -0.978163 0.900000 -1.567660</path>
+        <entryX>-4</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>2.31</exitY>
+        <length>6.705</length>
+      </glyph>
+      <glyph>
+        <key>M(ER8CR1)_X</key>
+        <path>M 0.000000 0.000000 v 3.319150 c 0.000000 0.565945 -0.567037 0.873200 -0.900000 0.558800 c -0.590690 -0.557600 0.559666 -0.978163 0.900000 -1.567660</path>
+        <entryX>-2.5</entryX>
+        <entryY>-1</entryY>
+        <exitX>0</exitX>
+        <exitY>2.31</exitY>
+        <length>6.705</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

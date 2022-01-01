@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ふん</index>
+      <characterNames>WasedaHun</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHun</name>
+      <description>ふん</description>
+      <model>SEL8CL4NE1F</model>
+      <head>SEL</head>
+      <tail>NEF</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>CL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.874100 0.290500 3.330900 0.767800 4.354500 c 0.495100 1.015100 1.361100 1.500400 2.706700 1.500400 c 0.630400 0.000000 1.302200 -0.174800 1.302200 -0.721800 c 0.000000 -0.420000 -0.771800 -0.805500 -1.695500 -1.018800 c -0.915800 -0.245300 -2.001800 -0.220700 -2.470900 -0.220700 l 1.060660 -1.060660 M 3.085180 1.418730</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>3.085</exitX>
+        <exitY>1.419</exitY>
+        <length>15.465</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.874100 0.290500 3.330900 0.767800 4.354500 c 0.495100 1.015100 1.361100 1.500400 2.706700 1.500400 c 0.630400 0.000000 1.302200 -0.174800 1.302200 -0.721800 c 0.000000 -0.420000 -0.771800 -0.805500 -1.695500 -1.018800 c -0.915800 -0.245300 -2.001800 -0.220700 -2.470900 -0.220700 l 1.060660 -1.060660 M 3.085180 1.418730</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>3.085</exitX>
+        <exitY>1.419</exitY>
+        <length>15.465</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.874100 0.290500 3.330900 0.767800 4.354500 c 0.495100 1.015100 1.361100 1.500400 2.706700 1.500400 c 0.630400 0.000000 1.302200 -0.174800 1.302200 -0.721800 c 0.000000 -0.420000 -0.771800 -0.805500 -1.695500 -1.018800 c -0.915800 -0.245300 -2.001800 -0.220700 -2.470900 -0.220700 l 1.060660 -1.060660 M 5.085180 1.418730</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>5.085</exitX>
+        <exitY>1.419</exitY>
+        <length>15.465</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

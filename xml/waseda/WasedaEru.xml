@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>える</index>
+      <characterNames>WasedaEru</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaEru</name>
+      <description>える</description>
+      <model>OSEL4</model>
+      <head>OSEL</head>
+      <tail>OSEL</tail>
+      <headModel>OSEL4</headModel>
+      <tailModel>OSEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(EL8CL1)_X</key>
+        <path> M 0.000000 0.000000 c 0.604983 1.047860 2.399450 3.687580 2.892510 2.762870 c 0.389146 -0.895092 -1.898200 -2.260260 -2.892510 -2.762870</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.61</length>
+      </glyph>
+      <glyph>
+        <key>T(SER16CR1_X)_X</key>
+        <path> M 0.000000 0.000000 c 0.692700 0.960300 4.035300 1.896100 3.891500 0.925100 c -0.205400 -0.890700 -2.862900 -1.100400 -3.891500 -0.925100</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.673</length>
+      </glyph>
+      <glyph>
+        <key>X_M(UER4)</key>
+        <path> M 0.000000 0.000000 c 0.406500 1.112100 3.370300 2.918800 3.495100 1.945300 c 0.043700 -0.913100 -2.457400 -1.835200 -3.495100 -1.945300</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.673</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path> M 0.000000 0.000000 c -0.423000 1.106000 0.628000 4.414000 1.361000 3.761200 c 0.632000 -0.660400 -0.650000 -2.997300 -1.361000 -3.761200</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.673</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.014080 1.183980 2.116860 3.923950 2.578650 3.057870 c 0.364473 -0.838342 -1.647390 -2.587130 -2.578650 -3.057870</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.673</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

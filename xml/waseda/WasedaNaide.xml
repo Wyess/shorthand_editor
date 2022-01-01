@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ないで</index>
+      <characterNames>WasedaNaide</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNaide</name>
+      <description>ないで</description>
+      <model>PSW3NW1</model>
+      <head>SW</head>
+      <tail>CR</tail>
+      <headModel>PSW3</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.7</offsetX>
+      <offsetY>-1.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -1.026100 2.819000 c -0.109530 -0.465502 -0.221256 -0.931004 -0.639765 -1.396510</path>
+        <exitX>-1.66586</exitX>
+        <exitY>1.42249</exitY>
+        <length>4.556</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_H(SEL)</key>
+        <path> M 0.000000 0.000000 l -0.859451 2.558360 c -0.144000 0.417500 -0.501001 0.339382 -0.653846 0.152488 c -0.318725 -0.389727 -0.025960 -1.295400 0.476662 -1.324520 c 0.266447 -0.015440 0.312429 0.284928 0.312429 0.769442</path>
+        <entryX>-0.5</entryX>
+        <entryY>-1.2</entryY>
+        <exitX>-0.724206</exitX>
+        <exitY>2.15577</exitY>
+        <length>6.113</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

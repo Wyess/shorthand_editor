@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>〜</index>
+      <characterNames>WasedaWave</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWave</name>
+      <description>〜</description>
+      <model>ER3EL3</model>
+      <head>ER</head>
+      <tail>EL</tail>
+      <headModel>ER3</headModel>
+      <tailModel>EL3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.803712 -0.803712 1.847600 -1.137510 2.768090 -0.436745 c 1.011560 0.770095 1.980320 0.585253 3.073390 -0.507809</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>5.841</exitX>
+        <exitY>-0.945</exitY>
+        <length>6.572</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>&#12360;</index>
+      <characterNames>WasedaE</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaE</name>
+      <description>&#12360;</description>
+      <model>SE4</model>
+      <head>SE</head>
+      <tail>SE</tail>
+      <headModel>SE4</headModel>
+      <tailModel>SE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>-1.4</offsetY>
+      <glyph>
+        <key>X_H(SW)</key>
+        <exitX>3.464</exitX>
+        <exitY>2</exitY>
+        <path>m 0 0 l 3.4641 2</path>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <exitX>2.419</exitX>
+        <exitY>2.542</exitY>
+        <path>m 0 0l 2.82843 2.8284l -0.40958 -0.2867</path>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <exitX>2.828</exitX>
+        <exitY>2.828</exitY>
+        <path>m 0 0l 2.82843 2.8284</path>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(SE)</target>
+        <by>X_H(EL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>たき</index>
+      <characterNames>WasedaTaki</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTaki</name>
+      <description/>
+      <model/>
+      <head/>
+      <tail/>
+      <headModel/>
+      <tailModel/>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 1.905514 0.530370 2.299316 -0.250660 c 0.249185 -0.494210 0.079270 -1.009640 -0.472309 -0.855460 c -0.364436 0.101870 -0.788104 1.419720 -0.788104 1.419720 l -2.339349 6.427360</path>
+        <exitX>-1.3</exitX>
+        <exitY>6.741</exitY>
+        <bbox>
+          <minX>-1.3</minX>
+          <maxX>2.411</maxX>
+          <minY>-1.134</minY>
+          <maxY>6.741</maxY>
+        </bbox>
+        <length>12.272</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

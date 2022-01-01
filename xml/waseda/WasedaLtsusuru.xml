@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>っする</index>
+      <characterNames>WasedaLtsusuru</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaLtsusuru</name>
+      <description>っする</description>
+      <model>XSE2NE2</model>
+      <head>XSE</head>
+      <tail>NE</tail>
+      <headModel>XSE2</headModel>
+      <tailModel>NE2</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l 1.342810 2.238020 l 1.230910 -1.902320</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>2.574</exitX>
+        <exitY>0.336</exitY>
+        <length>4.876</length>
+      </glyph>
+      <glyph>
+        <key>TM(SEL8)_X</key>
+        <path>M 0.000000 0.000000 l 1.404780 1.478710 l 1.293880 -1.737490</path>
+        <entryX>-5</entryX>
+        <entryY>-3.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>TM(SE8)_X</key>
+        <path>M 0.000000 0.000000 l 1.404780 1.478710 l 1.293880 -1.737490</path>
+        <entryX>-4</entryX>
+        <entryY>-4</entryY>
+        <exitX>2.699</exitX>
+        <exitY>-0.259</exitY>
+        <length>4.206</length>
+      </glyph>
+      <glyph>
+        <key>TM(SW8)_X</key>
+        <path>M 0.000000 0.000000 l 1.404780 1.478710 l 1.293880 -1.737490</path>
+        <entryX>1</entryX>
+        <entryY>-5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

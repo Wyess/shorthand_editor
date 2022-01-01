@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>等</index>
+      <characterNames>WasedaNado</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNado</name>
+      <description>等</description>
+      <model>SW4ONEL4</model>
+      <head>SW</head>
+      <tail>SWONEL4</tail>
+      <headModel>SW4</headModel>
+      <tailModel>ONEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.4</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(ER)</key>
+        <path> M 0.000000 0.000000 l -1.368100 3.758700 c 0.703988 -0.245888 3.382400 -1.757450 2.814450 -2.436410 c -0.301817 -0.360802 -1.987480 1.664960 -2.814450 2.436410</path>
+        <exitX>-1.3681</exitX>
+        <exitY>3.7587</exitY>
+        <length>11.798</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -1.368100 3.758700 c 0.374934 0.100463 1.152120 0.209997 1.925300 -0.236400 c 0.836241 -0.482804 1.434760 -1.365240 1.178300 -1.621700 c -0.332619 -0.332619 -2.276640 1.086650 -3.103600 1.858100</path>
+        <exitX>-1.3681</exitX>
+        <exitY>3.7587</exitY>
+        <length>11.854</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

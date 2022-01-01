@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>こい こえ コク</index>
+      <characterNames>WasedaKoi</characterNames>
+    </entry>
+    <entry>
+      <index>どこ</index>
+      <characterNames>WasedaKoi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKoi</name>
+      <description>こい</description>
+      <model>NE4</model>
+      <head>NE</head>
+      <tail>NE</tail>
+      <headModel>NE4</headModel>
+      <tailModel>NE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>1.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 l 3.27666 -2.2943</path>
+        <exitX>3.27666</exitX>
+        <exitY>-2.2943</exitY>
+        <length>4.000</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NE)</key>
+        <path>M 0.000000 0.000000 l 3.276660 -2.294300 l -0.692697 0.825782</path>
+        <exitX>2.584</exitX>
+        <exitY>-1.469</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>3.277</maxX>
+          <minY>-2.294</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>5.078</length>
+      </glyph>
+      <glyph>
+        <key>X_H(ER)</key>
+        <path>M 0.000000 0.000000 l 3.276660 -2.294300 l -0.332682 0.446819</path>
+        <exitX>2.944</exitX>
+        <exitY>-1.847</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>3.277</maxX>
+          <minY>-2.294</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>4.557</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>それ</index>
+      <characterNames>WasedaSore</characterNames>
+    </entry>
+    <entry>
+      <index>その</index>
+      <characterNames>WasedaSore</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSore</name>
+      <description>それ</description>
+      <model>SWR4F</model>
+      <head>SWR</head>
+      <tail>SWRF</tail>
+      <headModel>SWR4</headModel>
+      <tailModel>SWR4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>3</offsetX>
+      <offsetY>-2.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -0.949482 2.997240 -2.208990 3.334720</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.209</exitX>
+        <exitY>3.335</exitY>
+        <length>4.252</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -0.949482 2.997240 -2.208990 3.334720</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4.088</exitX>
+        <exitY>4.019</exitY>
+        <length>4.252</length>
+      </glyph>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path> M 0.000000 0.000000 c 1.814630 1.047670 -0.949482 2.997240 -2.208990 3.334720 M -4.088375 5.018760</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4.088</exitX>
+        <exitY>5.019</exitY>
+        <length>5.02</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaMasen)</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -0.947128 3.582540 -2.771140 3.093800</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.771</exitX>
+        <exitY>3.094</exitY>
+        <length>4.781</length>
+      </glyph>
+      <glyph>
+        <key>X_H(ER)</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -0.949482 2.997240 -2.208990 3.334718 M -4.088376 5.018756</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4.088</exitX>
+        <exitY>5.019</exitY>
+        <length>4.252</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(S)_X</target>
+        <by>T(SW)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(ER)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

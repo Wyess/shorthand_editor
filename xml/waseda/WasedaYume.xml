@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>ゆめ</index>
+      <characterNames>WasedaYume</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYume</name>
+      <description/>
+      <model>NER8CR1SE3</model>
+      <head>NER</head>
+      <tail>SE</tail>
+      <headModel>NER8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.962200 -2.506800 3.556600 -4.997000 6.170700 -4.997000 c 0.275300 0.000000 0.528444 0.250972 0.536378 0.493884 c 0.009910 0.303312 -0.340825 0.561190 -0.628078 0.659078 c -0.165748 0.056483 -0.410879 0.057711 -0.519219 -0.079858 c -0.367248 -0.466331 -0.065406 -1.991881 0.149423 -1.774457 l 2.015023 2.015001</path>
+        <exitX>7.724</exitX>
+        <exitY>-3.683</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>7.724</maxX>
+          <minY>-5.719</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>15.494</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

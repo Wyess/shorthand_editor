@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ほく</index>
+      <characterNames>WasedaHoku</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHoku</name>
+      <description>ほく</description>
+      <model>BSEL16</model>
+      <head>BSEL</head>
+      <tail>SEL</tail>
+      <headModel>BSEL16</headModel>
+      <tailModel>BSEL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-6.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path> M 0.000000 0.000000 c 0.590457 0.000000 1.060660 -0.567771 1.060660 -1.060660 c 0.000000 10.815000 5.035940 16.290300 8.000010 11.156400</path>
+        <exitX>9.06067</exitX>
+        <exitY>10.0957</exitY>
+        <length>20.204</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.590457 0.000000 1.060660 -0.567771 1.060660 -1.060660 c 0.000000 7.698300 1.320200 13.856400 8.000000 13.856400</path>
+        <exitX>9.06066</exitX>
+        <exitY>12.7957</exitY>
+        <length>19.804</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(EL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

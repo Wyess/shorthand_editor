@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>した</index>
+      <characterNames>WasedaShita</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShita</name>
+      <description>した</description>
+      <model>PS2</model>
+      <head>PS</head>
+      <tail>S</tail>
+      <headModel>PS2</headModel>
+      <tailModel>PS2</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 v 2.000000</path>
+        <exitX>0</exitX>
+        <exitY>2</exitY>
+        <length>2</length>
+      </glyph>
+      <glyph>
+        <key>M(NE16)_X</key>
+        <path> M 0.000000 0.000000 v 2.000000</path>
+        <entryX>-3.477162</entryX>
+        <entryY>7.341402</entryY>
+        <exitX>0</exitX>
+        <exitY>2</exitY>
+        <length>2</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

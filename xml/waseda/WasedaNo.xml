@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>の</index>
+      <characterNames>WasedaNo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNo</name>
+      <description>の</description>
+      <model>EL16</model>
+      <head>EL</head>
+      <tail>EL</tail>
+      <headModel>EL16</headModel>
+      <tailModel>EL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>m 0 0 c 5.355 1.2363 11.017 2.3238 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.314</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 5.86615 1.35399 11.6399 1.5869 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.209</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWL)</key>
+        <path>m 0 0 c 2.8811 0.665 14.617 2.39543 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.396</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 2.8811 0.665 14.617 2.39543 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.396</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>m 0 0 c 2.881 0.6652 17.5774 3.555 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>17.290</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.8811 0.665 16 2.766 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.658</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(NEL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

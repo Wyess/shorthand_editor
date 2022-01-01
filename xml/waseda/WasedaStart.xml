@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>始</index>
+      <characterNames>WasedaStart</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaStart</name>
+      <description>書き始め</description>
+      <model>SW_SW</model>
+      <head>-</head>
+      <tail>-</tail>
+      <headModel></headModel>
+      <tailModel></tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>12</offsetX>
+      <offsetY>-15</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -3.946920 5.518980 -8.007330 11.019400 -12.048300 15.726700 M 0.432800 1.982400 c -3.258780 5.932200 -7.535380 10.678200 -11.678500 15.840000 M -1.924520 14.250700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.925</exitX>
+        <exitY>14.251</exitY>
+        <length>39.528</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

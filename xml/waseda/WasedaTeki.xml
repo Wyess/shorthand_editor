@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>てき</index>
+      <characterNames>WasedaTeki</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTeki</name>
+      <description>てき</description>
+      <model>P</model>
+      <head>P</head>
+      <tail>P</tail>
+      <headModel>P</headModel>
+      <tailModel>P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>M(OSEL4)_H(EL)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0.1</entryX>
+        <entryY>4.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SWL16F)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-2</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SL8ONEL4)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.8</entryX>
+        <entryY>1.8</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8CL1)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.581</entryX>
+        <entryY>1.913</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(E8CL4)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>1.9</entryX>
+        <entryY>1.8</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SW8CR1)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-2.1</entryX>
+        <entryY>3.3</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(ER8CR4)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>1.7</entryX>
+        <entryY>3.8</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SEL8CL4)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.3</entryX>
+        <entryY>2.9</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SECR)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-1.5</entryX>
+        <entryY>2.598</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(ECL)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-0.5</entryX>
+        <entryY>1.732</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(S)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>-1.414</entryX>
+        <entryY>1.414</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NE)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NER)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>2</exitX>
+        <exitY>0.1</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>-2</exitY>
+        <length>0</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(E)_X</target>
+        <target>T(S)_X</target>
+        <by>T(SW)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>SER</target>
+        <target>NEL</target>
+        <target>NE</target>
+        <target>NER</target>
+        <by>SW</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

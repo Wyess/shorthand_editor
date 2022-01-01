@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しみる</index>
+      <characterNames>WasedaShimiru</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShimiru</name>
+      <description>しみる</description>
+      <model>NER4SWR4S1F</model>
+      <head>NER</head>
+      <tail>SF</tail>
+      <headModel>NER4</headModel>
+      <tailModel>SWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 -0.779360 1.554400 -3.811940 2.642390 -3.088730 c 0.623957 0.414760 0.485758 1.433640 0.058130 2.349600 c -0.318116 0.681390 -0.796401 1.305820 -1.240250 1.582220 v 1.000000</path>
+        <exitX>1.46028</exitX>
+        <exitY>3.84309</exitY>
+        <length>10.088</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

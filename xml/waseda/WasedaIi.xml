@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>いい</index>
+      <characterNames>WasedaIi</characterNames>
+    </entry>
+    <entry>
+      <index>いー</index>
+      <characterNames>WasedaIi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaIi</name>
+      <description>いい</description>
+      <model>ER4CR1</model>
+      <head>ER</head>
+      <tail>CR</tail>
+      <headModel>ER4</headModel>
+      <tailModel>ER4CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>0.0</offsetY>
+      <glyph>
+        <key>X_X</key>
+        <exitX>3.494</exitX>
+        <exitY>-0.704</exitY>
+        <path>m 0 0 c 1.58483 -0.915 4.015 -1.2411 4.015 0 c 0 0.5987 -0.628513 0.911776 -0.97446 0.708 c -0.196365 -0.115666 -0.00415 -0.468157 0.08332 -0.6786 c 0.101695 -0.244663 0.241157 -0.459951 0.370056 -0.733098</path>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <exitX>2.942</exitX>
+        <exitY>-0.809</exitY>
+        <path>m 0 0 c 1.58483 -0.915 4.015 -1.2411 4.015 0 c 0 0.5987 -0.34418 0.768118 -0.578204 0.674035 c -0.240946 -0.096865 -0.352824 -0.399131 -0.437474 -0.644635 c -0.091272 -0.264712 -0.056929 -0.562771 -0.056929 -0.838085</path>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>M 0.000000 0.000000 c 1.584830 -0.915000 4.015000 -1.241100 4.015000 0.000000 c 0.000000 0.598700 -0.453847 0.847498 -0.974460 0.708000 c -0.373213 -0.100002 -0.477289 -0.774852 -0.316141 -0.936000 c 0.245325 -0.245325 0.794348 0.115453 1.289583 0.269502</path>
+        <exitX>4.014</exitX>
+        <exitY>0.042</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.015</maxX>
+          <minY>-0.813</minY>
+          <maxY>0.746</maxY>
+        </bbox>
+        <length>8.505</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

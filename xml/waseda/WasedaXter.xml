@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>テｒ</index>
+      <characterNames>WasedaXter</characterNames>
+    </entry>
+    <entry>
+      <index>〜てｒ</index>
+      <characterNames>WasedaXter</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaXter</name>
+      <description>てｒ</description>
+      <model>SW4CR1S1F</model>
+      <head>SW</head>
+      <tail>SF</tail>
+      <headModel>SW4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.2</offsetX>
+      <offsetY>-3.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -1.368100 3.758700 c -0.122467 0.336465 -0.559886 0.222285 -0.714220 0.040510 c -0.272069 -0.320444 -0.144722 -1.202640 0.274697 -1.230810 c 0.422001 -0.028346 0.439523 0.770494 0.439523 1.190300 v 1.000000</path>
+        <exitX>-1.3681</exitX>
+        <exitY>6.7587</exitY>
+        <length>8.697</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

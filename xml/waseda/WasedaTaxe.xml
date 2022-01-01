@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>たぇ</index>
+      <characterNames>WasedaTaxe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTaxe</name>
+      <description>た</description>
+      <model>SW8P</model>
+      <head>SW</head>
+      <tail>SWP</tail>
+      <headModel>SW8</headModel>
+      <tailModel>SW8P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.7</offsetX>
+      <offsetY>-3.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>M 0.000000 0.000000 l -2.736160 7.517600 M -2.394140 6.577900 c 0.318527 0.085300 0.549559 0.222960 0.448806 0.499780</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.945</exitX>
+        <exitY>7.078</exitY>
+        <length>8.776</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -2.736160 7.517600 M -2.394140 6.577900 h 0.500000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.294</exitX>
+        <exitY>6.578</exitY>
+        <length>8.1</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

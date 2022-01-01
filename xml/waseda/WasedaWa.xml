@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>&#12431;</index>
+      <characterNames>WasedaWa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWa</name>
+      <description>&#12431;</description>
+      <model>UWL4</model>
+      <head>WL</head>
+      <tail>EL</tail>
+      <headModel>UWL4</headModel>
+      <tailModel>UWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.8</offsetX>
+      <offsetY>-1.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaShi)_X</key>
+        <path> M 0.000000 0.000000 c -0.148180 0.553004 -0.471906 1.542400 -0.271026 2.292090 c 0.247939 0.925324 1.179370 1.279890 2.220810 0.794222</path>
+        <exitX>1.94979</exitX>
+        <exitY>3.08632</exitY>
+        <length>5.069</length>
+      </glyph>
+      <glyph>
+        <key>M(NE16)_HM(SER16)</key>
+        <path> M 0.000000 0.000000 c -0.745013 0.745013 -1.391250 2.162860 -1.391250 2.841350 c 0.000000 0.999200 1.002860 1.400420 1.932540 1.915750</path>
+        <exitX>0.541292</exitX>
+        <exitY>4.7571</exitY>
+        <length>6.093</length>
+      </glyph>
+      <glyph>
+        <key>M(E8CL4)_HM(NEL8)</key>
+        <path> M 0.000000 0.000000 c -0.536400 0.756860 -1.317630 1.859180 -0.837674 2.652510 c 0.419282 0.693045 1.228620 0.936541 2.392160 0.936541</path>
+        <exitX>1.55449</exitX>
+        <exitY>3.58905</exitY>
+        <length>5.627</length>
+      </glyph>
+      <glyph>
+        <key>M(EL8CL1)_H(EL)</key>
+        <path> M 0.000000 0.000000 c -0.690840 0.905150 -1.281080 2.227210 -0.596457 2.969010 c 0.521773 0.565352 1.441170 0.578741 2.291910 -0.272004</path>
+        <exitX>1.69545</exitX>
+        <exitY>2.69701</exitY>
+        <length>5.864</length>
+      </glyph>
+      <glyph>
+        <key>M(EL8CL1)_H(NEL)</key>
+        <path> M 0.000000 0.000000 c -0.634071 0.830770 -1.184840 1.690140 -0.927046 2.443960 c 0.294368 0.860770 1.260790 0.989621 2.262800 0.989621</path>
+        <exitX>1.33575</exitX>
+        <exitY>3.43358</exitY>
+        <length>5.367</length>
+      </glyph>
+      <glyph>
+        <key>M(SEL4CL1)_H(EL)</key>
+        <path> M 0.000000 0.000000 c -0.634071 0.830770 -1.184840 1.690140 -0.927046 2.443960 c 0.294368 0.860770 1.433480 1.154530 2.223480 0.364529</path>
+        <exitX>1.29644</exitX>
+        <exitY>2.80849</exitY>
+        <length>5.426</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8)_H(E)</key>
+        <path> M 0.000000 0.000000 c -0.536400 0.756860 -1.317630 1.859180 -0.837674 2.652510 c 0.419282 0.693045 1.350690 0.685067 2.392160 0.685067</path>
+        <exitX>1.55449</exitX>
+        <exitY>3.33758</exitY>
+        <length>5.54</length>
+      </glyph>
+      <glyph>
+        <key>M(EL8CL1)_X</key>
+        <path> M 0.000000 0.000000 c -0.634071 0.830770 -1.184840 1.690140 -0.927046 2.443960 c 0.294368 0.860770 1.382840 1.258890 2.262800 0.797040</path>
+        <exitX>1.33575</exitX>
+        <exitY>3.241</exitY>
+        <length>5.432</length>
+      </glyph>
+      <glyph>
+        <key>M(E16CL1)_X</key>
+        <path> M 0.000000 0.000000 c -0.536400 0.756860 -1.317630 1.859180 -0.837674 2.652510 c 0.419282 0.693045 1.351160 0.913270 2.392160 0.427270</path>
+        <exitX>1.55449</exitX>
+        <exitY>3.07978</exitY>
+        <length>5.607</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL16CL8)_X</key>
+        <path> M 0.000000 0.000000 c -0.224880 0.890470 -0.393661 1.488680 -0.306835 2.494140 c 0.083344 0.965136 1.202630 1.580200 2.244120 1.094500</path>
+        <exitX>1.93729</exitX>
+        <exitY>3.58864</exitY>
+        <length>5.453</length>
+      </glyph>
+      <glyph>
+        <key>T(SLONEL)_H(BE)</key>
+        <path> M 0.000000 0.000000 c -0.826960 0.771522 -1.089830 1.400580 -1.089830 2.109100 c 0.000000 0.999293 1.013480 1.578840 2.221210 1.578840</path>
+        <exitX>1.13138</exitX>
+        <exitY>3.68794</exitY>
+        <length>5.487</length>
+      </glyph>
+      <glyph>
+        <key>T(NE)_X</key>
+        <path> M 0.000000 0.000000 c -0.829292 0.602516 -1.858620 1.799350 -1.858620 2.477840 c 0.000000 0.999200 1.202630 1.414770 2.244120 0.929072</path>
+        <exitX>0.385501</exitX>
+        <exitY>3.40691</exitY>
+        <length>6.067</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL16)</key>
+        <path> M 0.000000 0.000000 c -0.975500 0.375000 -2.155740 1.726470 -1.978050 2.640470 c 0.173500 0.893000 1.045600 1.332390 2.388950 0.562530</path>
+        <exitX>0.4109</exitX>
+        <exitY>3.203</exitY>
+        <length>6.452</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER16)</key>
+        <path> M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.999200 1.076080 0.993820 2.124060 1.574730</path>
+        <exitX>0.290882</exitX>
+        <exitY>3.68363</exitY>
+        <length>5.813</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL8)</key>
+        <path> M 0.000000 0.000000 c -0.975600 0.375000 -2.010800 1.195000 -1.833100 2.109000 c 0.173500 0.893000 1.253100 1.094000 2.244000 1.094000</path>
+        <exitX>0.4109</exitX>
+        <exitY>3.203</exitY>
+        <length>5.72</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path> M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.999200 1.649000 1.611010 2.310080 2.073910</path>
+        <exitX>0.476898</exitX>
+        <exitY>4.18281</exitY>
+        <length>6.223</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path> M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.999200 1.563720 1.472470 2.613750 0.422439</path>
+        <exitX>0.780574</exitX>
+        <exitY>2.53134</exitY>
+        <length>6.31</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c -0.975300 0.374500 -2.029500 1.233800 -1.851700 2.148100 c 0.173600 0.893100 1.268900 1.055100 2.262700 1.055100</path>
+        <exitX>0.411</exitX>
+        <exitY>3.2032</exitY>
+        <length>5.762</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path> M 0.000000 0.000000 c -0.975000 0.374500 -1.833000 1.099700 -1.833000 2.108900 c 0.000000 1.705200 2.345220 1.564900 2.797770 0.180359</path>
+        <exitX>0.96477</exitX>
+        <exitY>2.28926</exitY>
+        <length>6.974</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.999200 1.202630 1.580200 2.244120 1.094500</path>
+        <exitX>0.410938</exitX>
+        <exitY>3.2034</exitY>
+        <length>5.954</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>N(WasedaSe)_X</target>
+        <by>N(WasedaShi)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(NEL8)_HM(NEL8)</target>
+        <by>M(E8CL4)_HM(NEL8)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(NEL16)_HM(NEL8)</target>
+        <by>M(E8CL4)_HM(NEL8)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SEL4CL1)_H(E)</target>
+        <by>M(EL8CL1)_H(NEL)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SEL4CL1)_H(NEL)</target>
+        <by>M(EL8CL1)_H(NEL)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(EL8CL1)_H(E)</target>
+        <by>M(EL8CL1)_H(NEL)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SEL4CL1)_X</target>
+        <by>M(EL8CL1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(NEL8)_X</target>
+        <by>M(E16CL1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(NEL16)_X</target>
+        <by>M(E16CL1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(E8CL1)_X</target>
+        <by>M(E16CL1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(E8CL4)_X</target>
+        <by>M(E16CL1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SER4)</target>
+        <by>X_HM(SER8)</by>
+      </sub>
+      <glyph>
+        <key>X_HM(NE4)</key>
+        <path>M 0.000000 0.000000 c -0.975201 0.279700 -1.833180 1.099700 -1.833180 2.108900 c 0.000000 0.896071 1.200337 1.814387 2.741821 0.735048</path>
+        <exitX>0.909</exitX>
+        <exitY>2.844</exitY>
+        <bbox>
+          <minX>-1.833</minX>
+          <maxX>0.909</maxX>
+          <minY>0</minY>
+          <maxY>3.333</maxY>
+        </bbox>
+        <length>6.506</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

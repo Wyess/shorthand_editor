@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>々</index>
+      <characterNames>WasedaRepeat</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRepeat</name>
+      <description>々</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1.768</entryX>
+        <entryY>1.768</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1.768</entryX>
+        <entryY>1.768</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaSei)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1.026</entryX>
+        <entryY>2.819</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(NECL)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-0.6</entryX>
+        <entryY>1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(NERCR)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1</entryX>
+        <entryY>2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(NEL)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-0.521</entryX>
+        <entryY>2.954</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(NELCL4)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-0.684</entryX>
+        <entryY>1.879</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(SER)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1</entryX>
+        <entryY>1.732</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(SERCR)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-2</entryX>
+        <entryY>3.464</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(NE)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-0.684</entryX>
+        <entryY>1.879</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(ERCR)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1.5</entryX>
+        <entryY>2.5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(ECL)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-1</entryX>
+        <entryY>2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(SCR)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-2.294</entryX>
+        <entryY>3.277</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>T(SWCR)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>-3.182</entryX>
+        <entryY>3.182</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

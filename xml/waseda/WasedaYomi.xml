@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>よみ</index>
+      <characterNames>WasedaYomi</characterNames>
+    </entry>
+    <entry>
+      <index>よめ</index>
+      <characterNames>WasedaYomi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYomi</name>
+      <description/>
+      <model>NER16CR1</model>
+      <head>NER</head>
+      <tail>NERCR</tail>
+      <headModel>NER16</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 1.215100 -3.338400 8.156996 -11.232115 10.769899 -11.232115 c 0.275300 0.000000 0.528444 0.250972 0.536378 0.493884 c 0.009900 0.303312 -0.340825 0.561190 -0.628078 0.659078 c -0.165748 0.056480 -0.432930 0.072510 -0.519219 -0.079860 c -0.189742 -0.335054 0.546419 -0.814304 0.610919 -1.073104</path>
+        <exitX>10.77</exitX>
+        <exitY>-11.232</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>11.306</maxX>
+          <minY>-11.232</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>19.542</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NE)</key>
+        <path>M 0.000000 0.000000 c 1.215100 -3.338400 8.156996 -11.232115 10.769899 -11.232115 c 0.275300 0.000000 0.559554 0.251950 0.536378 0.493884 c -0.049780 0.519643 -0.632330 0.960564 -1.013853 0.690418 c -0.314249 -0.222510 0.141112 -0.746988 0.477576 -1.184190</path>
+        <exitX>10.77</exitX>
+        <exitY>-11.232</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>11.308</maxX>
+          <minY>-11.232</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>19.57</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

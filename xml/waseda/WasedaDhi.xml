@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぢ</index>
+      <characterNames>WasedaDhi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaDhi</name>
+      <description>ぢ</description>
+      <model>SW8CR1</model>
+      <head>SW</head>
+      <tail>SWCR</tail>
+      <headModel>SW8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.9</offsetX>
+      <offsetY>-3.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m -2.2584033,2.64108 v 0.1</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaChi</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

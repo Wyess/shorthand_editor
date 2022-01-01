@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>たて</index>
+      <characterNames>WasedaTate</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTate</name>
+      <description/>
+      <model>S8GP</model>
+      <head>S</head>
+      <tail>P</tail>
+      <headModel>S8</headModel>
+      <tailModel>S8GP</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 8.000000 M 0.000000 7.000000 h 0.500000</path>
+        <exitX>0.5</exitX>
+        <exitY>7</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>0.5</maxX>
+          <minY>0</minY>
+          <maxY>8</maxY>
+        </bbox>
+        <length>8.5</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

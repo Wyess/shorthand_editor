@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>こども</index>
+      <characterNames>WasedaKodomo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKodomo</name>
+      <description/>
+      <model>S8CR1F</model>
+      <head>S</head>
+      <tail>CR1F</tail>
+      <headModel>S8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -0.006223 7.098742 c -0.000843 0.961322 -0.828942 1.060727 -1.016552 0.515660 c -0.181427 -0.527102 0.836064 -0.957394 1.766530 -1.594860 M 2.551236 4.860070</path>
+        <exitX>2.551</exitX>
+        <exitY>4.86</exitY>
+        <bbox>
+          <minX>-1.044</minX>
+          <maxX>0.744</maxX>
+          <minY>0</minY>
+          <maxY>7.945</maxY>
+        </bbox>
+        <length>11.324</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

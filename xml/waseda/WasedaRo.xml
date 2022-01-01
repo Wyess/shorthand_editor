@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ろ</index>
+      <characterNames>WasedaRo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRo</name>
+      <description>ろ</description>
+      <model>SER16</model>
+      <head>SER</head>
+      <tail>SER</tail>
+      <headModel>SER16</headModel>
+      <tailModel>SER16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_N(WasedaAi)</key>
+        <path>m 0 0 c 4.6323 2.6745 8.77778 10.711 8.77778 13.8564</path>
+        <exitX>8.77778</exitX>
+        <exitY>13.8564</exitY>
+        <length>16.858</length>
+      </glyph>
+      <glyph>
+        <key>X_H(BNE)</key>
+        <path>m 0 0 c 4.6323 2.6745 8.99756 8.95485 8.99756 13.2425</path>
+        <exitX>8.99756</exitX>
+        <exitY>13.2425</exitY>
+        <length>16.575</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 6.564 3.79 11.0816 13.856 8 13.856</path>
+        <exitX>8</exitX>
+        <exitY>13.856</exitY>
+        <length>17.760</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 4.6323 2.6745 10.0981 10.2225 8 13.8564</path>
+        <exitX>8</exitX>
+        <exitY>13.8564</exitY>
+        <length>17.112</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 4.6323 2.6745 11.0125 11.3286 8 13.8564</path>
+        <exitX>8</exitX>
+        <exitY>13.8564</exitY>
+        <length>17.388</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

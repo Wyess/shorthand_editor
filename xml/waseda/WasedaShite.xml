@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>して</index>
+      <characterNames>WasedaShite</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShite</name>
+      <description>して</description>
+      <model>SE3</model>
+      <head>SE</head>
+      <tail>SE</tail>
+      <headModel>SE3</headModel>
+      <tailModel>SE3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path> M 0.000000 0.000000 l 2.014980 2.015000 l -0.252700 -0.161600</path>
+        <exitX>2.01498</exitX>
+        <exitY>2.015</exitY>
+        <length>3.15</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 2.014980 2.015000</path>
+        <exitX>2.01498</exitX>
+        <exitY>2.015</exitY>
+        <length>2.85</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

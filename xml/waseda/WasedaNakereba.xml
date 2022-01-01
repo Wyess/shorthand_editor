@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>なければ</index>
+      <characterNames>WasedaNakereba</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNakereba</name>
+      <description>なければ</description>
+      <model>XEL25F</model>
+      <head>XEL</head>
+      <tail>ELF</tail>
+      <headModel>XEL25</headModel>
+      <tailModel>XEL25F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaWa)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-3.7</entryX>
+        <entryY>-2.3</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaToJoshi)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-3</entryX>
+        <entryY>-2</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaTeJoshi)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-0.7</entryX>
+        <entryY>-1.2</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>M(ER4)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-3.3</entryX>
+        <entryY>-1.2</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8CL1)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-3.3</entryX>
+        <entryY>-1.3</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-5</entryX>
+        <entryY>-1</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>T(S)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-2</entryX>
+        <entryY>-3</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-1</entryX>
+        <entryY>-3</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+      <glyph>
+        <key>T(SE)_X</key>
+        <path>M 0.000000 0.000000 c 7.143390 4.124240 19.455400 4.452610 25.000000 1.270090 M 26.732000 0.270090</path>
+        <entryX>-4</entryX>
+        <entryY>-3</entryY>
+        <exitX>26.732</exitX>
+        <exitY>0.27</exitY>
+        <length>25.877</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

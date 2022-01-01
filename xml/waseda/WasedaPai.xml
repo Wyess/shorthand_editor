@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぱい</index>
+      <characterNames>WasedaPai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPai</name>
+      <description>ぱい</description>
+      <model>SWL8ONEL4</model>
+      <head>SWL</head>
+      <tail>SWLONEL</tail>
+      <headModel>SWL8</headModel>
+      <tailModel>ONEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.3</offsetX>
+      <offsetY>-3.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NELF)_X</key>
+        <path> M 0.000000 0.000000 c -1.822840 1.822840 -4.432680 5.317500 -3.277150 7.305340 c 0.413629 0.711565 1.333770 0.249932 1.789600 -0.208595 c 0.479309 -0.465590 1.398800 -1.832940 0.840819 -2.200550 c -0.508869 -0.335253 -1.668090 1.776010 -2.281060 2.726410</path>
+        <exitX>-2.92779</exitX>
+        <exitY>7.6226</exitY>
+        <length>16.797</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c -2.232510 1.288940 -4.264240 6.062300 -3.442380 7.485820 c 0.670177 1.160780 2.153070 -0.603152 2.458270 -1.240780 c 0.252923 -0.528406 0.678436 -1.675490 0.149365 -1.817250 c -0.578347 -0.154967 -1.559380 2.606160 -1.806700 3.285640</path>
+        <exitX>-2.64144</exitX>
+        <exitY>7.71343</exitY>
+        <length>17.842</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -2.232510 1.288940 -5.155530 4.940360 -4.000000 6.928200 c 0.413630 0.711565 1.333770 0.249932 1.789600 -0.208595 c 0.479310 -0.465590 1.398800 -1.832940 0.840820 -2.200550 c -0.508870 -0.335253 -1.668090 1.776010 -2.281060 2.726410</path>
+        <exitX>-3.65064</exitX>
+        <exitY>7.24547</exitY>
+        <length>16.943</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

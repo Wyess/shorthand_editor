@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>？</index>
+      <characterNames>WasedaGimonhu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaGimonhu</name>
+      <description>？</description>
+      <model>ER4SW16CL1SW2F</model>
+      <head>ER</head>
+      <tail>SWF</tail>
+      <headModel>ER4</headModel>
+      <tailModel>SW16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.1</offsetX>
+      <offsetY>-6.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.140520 -1.148570 5.214080 -1.679030 4.564890 0.971632 c -0.726788 2.967520 -2.596340 6.859110 -3.543810 9.795620 c -0.247255 0.766330 -0.916437 2.099190 -0.172129 2.349850 c 0.769432 0.259120 1.789390 -1.580330 1.327780 -2.041940 c -0.649458 -0.649457 -3.713790 2.599380 -4.238620 3.117270</path>
+        <exitX>-2.06188</exitX>
+        <exitY>14.1924</exitY>
+        <length>27.493</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

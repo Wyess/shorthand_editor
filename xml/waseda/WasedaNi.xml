@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>に</index>
+      <characterNames>WasedaNi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNi</name>
+      <description>に</description>
+      <model>EL8CL1</model>
+      <head>EL</head>
+      <tail>ELCL</tail>
+      <headModel>EL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_N(WasedaHui)</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.89382 7.97 -0.061581 c 0 -0.851109 -0.504397 -0.651122 -0.719851 -0.277944 c -0.159494 0.276251 -0.240813 0.78066 -0.240813 1.21253</path>
+        <exitX>7.00934</exitX>
+        <exitY>0.873001</exitY>
+        <length>11.118</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.9201 7.97 0 c 0 -1.22306 -1.66942 0.769011 -1.86915 1.00852</path>
+        <exitX>6.10085</exitX>
+        <exitY>1.00852</exitY>
+        <length>11.270</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(OSEL4)</key>
+        <path>m 0 0 c 2.2359 0.66896 8.14076 1.91943 8.14076 0 c 0.04476 -0.72566 -1.25322 -0.92654 -1.11872 -0.37202 c 0.05475 0.22571 0.134588 0.47736 0.526836 1.15649</path>
+        <exitX>7.54888</exitX>
+        <exitY>0.78447</exitY>
+        <length>11.718</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL8)</key>
+        <path>m 0 0 c 2.198 0.6302 7.9375 1.913 7.9375 0 c 0 -0.4872 -0.249561 -0.723292 -0.559841 -0.747084 c -0.373313 -0.02862 -0.949046 0.441014 -0.802738 0.785652 c 0.177557 0.418246 1.00498 0.159589 1.36258 -0.03857</path>
+        <exitX>7.9375</exitX>
+        <exitY>0</exitY>
+        <length>12.327</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER4)</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.9201 7.97 0 c 0 -0.556572 -0.818181 -0.394055 -1.16516 -0.132416 c -0.225183 0.169801 -0.391466 0.576847 -0.186635 0.787268 c 0.296999 0.305104 0.519605 0.168357 1.24357 -0.249642</path>
+        <exitX>7.86178</exitX>
+        <exitY>0.40521</exitY>
+        <length>12.287</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.9201 7.97 0 c 0 -0.4888 -0.518801 -0.426783 -0.807466 -0.364501 c -0.32657 0.07046 -0.771036 0.436473 -0.6622 0.752333 c 0.130776 0.379534 0.552592 0.489842 1.18367 0.221968</path>
+        <exitX>7.684</exitX>
+        <exitY>0.6098</exitY>
+        <length>12.084</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 2.192 0.628 7.941 1.913 7.941 0 c 0 -0.39779 -0.25124 -0.45017 -0.46881 -0.45432 c -0.40384 -0.008 -1.05207 0.43459 -0.9017 0.80946 c 0.16253 0.40516 0.77899 0.13085 1.30899 -0.0412</path>
+        <exitX>7.87948</exitX>
+        <exitY>0.31394</exitY>
+        <length>12.074</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.9201 7.97 0 c 0 -0.4888 -0.29185 -0.797645 -0.644 -0.8549 c -0.266134 -0.04327 -0.642934 0.190004 -0.666307 0.458617 c -0.041488 0.476785 0.640935 0.747493 1.02431 1.00608</path>
+        <exitX>7.684</exitX>
+        <exitY>0.6098</exitY>
+        <length>12.127</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 2.1916 0.6285 7.9404 1.9127 7.9404 0 c 0 -0.8314 -0.4079 -0.787 -0.5701 -0.316 c -0.1369 0.3977 -0.2528 0.8023 -0.3967 1.1975</path>
+        <exitX>6.9736</exitX>
+        <exitY>0.8815</exitY>
+        <length>11.029</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 2.192 0.6285 7.941 1.9127 7.941 0 c -0.11 -0.6925 -1.116 -0.5097 -1.333 -0.0644 c -0.286 0.587 0.656 0.255 1.311 0.255</path>
+        <exitX>7.919</exitX>
+        <exitY>0.1906</exitY>
+        <length>11.877</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>m 0 0 c 2.189 0.6692 7.41104 1.87381 7.97 0 c 0.208342 -0.698423 -0.352937 -0.825991 -0.750642 -0.370316 c -0.317634 0.363934 -0.475665 0.859662 -0.590917 1.28979</path>
+        <exitX>6.62844</exitX>
+        <exitY>0.919473</exitY>
+        <length>11.276</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.189 0.6692 7.97 1.9201 7.97 0 c 0 -0.4888 -0.335 -0.7721 -0.644 -0.8549 c -0.307 -0.0881 -0.569 0.0282 -0.417 0.3028 c 0.233 0.4034 0.481 0.7998 0.775 1.1619</path>
+        <exitX>7.684</exitX>
+        <exitY>0.6098</exitY>
+        <length>11.832</length>
+      </glyph>
+      <glyph>
+        <key>X_M(EL4)</key>
+        <path>m 0 0 c 2.2021 0.5901 7.94 1.9126 7.94 0 c 0 -0.4871 -0.3989 -0.7351 -0.7537 -0.7537 c -0.244 -0.0171 -0.4489 0.0391 -0.4489 0.2837 c 0 0.5033 0.5349 0.7489 0.992 0.992</path>
+        <exitX>7.7294</exitX>
+        <exitY>0.522</exitY>
+        <length>11.793</length>
+      </glyph>
+      <glyph>
+        <key>X_M(EL8CL4)</key>
+        <path>m 0 0 c 2.202 0.5901 7.9399 1.9126 7.9399 0 c 0 -0.4871 -0.3988 -0.7351 -0.7537 -0.7537 c -0.244 -0.0171 -0.606 0.2264 -0.606 0.471 c 0 0.5154 0.6321 0.6367 1.1491 0.8047</path>
+        <exitX>7.7293</exitX>
+        <exitY>0.522</exitY>
+        <length>12.044</length>
+      </glyph>
+      <glyph>
+        <key>X_M(SE4)</key>
+        <path>m 0 0 c 2.1804 0.6666 7.9404 1.913 7.9404 0 c 0 -0.5019 -0.4925 -0.930837 -0.888932 -0.837865 c -0.229993 0.053938 -0.657821 0.300888 -0.245834 0.664695 c 0.35665 0.314942 0.521167 0.471473 0.853225 0.775796</path>
+        <exitX>7.65886</exitX>
+        <exitY>0.602626</exitY>
+        <length>12.010</length>
+      </glyph>
+      <glyph>
+        <key>X_M(UWL4)</key>
+        <path>m 0 0 c 2.1942 0.588 8.17049 1.9049 8.2352 0 c 0.03699 -1.08907 -1.06087 0.27825 -1.5895 0.97086</path>
+        <exitX>6.6457</exitX>
+        <exitY>0.97086</exitY>
+        <length>11.283</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_M(EL8)</target>
+        <by>X_M(EL8CL4)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_M(EL8CL1)</target>
+        <by>X_M(EL8CL4)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_M(SE3)</target>
+        <by>X_M(SE4)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

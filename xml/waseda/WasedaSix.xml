@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>６</index>
+      <characterNames>WasedaSix</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSix</name>
+      <description>６</description>
+      <model>SWL8CL1</model>
+      <head>SWL</head>
+      <tail>SWLCL</tail>
+      <headModel>SWL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.1</offsetX>
+      <offsetY>-3.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 0.000000 -4.292340 3.766810 -4.093270 6.248890 c 0.040210 0.501286 0.514384 1.118420 1.017260 1.114140 c 0.366064 -0.003100 0.714420 -0.457621 0.726614 -0.823495 c 0.025120 -0.753709 -1.380570 -1.792320 -1.380570 -1.792320</path>
+        <exitX>-3.72996</exitX>
+        <exitY>4.74722</exitY>
+        <length>12.806</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaFive)</key>
+        <path> M 0.000000 0.000000 c 0.000000 0.000000 -4.292340 3.766810 -4.093270 6.248890 c 0.040210 0.501286 0.514384 1.118420 1.017260 1.114140 c 0.366064 -0.003100 0.714420 -0.457621 0.726614 -0.823495 c 0.025120 -0.753709 -1.380570 -1.792320 -1.380570 -1.792320</path>
+        <exitX>3.5</exitX>
+        <exitY>0.5</exitY>
+        <length>12.806</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaFour)</key>
+        <path> M 0.000000 0.000000 c 0.000000 0.000000 -4.292340 3.766810 -4.093270 6.248890 c 0.040210 0.501286 0.514384 1.118420 1.017260 1.114140 c 0.366064 -0.003100 0.714420 -0.457621 0.726614 -0.823495 c 0.025120 -0.753709 -1.380570 -1.792320 -1.380570 -1.792320</path>
+        <exitX>3.5</exitX>
+        <exitY>0.5</exitY>
+        <length>12.806</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

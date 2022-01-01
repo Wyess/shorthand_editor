@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しゅん</index>
+      <characterNames>WasedaShun</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShun</name>
+      <description>しゅん</description>
+      <model>SR8CR1NE1F</model>
+      <head>SR</head>
+      <tail>NEF</tail>
+      <headModel>SR8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.5</offsetX>
+      <offsetY>-4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaSui)_X</key>
+        <path>M 0.000000 0.000000 c 0.237252 0.885438 0.844544 6.765230 -1.118360 8.244330 c -0.279900 0.218700 -0.636500 -0.139000 -0.422700 -0.422700 c 0.345500 -0.426700 1.210630 -1.172490 1.567720 -1.514360 l 0.987940 -0.966441</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.015</exitX>
+        <exitY>7.341</exitY>
+        <length>13.045</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 1.499000 2.222300 1.962900 6.491000 0.000000 7.970100 c -0.279900 0.218700 -0.636500 -0.139000 -0.422700 -0.422700 c 0.345500 -0.426700 1.210630 -1.172490 1.567720 -1.514360 l 0.987940 -0.966441 M 3.600630 3.707940</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>3.601</exitX>
+        <exitY>3.708</exitY>
+        <length>13.026</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

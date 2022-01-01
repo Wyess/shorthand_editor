@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>きり</index>
+      <characterNames>WasedaKiriP WasedaKiri</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKiriP</name>
+      <description>きりｐ</description>
+      <model>P/X</model>
+      <head>P/X</head>
+      <tail>P/X</tail>
+      <headModel>P/X</headModel>
+      <tailModel>P/X</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(S8)</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2</exitX>
+        <exitY>-4</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>TM(E8)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4</exitX>
+        <exitY>-2</exitY>
+        <length>0</length>
+        <tail>VERTICAL</tail>
+      </glyph>
+      <glyph>
+        <key>M(SE4NE1F)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-6</exitX>
+        <exitY>1.2</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(NE16CL1)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-6</exitX>
+        <exitY>4</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(ER8CR1)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SER16CR1)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-4</exitX>
+        <exitY>-4</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SEL8)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-6</exitX>
+        <exitY>-2.5</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SER8CR4)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>03</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8CL4)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-3</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SWL8CL1)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.0</exitX>
+        <exitY>-2.5</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8CL1)_X</key>
+        <path>M0 0</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-3.5</exitX>
+        <exitY>1.5</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

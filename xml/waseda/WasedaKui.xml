@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>くい</index>
+      <characterNames>WasedaKui</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKui</name>
+      <description>くい</description>
+      <model>E8ONL4</model>
+      <head>E</head>
+      <tail>EONL</tail>
+      <headModel>E8</headModel>
+      <tailModel>ONL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(S)</key>
+        <path> M 0.000000 0.000000 h 8.000000 c 0.197322 0.000000 0.453361 -3.296070 -0.015813 -3.296070 c -0.468601 0.000000 -0.369163 1.767560 -0.369163 3.296070</path>
+        <exitX>7.61502</exitX>
+        <exitY>0</exitY>
+        <length>14.843</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 8.000000 c 0.197322 0.000000 0.453361 -3.296070 -0.015813 -3.296070 c -0.668274 0.000000 -0.369163 1.767560 -0.369163 3.296070</path>
+        <exitX>7.61502</exitX>
+        <exitY>0</exitY>
+        <length>14.91</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

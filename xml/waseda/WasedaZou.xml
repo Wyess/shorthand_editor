@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぞう</index>
+      <characterNames>WasedaZou</characterNames>
+    </entry>
+    <entry>
+      <index>ぞー</index>
+      <characterNames>WasedaZou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaZou</name>
+      <description>ぞう</description>
+      <model>NEL16</model>
+      <head>NEL</head>
+      <tail>NEL</tail>
+      <headModel>NEL16</headModel>
+      <tailModel>NEL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>5.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 6.78115,-5.961659 c 0,0.545901 0.118182,1.053504 0.67553,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaSo</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

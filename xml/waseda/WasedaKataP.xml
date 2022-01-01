@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>かた（点）</index>
+      <characterNames>WasedaKataP</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKataP</name>
+      <description>かた（点）</description>
+      <model>P</model>
+      <head>P</head>
+      <tail>P</tail>
+      <headModel>P</headModel>
+      <tailModel>P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaNoJoshi)_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

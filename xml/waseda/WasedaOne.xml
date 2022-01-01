@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>１</index>
+      <characterNames>WasedaOne</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaOne</name>
+      <description>１</description>
+      <model>SW7</model>
+      <head>SW</head>
+      <tail>SW</tail>
+      <headModel>SW7</headModel>
+      <tailModel>SW7</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.7</offsetX>
+      <offsetY>-2.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -2.372580 6.239090</path>
+        <exitX>-2.37258</exitX>
+        <exitY>6.23909</exitY>
+        <length>6.675</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

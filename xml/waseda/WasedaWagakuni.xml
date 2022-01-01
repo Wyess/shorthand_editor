@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>わが国</index>
+      <characterNames>WasedaWagakuni</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaWagakuni</name>
+      <description>わが国</description>
+      <model>UWL4EL8CL1</model>
+      <head>SWL</head>
+      <tail>EL</tail>
+      <headModel>UWL4</headModel>
+      <tailModel>EL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.8</offsetX>
+      <offsetY>-2.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path> M 0.000000 0.000000 c -0.975000 0.374500 -1.939250 1.183590 -1.833000 2.108900 c 0.131345 1.143800 1.686720 1.685760 2.797770 2.025420 c 2.189000 0.669200 7.727960 0.443685 7.727960 -1.476420 c 0.000000 -0.488800 -0.165727 -0.752748 -0.475372 -0.854900 c -0.287317 -0.094786 -0.769478 0.077947 -0.826525 0.375069 c -0.096893 0.504651 0.394685 0.783189 1.068080 1.111650</path>
+        <exitX>8.45891</exitX>
+        <exitY>3.28972</exitY>
+        <length>18.825</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.975000 0.374500 -1.939250 1.183590 -1.833000 2.108900 c 0.131345 1.143800 1.686720 1.685760 2.797770 2.025420 c 2.189000 0.669200 7.727960 0.443685 7.727960 -1.476420 c 0.000000 -0.488800 -0.335000 -0.772100 -0.644000 -0.854900 c -0.307000 -0.088100 -0.569000 0.028200 -0.417000 0.302800 c 0.233000 0.403400 0.533183 0.821810 0.827183 1.183910</path>
+        <exitX>8.45891</exitX>
+        <exitY>3.28972</exitY>
+        <length>18.423</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

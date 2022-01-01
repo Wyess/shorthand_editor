@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>トテ</index>
+      <characterNames>WasedaToteJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaToteJoshi</name>
+      <description>トテ</description>
+      <model>SW16NW1|SW16CR1</model>
+      <head>SW</head>
+      <tail>SWCR</tail>
+      <headModel>SW16</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>7.4</offsetX>
+      <offsetY>-7.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path> M 0.000000 0.000000 l -5.472300 15.035000 c -0.148999 0.409370 -0.675315 0.333869 -0.803100 0.096450 c -0.329126 -0.611500 0.637661 -1.180360 1.346580 -1.589660</path>
+        <exitX>-4.92882</exitX>
+        <exitY>13.5418</exitY>
+        <length>19.276</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c -2.340210 4.597270 -4.535280 9.636380 -6.736000 14.446800 c -0.144000 0.417500 -0.558155 0.325094 -0.711000 0.138200 c -0.318725 -0.389727 0.074063 -1.366840 0.576681 -1.395960 c 0.266447 -0.015440 0.389128 0.215252 0.389128 0.699766</path>
+        <exitX>-6.48119</exitX>
+        <exitY>13.8888</exitY>
+        <length>19.478</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 c -1.697140 4.662850 -3.580020 9.786290 -5.352290 14.705300 c -0.144000 0.417500 -0.558155 0.325094 -0.711000 0.138200 c -0.318725 -0.389727 0.074063 -1.366840 0.576681 -1.395960 c 0.266447 -0.015440 0.356036 0.158385 0.356036 0.642899</path>
+        <exitX>-5.13058</exitX>
+        <exitY>14.0904</exitY>
+        <length>19.126</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -5.472300 15.035000 c -0.109530 -0.465502 -0.221256 -0.931004 -0.639765 -1.396510</path>
+        <exitX>-6.11207</exitX>
+        <exitY>13.6385</exitY>
+        <length>17.556</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>うつる</index>
+      <characterNames>WasedaUtsuru</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaUtsuru</name>
+      <description/>
+      <model>CR1S4F</model>
+      <head>CR</head>
+      <tail>SF</tail>
+      <headModel>CR1</headModel>
+      <tailModel>S4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 -1.045689 0.097220 -0.955500 -0.667962 c 0.073616 -0.624576 0.955500 -1.127916 0.955500 -0.347665 v 3.672157 M 0.000000 4.656530</path>
+        <exitX>0</exitX>
+        <exitY>4.657</exitY>
+        <bbox>
+          <minX>-0.961</minX>
+          <maxX>61.005</maxX>
+          <minY>-1.414</minY>
+          <maxY>2.657</maxY>
+        </bbox>
+        <length>6.661</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

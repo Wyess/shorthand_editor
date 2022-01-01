@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>むし</index>
+      <characterNames>WasedaMushi</characterNames>
+    </entry>
+    <entry>
+      <index>むすめ 娘</index>
+      <characterNames>WasedaMushi WasedaE</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMushi</name>
+      <description/>
+      <model>ER8CR4NWR1</model>
+      <head>ER</head>
+      <tail>NWR1</tail>
+      <headModel>ER8</headModel>
+      <tailModel>CR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 2.029300 -0.819900 3.696200 -1.258000 5.045600 -1.258000 c 1.086100 0.000000 2.780000 0.286770 2.780000 1.605100 c 0.000000 1.318330 -1.917705 0.537604 -2.600000 0.115587 c -0.682295 -0.422017 -1.512049 -1.632087 -1.890449 -2.407887</path>
+        <exitX>3.335</exitX>
+        <exitY>-1.945</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>7.826</maxX>
+          <minY>-1.945</minY>
+          <maxY>1.08</maxY>
+        </bbox>
+        <length>15.06</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path>M 0.000000 0.000000 c 2.029300 -0.819900 3.696200 -1.258000 5.045600 -1.258000 c 1.086100 0.000000 2.748481 0.221513 2.748481 1.384466 c 0.000000 2.167244 -3.741502 -1.350852 -4.458929 -2.071666</path>
+        <exitX>3.335</exitX>
+        <exitY>-1.945</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>7.794</maxX>
+          <minY>-1.945</minY>
+          <maxY>0.823</maxY>
+        </bbox>
+        <length>14.504</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

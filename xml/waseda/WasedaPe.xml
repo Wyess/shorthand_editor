@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぺ</index>
+      <characterNames>WasedaPe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPe</name>
+      <description>ぺ</description>
+      <model>SWL16NEL4CL1</model>
+      <head>SWL</head>
+      <tail>NELCL</tail>
+      <headModel>SWL16</headModel>
+      <tailModel>NEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>7.3</offsetX>
+      <offsetY>-7.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -3.2552 3.2552 -9.19184 12.0711 -6.76189 14.5009 c 0.940596 0.94054 3.05936 -0.677791 3.426 -2.0461 c 0.344271 -1.28484 -1.34164 -0.918359 -1.04664 -0.386159 c 0.2937 0.5087 0.460386 0.784524 0.677586 1.16072</path>
+        <exitX>-3.70494</exitX>
+        <exitY>13.2294</exitY>
+        <length>24.802</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

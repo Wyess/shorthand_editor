@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>キン</index>
+      <characterNames>WasedaKin2</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKin2</name>
+      <description>きん</description>
+      <model>E4F</model>
+      <head>E</head>
+      <tail>EF</tail>
+      <headModel>E4</headModel>
+      <tailModel>E4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 4.000000</path>
+        <exitX>6</exitX>
+        <exitY>0</exitY>
+        <length>4</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>つつ</index>
+      <characterNames>WasedaTsutsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTsutsu</name>
+      <description>つつ</description>
+      <model>PSW4F</model>
+      <head>PSW</head>
+      <tail>SWF</tail>
+      <headModel>PSW4</headModel>
+      <tailModel>PSW4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2</offsetX>
+      <offsetY>-2.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(SELCL)_H(ER)</key>
+        <path>M 3.200000 -7.700000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.832</exitX>
+        <exitY>-3.941</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(SWRCR)_X</key>
+        <path>M 4.200000 -3.800000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>2.832</exitX>
+        <exitY>-0.041</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(NELCL)_X</key>
+        <path>M 2.200000 -6.000000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0.832</exitX>
+        <exitY>-2.241</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(S)_X</key>
+        <path>M 2.100000 -5.700000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0.732</exitX>
+        <exitY>-1.941</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(ERCR)_X</key>
+        <path>M 2.500000 -5.500000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.132</exitX>
+        <exitY>-1.741</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(SER)_X</key>
+        <path>M 3.000000 -5.500000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.632</exitX>
+        <exitY>-1.741</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(ECL)_X</key>
+        <path>M 2.600000 -6.000000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.232</exitX>
+        <exitY>-2.241</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>T(SELCL)_X</key>
+        <path>M 2.600000 -6.000000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.232</exitX>
+        <exitY>-2.241</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>X_H()</key>
+        <path>M 1.000000 -5.700000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.368</exitX>
+        <exitY>-1.941</exitY>
+        <length>4</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 3.200000 -7.700000 l -1.368100 3.758700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>1.832</exitX>
+        <exitY>-3.941</exitY>
+        <length>4</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

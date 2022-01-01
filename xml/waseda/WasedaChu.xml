@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ちゅ</index>
+      <characterNames>WasedaChu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaChu</name>
+      <description>ちゅ</description>
+      <model>NE16CL1</model>
+      <head>NE</head>
+      <tail>NECL</tail>
+      <headModel>NE16</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(R)_H(SW)</key>
+        <path>m 0 0 c -0.772463 2.53527 -1.65863 5.21653 -2.4721 7.6085 c -0.452 1.1775 -1.23205 0.609299 -0.811043 -0.105236 c 0.452294 -0.767631 1.02301 -0.477131 0.811043 0.105236</path>
+        <exitX>-2.4721</exitX>
+        <exitY>7.6085</exitY>
+        <length>11.445</length>
+      </glyph>
+      <glyph>
+        <key>T(R)_X</key>
+        <path>m 0 0 c -0.8368 2.5753 -1.5112 5.2299 -2.4721 7.6085 c -0.452 1.1775 -1.46994 0.447664 -0.811043 -0.105236 c 0.5191 -0.4204 0.578743 -0.471464 1.15724 -0.805364</path>
+        <exitX>-2.1259</exitX>
+        <exitY>6.6979</exitY>
+        <length>11.405</length>
+        <head>SW</head>
+        <tail>SWCR</tail>
+        <model>SW8CR1</model>
+        <headModel>SW8</headModel>
+        <tailModel>CR1</tailModel>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL16)</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 0.587465 -0.40721 0.325774 -0.815557 0.038105 -0.892638 c -0.411285 -0.110203 -0.902241 -0.00267 -1.0891 0.327131 c -0.205517 0.362716 0.1887 1.0435 1.051 0.565507</path>
+        <exitX>6.226</exitX>
+        <exitY>-4.3592</exitY>
+        <length>11.639</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 0.38218 -0.264914 0.167229 -0.681924 -0.02848 -0.762169 c -0.557664 -0.228657 -1.25099 0.20726 -1.00208 0.723561 c 0.186856 0.387582 0.811439 -0.015769 1.22764 -0.218334</path>
+        <exitX>6.42308</exitX>
+        <exitY>-4.61614</exitY>
+        <length>11.479</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SR8)</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 1.10192 -0.763812 -0.343082 -1.32523 -0.749847 -1.12878 c -0.419407 0.202549 -0.1107 0.526277 0.430847 1.32918</path>
+        <exitX>5.907</exitX>
+        <exitY>-4.1588</exitY>
+        <length>11.351</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL4)</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 0.369124 -0.255863 0.140663 -0.67106 -0.171673 -0.75475 c -0.25462 -0.068225 -0.653731 0.015691 -0.757997 0.191071 c -0.206979 0.348146 0.222804 0.557846 0.61067 0.764079</path>
+        <exitX>5.907</exitX>
+        <exitY>-4.1588</exitY>
+        <length>10.527</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER4)</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 1.10192 -0.763812 0.386789 -1.37738 -0.127754 -1.28773 c -0.429386 0.074808 -0.707595 0.317892 -0.757978 0.611912 c -0.057719 0.336832 0.197013 0.743305 1.30872 0.101449</path>
+        <exitX>6.64899</exitX>
+        <exitY>-4.93357</exitY>
+        <length>12.312</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 1.97075 -1.42983 4.20479 -2.95817 6.226 -4.3592 c 1.10192 -0.763812 -0.52668 -1.27081 -0.566 -0.8714 c -0.0361 0.366578 0.127 0.7234 0.247 1.0718</path>
+        <exitX>5.907</exitX>
+        <exitY>-4.1588</exitY>
+        <length>10.625</length>
+      </glyph>
+      <sub>
+        <type>prevTail</type>
+        <target>E</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NELCL8</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NE</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>ECL</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>ECL4</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>CHA_HENKI</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NEB</target>
+        <by>R</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

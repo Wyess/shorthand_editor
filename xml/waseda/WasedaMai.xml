@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>まい</index>
+      <characterNames>WasedaMai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMai</name>
+      <description>まい</description>
+      <model>UNR4</model>
+      <head>NER</head>
+      <tail>SER</tail>
+      <headModel>UNR4</headModel>
+      <tailModel>UNR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4</offsetX>
+      <offsetY>1.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path> M 0.000000 0.000000 c 0.000002 -0.868833 0.937350 -3.045430 2.206910 -3.068960 c 1.195810 -0.022169 1.951850 1.531450 1.064180 3.068950</path>
+        <exitX>3.27109</exitX>
+        <exitY>-9e-06</exitY>
+        <length>7.988</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000002 -0.868833 0.937350 -3.045430 2.206910 -3.068960 c 1.195810 -0.022169 1.793100 1.826240 1.793100 3.068960</path>
+        <exitX>4.00001</exitX>
+        <exitY>0</exitY>
+        <length>7.939</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>さし</index>
+      <characterNames>WasedaSashi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSashi</name>
+      <description/>
+      <model/>
+      <head/>
+      <tail/>
+      <headModel/>
+      <tailModel/>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 2.016410 -1.164200 5.611676 -2.969744 5.621325 -4.846225 c 0.002980 -0.579598 0.698221 -0.807827 0.775893 -0.172424 c 0.086305 0.706025 -0.466645 1.125799 -0.960191 0.887243</path>
+        <exitX>5.437</exitX>
+        <exitY>-4.131</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>6.406</maxX>
+          <minY>-5.4</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>10.63</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

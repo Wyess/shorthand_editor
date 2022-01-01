@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>つん</index>
+      <characterNames>WasedaTsun</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTsun</name>
+      <description>つん</description>
+      <model>S4CR1NE1F</model>
+      <head>S</head>
+      <tail>NEF</tail>
+      <headModel>S4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.1</offsetX>
+      <offsetY>-2.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 v 4.000000 c 0.000000 0.565945 -0.567037 0.873200 -0.900000 0.558800 c -0.590690 -0.557600 0.424556 -1.172010 0.900000 -1.567660 l 1.149390 -0.963799</path>
+        <exitX>2.77989</exitX>
+        <exitY>0.86912</exitY>
+        <length>8.924</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

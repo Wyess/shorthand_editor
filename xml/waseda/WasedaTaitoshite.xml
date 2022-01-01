@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>たいとして</index>
+      <characterNames>WasedaTaitoshite</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTaitoshite</name>
+      <description>たいとして</description>
+      <model>S4CL1NW1</model>
+      <head>SW</head>
+      <tail>NW</tail>
+      <headModel>S4</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.2</offsetX>
+      <offsetY>-2.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 v 3.512000 c 0.002000 0.927300 0.761900 0.649600 0.937000 0.364000 c 0.280900 -0.458300 -0.519700 -0.705000 -0.952700 -0.878300 c -0.290300 -0.116200 -0.742300 -0.392000 -1.199900 -0.598200</path>
+        <exitX>-1.2156</exitX>
+        <exitY>2.3995</exitY>
+        <length>7.798</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

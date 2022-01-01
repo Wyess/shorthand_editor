@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>だ</index>
+      <characterNames>WasedaDa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaDa</name>
+      <description>だ</description>
+      <model>SW8</model>
+      <head>SW</head>
+      <tail>SW</tail>
+      <headModel>SW8</headModel>
+      <tailModel>SW8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.9</offsetX>
+      <offsetY>-3.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(R)_X</key>
+        <path>M0,0</path>
+        <pathExtra>m3.32877,-3.369683 v 0.1</pathExtra>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m -2.2584033,2.64108 v 0.1</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>prevTail</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaTa</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

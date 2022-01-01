@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ふｒ</index>
+      <characterNames>WasedaHur</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHur</name>
+      <description>ふｒ</description>
+      <model>SEL8NWL4</model>
+      <head>SEL</head>
+      <tail>NWL</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>NWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.070430 2.584140 0.533020 5.794810 3.474500 5.854800 c 0.496140 0.010120 1.249820 -0.228218 1.302100 -0.721700 c 0.105953 -1.000180 -1.350340 -1.769900 -2.274040 -1.983200</path>
+        <exitX>2.50256</exitX>
+        <exitY>3.1499</exitY>
+        <length>12.509</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>M 0.000000 0.000000 c 0.000000 1.874100 0.290500 3.330900 0.767800 4.354500 c 0.495100 1.015100 1.361100 1.500400 2.706700 1.500400 c 0.630400 0.000000 1.696512 -0.467630 1.302200 -1.534747 c -0.336010 -0.909335 -1.336183 -2.176758 -2.274641 -2.089446 c -0.932342 0.086743 -1.304799 1.882147 -1.561599 2.432847</path>
+        <exitX>0.94</exitX>
+        <exitY>4.664</exitY>
+        <length>16.439</length>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.862</maxX>
+          <minY>0</minY>
+          <maxY>5.855</maxY>
+        </bbox>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

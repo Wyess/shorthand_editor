@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>か</index>
+      <characterNames>WasedaKa</characterNames>
+    </entry>
+    <entry>
+      <index>かく</index>
+      <characterNames>WasedaKagi WasedaKa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKa</name>
+      <description>か</description>
+      <model>E8</model>
+      <head>E</head>
+      <tail>E</tail>
+      <headModel>E8</headModel>
+      <tailModel>E8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 h 8.00001 l -0.4024 0.282788</path>
+        <exitX>7.598</exitX>
+        <exitY>0.2828</exitY>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 8 0</path>
+        <exitX>8</exitX>
+        <exitY>0</exitY>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(SER)</target>
+        <by>X_H(E)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

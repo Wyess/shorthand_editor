@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>も</index>
+      <characterNames>WasedaMo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMo</name>
+      <description>も</description>
+      <model>ER16</model>
+      <head>ER</head>
+      <tail>ER</tail>
+      <headModel>ER16</headModel>
+      <tailModel>ER16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>m 0 0 c 3.43 -1.249 12.509 -1.067 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.149</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path>m 0 0 c 3.4161 -1.2433 10.8034 -1.19989 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.155</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SW8)</key>
+        <path>m 0 0 c 4.3601 -1.5869 17.3428 -3.68933 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>17.492</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SW16)</key>
+        <path>m 0 0 c 4.3601 -1.5869 17.7542 -3.57051 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>17.565</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWL)</key>
+        <path>m 0 0 c 4.3601 -1.5869 12.6387 -1.94063 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.332</length>
+      </glyph>
+      <glyph>
+        <key>X_H(TSE)</key>
+        <path>m 0 0 c 4.3601 -1.5869 14.1162 -3.26286 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.760</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 4.3601 -1.5869 17.3681 -3.15869 16 0.600011</path>
+        <exitX>16</exitX>
+        <exitY>0.600011</exitY>
+        <length>17.554</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 4.3601 -1.5869 16 -2.14209 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.610</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path>m 0 0 c 5.0166 -1.8259 17.94 -3.3601 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>17.611</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWR)</key>
+        <path>m 0 0 c 4.3601 -1.5869 13.8852 -3.66288 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>16.872</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 4.3601 -1.5869 15.326 -3.8223 16 0</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <length>17.109</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path>M 0.000000 0.000000 c 4.360100 -1.586900 17.989207 -3.445407 16.000000 0.000000</path>
+        <exitX>16</exitX>
+        <exitY>0</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>16.197</maxX>
+          <minY>-1.948</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>17.588</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

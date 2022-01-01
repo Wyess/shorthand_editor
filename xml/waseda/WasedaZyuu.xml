@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>じゅう</index>
+      <characterNames>WasedaZyuu</characterNames>
+    </entry>
+    <entry>
+      <index>じゅー</index>
+      <characterNames>WasedaZyuu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaZyuu</name>
+      <description>じゅう</description>
+      <model>SR8CR1</model>
+      <head>SR</head>
+      <tail>SRCR</tail>
+      <headModel>SR8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.5</offsetX>
+      <offsetY>-4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 0.6794013,3.65565 c 0,0.5459 0.7439963,1.0535 1.3013443,1.20284</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaShu</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

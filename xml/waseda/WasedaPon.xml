@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぽん</index>
+      <characterNames>WasedaPon</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPon</name>
+      <description>ぽん</description>
+      <model>SWL16ONEL4NE1F</model>
+      <head>SWL</head>
+      <tail>NEF</tail>
+      <headModel>SWL16</headModel>
+      <tailModel>ONEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>7.3</offsetX>
+      <offsetY>-7.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -3.255200 3.255200 -9.191770 12.071000 -6.761890 14.500900 c 0.540532 0.540533 1.434090 -0.362210 1.834410 -0.869925 c 0.435933 -0.552887 0.982665 -1.534640 0.424686 -1.902250 c -0.508869 -0.335253 -1.298840 1.899890 -1.801660 2.947440 l 1.551180 -0.500565</path>
+        <exitX>-2.84326</exitX>
+        <exitY>13.5824</exitY>
+        <length>26.474</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>はなし</index>
+      <characterNames>WasedaHanashi</characterNames>
+    </entry>
+    <entry>
+      <index>話</index>
+      <characterNames>WasedaHanashi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHanashi</name>
+      <description/>
+      <model>UWL8</model>
+      <head>WL</head>
+      <tail>EL</tail>
+      <headModel>UWL8</headModel>
+      <tailModel>UWL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c -2.135175 0.594634 -4.013696 2.337931 -4.013696 4.483461 c 0.000000 2.124271 2.633124 3.359460 4.913437 2.326876</path>
+        <exitX>0.9</exitX>
+        <exitY>6.81</exitY>
+        <bbox>
+          <minX>-4.014</minX>
+          <maxX>0.9</maxX>
+          <minY>0</minY>
+          <maxY>7.181</maxY>
+        </bbox>
+        <length>12.868</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path>M 0.000000 0.000000 c -2.098178 0.796423 -3.944574 2.338656 -3.944574 4.484851 c 0.000000 3.626330 5.046860 3.327964 6.020737 0.383557</path>
+        <exitX>2.076</exitX>
+        <exitY>4.868</exitY>
+        <bbox>
+          <minX>-3.945</minX>
+          <maxX>2.076</maxX>
+          <minY>0</minY>
+          <maxY>7.141</maxY>
+        </bbox>
+        <length>14.923</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

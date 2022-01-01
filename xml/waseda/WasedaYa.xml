@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>や</index>
+      <characterNames>WasedaYa</characterNames>
+    </entry>
+    <entry>
+      <index>言</index>
+      <characterNames>WasedaYa</characterNames>
+    </entry>
+    <entry>
+      <index>といって</index>
+      <characterNames>WasedaO WasedaYa WasedaLtsuP WasedaE</characterNames>
+    </entry>
+    <entry>
+      <index>といった</index>
+      <characterNames>WasedaO WasedaYa WasedaLtsuP WasedaTa</characterNames>
+    </entry>
+    <entry>
+      <index>だといった</index>
+      <characterNames>WasedaDa WasedaYa WasedaLtsuP WasedaTa</characterNames>
+    </entry>
+    <entry>
+      <index>たといった</index>
+      <characterNames>WasedaTa WasedaYa WasedaLtsuP WasedaTa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYa</name>
+      <description>や</description>
+      <model>NER8</model>
+      <head>NER</head>
+      <tail>NER</tail>
+      <headModel>NER8</headModel>
+      <tailModel>NER8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(SWR8CR1)_H(E)</key>
+        <path>m 0 0 c 0.502296 -0.717349 4.94061 -6.66836 6.83246 -3.39159</path>
+        <exitX>6.83246</exitX>
+        <exitY>-3.39159</exitY>
+        <length>8.961</length>
+      </glyph>
+      <glyph>
+        <key>M(SWR8CR1)_X</key>
+        <path>m 0 0 c 0.502296 -0.717349 2.93983 -4.07219 6.46122 -4.07219</path>
+        <exitX>6.46122</exitX>
+        <exitY>-4.07219</exitY>
+        <length>7.931</length>
+      </glyph>
+      <glyph>
+        <key>T(SWRCRB)_X</key>
+        <path>m 0 0 c 0.502296 -0.717349 2.93983 -4.07219 6.46122 -4.07219</path>
+        <exitX>6.46122</exitX>
+        <exitY>-4.07219</exitY>
+        <length>7.931</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NE)</key>
+        <path>m 0 0 c 1.60694 -4.415 5.63821 -7.1026 6.5532 -4.5886</path>
+        <exitX>6.5532</exitX>
+        <exitY>-4.5886</exitY>
+        <length>9.735</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path>m 0 0 c 1.7415 -4.7848 6.1283 -8.4952 6.1283 -5.1423</path>
+        <exitX>6.1283</exitX>
+        <exitY>-5.1423</exitY>
+        <length>10.349</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWR)</key>
+        <path>m 0 0 c 0.925272 -2.5422 4.24274 -7.02792 6.12836 -5.1423</path>
+        <exitX>6.12836</exitX>
+        <exitY>-5.1423</exitY>
+        <length>9.031</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c 0.925272 -2.5422 7.37246 -7.62635 6.12836 -5.1423</path>
+        <exitX>6.12836</exitX>
+        <exitY>-5.1423</exitY>
+        <length>9.397</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 0.925272 -2.5422 3.4945 -5.1423 6.12836 -5.1423</path>
+        <exitX>6.12836</exitX>
+        <exitY>-5.1423</exitY>
+        <length>8.451</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>M(S4CR1)_H(E)</target>
+        <by>M(SWR8CR1)_H(E)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SW8CR1)_H(E)</target>
+        <by>M(SWR8CR1)_H(E)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(S4CR1)_X</target>
+        <by>M(SWR8CR1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>M(SW8CR1)_X</target>
+        <by>M(SWR8CR1)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(NE)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(ER)</target>
+        <by>X_H(NE)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(NER)</target>
+        <by>X_H(NE)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

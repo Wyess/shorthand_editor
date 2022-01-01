@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>もら もり</index>
+      <characterNames>WasedaMor</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMor</name>
+      <description/>
+      <model>ER16F</model>
+      <head>ER</head>
+      <tail>ERF</tail>
+      <headModel>ER16</headModel>
+      <tailModel>ER16F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 4.360100 -1.586900 14.075561 -3.333227 16.000000 0.000000 M 17.002587 1.730556</path>
+        <exitX>17.003</exitX>
+        <exitY>1.731</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>16</maxX>
+          <minY>-1.9</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>16.779</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>かけて</index>
+      <characterNames>WasedaKa WasedaCeTeJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaCeTeJoshi</name>
+      <description/>
+      <model>TSE3NW1</model>
+      <head>SE</head>
+      <tail>NW1</tail>
+      <headModel>TSE3</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 M -1.038037 -1.072676 l 2.015023 2.015001 c -0.621993 -0.194198 -1.212518 -0.281150 -1.212518 -0.281150</path>
+        <exitX>-0.236</exitX>
+        <exitY>0.661</exitY>
+        <bbox>
+          <minX>-1.038</minX>
+          <maxX>0.977</maxX>
+          <minY>-1.073</minY>
+          <maxY>0.942</maxY>
+        </bbox>
+        <length>4.095</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

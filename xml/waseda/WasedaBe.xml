@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>べ</index>
+      <characterNames>WasedaBe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaBe</name>
+      <description>べ</description>
+      <model>SEL16CL1</model>
+      <head>SEL</head>
+      <tail>CL</tail>
+      <headModel>SEL16</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 0.04477,9.805729 c -0.060779,0.07388 -0.041978,0.22334821 0.03089,0.28533641 0.081522,0.06935 0.2491151,0.062562 0.3206326,-0.017065 0.066302,-0.07382 0.058827,-0.23215896 -0.016075,-0.29723528 -0.084722,-0.0736082 -0.2641452,-0.0577077 -0.3354476,0.0289639 z</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaHe</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

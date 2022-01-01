@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>よりも</index>
+      <characterNames>WasedaYorimo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaYorimo</name>
+      <description>よりも</description>
+      <model>NER16CR1NE1F</model>
+      <head>NER</head>
+      <tail>NEF</tail>
+      <headModel>NER16</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>7.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.215100 -3.338400 7.922700 -11.313700 11.313800 -11.313700 c 0.275300 0.000000 0.528444 0.250972 0.536378 0.493884 c 0.009900 0.303312 -0.340825 0.561190 -0.628078 0.659078 c -0.165748 0.056483 -0.432930 0.072514 -0.519219 -0.079858 c -0.189742 -0.335054 0.273770 -0.849727 0.436653 -1.069440 l 0.893312 -1.204990</path>
+        <exitX>13.2422</exitX>
+        <exitY>-14.1079</exitY>
+        <length>21.507</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

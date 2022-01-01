@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>くん</index>
+      <characterNames>WasedaKun</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKun</name>
+      <description>くん</description>
+      <model>E8CL4E1F</model>
+      <head>E</head>
+      <tail>EF</tail>
+      <headModel>E8</headModel>
+      <tailModel>CL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>1.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.132000 -0.074500 4.913200 -0.074488 7.046200 0.000000 c 1.070070 0.037368 1.101310 -1.137410 0.751189 -1.618040 c -0.643246 -0.883019 -3.073500 -0.675580 -3.252650 0.402100 c -0.152034 0.914560 2.265230 1.215940 3.455260 1.215940 h 1.500000</path>
+        <exitX>11.5</exitX>
+        <exitY>0</exitY>
+        <length>18.53</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

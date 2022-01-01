@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>けつ</index>
+      <characterNames>WasedaKetsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKetsu</name>
+      <description>けつ</description>
+      <model>SE8</model>
+      <head>SE</head>
+      <tail>SE</tail>
+      <headModel>SE8</headModel>
+      <tailModel>SE8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(E8CL4)_X</key>
+        <path> M 0.000000 0.000000 l 5.656850 5.656850</path>
+        <exitX>5.65685</exitX>
+        <exitY>5.65685</exitY>
+        <length>8</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SR)</key>
+        <path> M 0.000000 0.000000 l 4.588610 6.553220 l -0.789299 -0.447408</path>
+        <exitX>3.79931</exitX>
+        <exitY>6.10581</exitY>
+        <length>8.907</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 4.588610 6.553220</path>
+        <exitX>4.58861</exitX>
+        <exitY>6.55322</exitY>
+        <length>8</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

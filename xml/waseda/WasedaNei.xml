@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ねい</index>
+      <characterNames>WasedaNei</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNei</name>
+      <description>ねい</description>
+      <model>EL4CL1</model>
+      <head>EL</head>
+      <tail>ELCL</tail>
+      <headModel>EL4</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(NEL8)</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 3.785090 1.218800 4.000000 0.000000 c 0.091733 -0.520237 -0.345050 -0.641476 -0.644000 -0.625924 c -0.301536 0.015687 -0.682969 0.296768 -0.580554 0.695331 c 0.124144 0.449009 0.643721 0.333193 1.224550 -0.069407</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+        <length>8.025</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 3.785090 1.218800 4.000000 0.000000 c 0.066954 -0.379710 -0.223353 -0.586950 -0.486323 -0.645724 c -0.298570 -0.066730 -0.806149 0.122421 -0.811743 0.428306 c -0.007710 0.421413 0.663097 0.489904 1.096000 0.630568</path>
+        <exitX>3.79793</exitX>
+        <exitY>0.41315</exitY>
+        <length>7.747</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NER)</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 3.785090 1.218800 4.000000 0.000000 c 0.133335 -0.756171 -0.429242 -0.834294 -0.760449 -0.189311 c -0.221770 0.378697 -0.305659 0.602738 -0.453984 0.944803</path>
+        <exitX>2.78557</exitX>
+        <exitY>0.755492</exitY>
+        <length>6.991</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 3.785090 1.218800 4.000000 0.000000 c 0.073580 -0.417290 -0.150943 -0.607150 -0.404288 -0.675116 c -0.358535 -0.096186 -1.017940 0.172208 -0.973538 0.540755 c 0.054027 0.448399 0.771450 0.357746 1.306850 0.357746</path>
+        <exitX>3.92902</exitX>
+        <exitY>0.223385</exitY>
+        <length>8.081</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.455110 0.773700 3.785090 1.218800 4.000000 0.000000 c 0.091733 -0.520237 -0.335000 -0.772100 -0.644000 -0.854900 c -0.307000 -0.088100 -0.569000 0.028200 -0.417000 0.302800 c 0.233000 0.403400 0.445226 0.707120 0.739226 1.069220</path>
+        <exitX>3.67823</exitX>
+        <exitY>0.51712</exitY>
+        <length>7.682</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

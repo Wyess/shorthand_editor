@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>大変</index>
+      <characterNames>WasedaTaihen</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTaihen</name>
+      <description>大変</description>
+      <model>PS4NW1F</model>
+      <head>PS</head>
+      <tail>NWF</tail>
+      <headModel>PS4</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.6</offsetX>
+      <offsetY>-2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 4.000000 c -0.262148 -0.399955 -0.526361 -0.799162 -1.078850 -1.093440 M -2.590020 2.074320</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.59</exitX>
+        <exitY>2.074</exitY>
+        <length>5.556</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path>M 0.000000 0.000000 v 4.000000 c -0.262148 -0.399955 -0.526361 -0.799162 -1.078850 -1.093440 M -2.590020 4.574320</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.59</exitX>
+        <exitY>4.574</exitY>
+        <length>5.556</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

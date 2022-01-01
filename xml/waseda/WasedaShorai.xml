@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>将来</index>
+      <characterNames>WasedaShorai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShorai</name>
+      <description>将来</description>
+      <model>E4GS4</model>
+      <head>E</head>
+      <tail>S</tail>
+      <headModel>E4</headModel>
+      <tailModel>GS4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 4.000000 M 2.000000 0.000000 v 4.000000</path>
+        <exitX>2</exitX>
+        <exitY>4</exitY>
+        <length>8</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ろい</index>
+      <characterNames>WasedaRoi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRoi</name>
+      <description>ろい</description>
+      <model>SER8F</model>
+      <head>SER</head>
+      <tail>SERF</tail>
+      <headModel>SER8</headModel>
+      <tailModel>SER8F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.263870 1.585200 5.223230 4.809500 4.000000 6.928200</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>3.316</exitX>
+        <exitY>8.807</exitY>
+        <length>8.604</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

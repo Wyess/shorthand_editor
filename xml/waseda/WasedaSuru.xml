@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>する</index>
+      <characterNames>WasedaSuru</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSuru</name>
+      <description>する</description>
+      <model>P</model>
+      <head>P</head>
+      <tail>P</tail>
+      <headModel>P</headModel>
+      <tailModel>P</tailModel>
+      <color>black</color>
+      <bold>true</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0v0.1</path>
+        <entryX>2.121</entryX>
+        <entryY>2.121</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaShiki)_X</key>
+        <path>M 0.000000 0.000000 v0.1</path>
+        <entryX>2.5</entryX>
+        <entryY>1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaEru)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>4</entryX>
+        <entryY>1.1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaTen2)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0</entryX>
+        <entryY>1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SWL8CL1)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>3.536</entryX>
+        <entryY>3.536</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(E8NE1F)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>1</entryX>
+        <entryY>5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>M(SE4CR1)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>2.828</entryX>
+        <entryY>2.828</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SELF)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0.8</entryX>
+        <entryY>3.1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(ELF)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>1</entryX>
+        <entryY>3.5</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(NEF)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>0.5</entryX>
+        <entryY>4</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>TM(NEL8)_H()</key>
+        <path>M0,0 v 0.1</path>
+        <entryX>3.5</entryX>
+        <entryY>2.121</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>X_H()</key>
+        <path>M0,0 v 0.1</path>
+        <entryX>2.121</entryX>
+        <entryY>2.121</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0.1</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

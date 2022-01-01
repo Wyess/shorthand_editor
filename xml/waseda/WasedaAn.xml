@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>あん</index>
+      <characterNames>WasedaAn</characterNames>
+    </entry>
+    <entry>
+      <index>あら あり</index>
+      <characterNames>WasedaAn</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaAn</name>
+      <description>あん</description>
+      <model>EL4F</model>
+      <head>EL</head>
+      <tail>ELF</tail>
+      <headModel>EL4</headModel>
+      <tailModel>EL4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>0.3</offsetY>
+      <glyph>
+        <key>X_X</key>
+        <exitX>5.732</exitX>
+        <exitY>-1</exitY>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <exitX>6.232</exitX>
+        <exitY>0</exitY>
+        <path>m 0 0 c 1.04821 0.5574 2.97476 0.5919 4 0</path>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

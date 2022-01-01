@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>けぇ</index>
+      <characterNames>WasedaKexe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKexe</name>
+      <description/>
+      <model>E16CL1P</model>
+      <head>E</head>
+      <tail>P</tail>
+      <headModel>E16</headModel>
+      <tailModel>ECLP</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 4.997480 0.000000 10.002400 0.000000 15.000000 0.000000 c 0.269900 0.014200 0.543088 -0.266663 0.495000 -0.495000 c -0.065780 -0.312346 -0.584509 -0.486739 -0.892700 -0.346515 c -0.375333 0.170772 -0.689204 0.862934 0.886392 0.862934</path>
+        <exitX>15.489</exitX>
+        <exitY>0.021</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>15.501</maxX>
+          <minY>-0.891</minY>
+          <maxY>0.021</maxY>
+        </bbox>
+        <length>18.767</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

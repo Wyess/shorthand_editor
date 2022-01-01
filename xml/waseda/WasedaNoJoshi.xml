@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ノ</index>
+      <characterNames>WasedaNoJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNoJoshi</name>
+      <description>〜の</description>
+      <model>EL8NWL4</model>
+      <head>EL</head>
+      <tail>NWL</tail>
+      <headModel>EL8</headModel>
+      <tailModel>NWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0.1</offsetY>
+      <right>8</right>
+      <glyph>
+        <key>X_H(S)</key>
+        <path> M 0.000000 0.000000 c 1.805190 0.880500 7.536950 2.626160 8.000010 0.000000 c 0.224917 -1.275580 -3.646180 -3.121030 -3.651420 -1.329000 l -0.007700 2.622130</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.341</exitX>
+        <exitY>1.293</exitY>
+        <length>16.521</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c 1.805190 0.880500 7.363420 2.291460 8.000010 0.000000 c 0.318932 -1.148030 -2.154310 -1.659350 -3.651420 -1.659350</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.349</exitX>
+        <exitY>-1.659</exitY>
+        <length>13.108</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 c 2.176520 0.707200 7.472920 1.855500 7.970100 0.000000 c 0.308342 -1.150750 -0.523314 -1.887680 -1.296590 -1.927350 c -1.209020 -0.062018 -1.941960 1.360920 -2.324920 2.790150</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.349</exitX>
+        <exitY>0.863</exitY>
+        <length>15.056</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c 2.176520 0.707200 7.391540 1.957090 7.970100 0.000000 c 0.638380 -2.159460 -1.940120 -2.949700 -2.581180 -1.408140 c -0.217853 0.523873 -0.584299 1.488550 -0.914725 2.396350</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.474</exitX>
+        <exitY>0.988</exitY>
+        <length>15.651</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.040730 0.663100 7.714490 2.206030 8.073520 -0.465600 c 0.173435 -1.290600 -2.020210 -1.697310 -3.702390 -1.246570</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.371</exitX>
+        <exitY>-1.712</exitY>
+        <length>13.375</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

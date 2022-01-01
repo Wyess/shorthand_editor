@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>みん</index>
+      <characterNames>WasedaMin</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMin</name>
+      <description>みん</description>
+      <model>ER8CR1NE1F</model>
+      <head>ER</head>
+      <tail>NEF</tail>
+      <headModel>ER8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>1.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.851700 -0.863500 7.980500 -2.116900 7.980500 -0.558000 c 0.000000 0.596400 -0.836363 1.166330 -1.201300 0.841100 c -0.394973 -0.351996 0.197185 -0.837987 0.755200 -1.396000 l 1.068410 -1.068410</path>
+        <exitX>9.98552</exitX>
+        <exitY>-3.62634</exitY>
+        <length>13.483</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>いれ</index>
+      <characterNames>WasedaIre</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaIre</name>
+      <description/>
+      <model>NE4SE4</model>
+      <head>NE</head>
+      <tail>SE</tail>
+      <headModel>NE4</headModel>
+      <tailModel>SE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l 2.471100 -3.201300 l 2.471000 3.201300</path>
+        <exitX>4.942</exitX>
+        <exitY>0</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.942</maxX>
+          <minY>-3.201</minY>
+          <maxY>0</maxY>
+        </bbox>
+        <length>8.088</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

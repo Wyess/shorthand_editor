@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>たい</index>
+      <characterNames>WasedaTai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTai</name>
+      <description>たい</description>
+      <model>S4</model>
+      <head>S</head>
+      <tail>S</tail>
+      <headModel>S4</headModel>
+      <tailModel>S4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 l 0.000000 4.000000 l 0.200000 -0.492400</path>
+        <exitX>0.2</exitX>
+        <exitY>3.5076</exitY>
+        <length>4.531</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c 0.012490 1.358320 -0.369724 3.507660 0.000000 4.000000</path>
+        <exitX>0</exitX>
+        <exitY>4</exitY>
+        <length>4.031</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 0.000000 4.000000</path>
+        <exitX>0</exitX>
+        <exitY>4</exitY>
+        <length>4</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(S)</target>
+        <by>X_H(SEL)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

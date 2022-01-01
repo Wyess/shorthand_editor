@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>さつ</index>
+      <characterNames>WasedaSatsu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSatsu</name>
+      <description>さつ</description>
+      <model>CL1NEL8</model>
+      <head>CL</head>
+      <tail>NEL</tail>
+      <headModel>CL1</headModel>
+      <tailModel>NEL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.2</offsetX>
+      <offsetY>2.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>N(WasedaShi)_X</key>
+        <path>M0,0 c 2.016410 -1.164200 5.647900 -2.783700 5.647900 -5.085400</path>
+        <entryX>-1.7</entryX>
+        <entryY>0.9</entryY>
+        <exitX>3.948</exitX>
+        <exitY>-4.185</exitY>
+        <length>7.917</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 -0.643115 -0.526286 -0.641808 -0.842072 -0.536627 c -0.273325 0.091037 -0.495096 0.592477 -0.304770 0.808741 c 0.259566 0.294943 0.802626 -0.083512 1.146840 -0.272114 c 2.041110 -1.118360 4.778130 -2.602420 4.778130 -4.600650</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.778</exitX>
+        <exitY>-4.601</exitY>
+        <length>10.379</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

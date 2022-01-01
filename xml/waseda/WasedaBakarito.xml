@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ばかりと</index>
+      <characterNames>WasedaBakarito</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaBakarito</name>
+      <description>ばかりと</description>
+      <model>SEL8S3NE1</model>
+      <head>SEL</head>
+      <tail>NE</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>S3</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(E)</key>
+        <path> M 0.000000 0.000000 c 0.000000 3.776400 0.935824 6.850980 4.187110 5.979800 v 3.000000 c 0.043510 0.657480 0.747991 0.433230 0.860743 -0.251760 c 0.100327 -0.609520 -0.633279 -0.633190 -0.860743 -0.633190</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.187</exitX>
+        <exitY>8.095</exitY>
+        <length>14.445</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 3.776400 0.935824 6.850980 4.187110 5.979800 v 1.250000 v 0.625000 v 0.625000 c 0.082750 -0.578930 0.461904 -0.927430 0.940224 -1.210650</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>5.127</exitX>
+        <exitY>7.269</exitY>
+        <length>12.817</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(ER)</target>
+        <by>X_H(E)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

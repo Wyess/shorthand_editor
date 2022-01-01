@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>つぇ</index>
+      <characterNames>WasedaTsuxe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTsuxe</name>
+      <description/>
+      <model>S4CR1P</model>
+      <head>S</head>
+      <tail>P</tail>
+      <headModel>S4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 3.583860 c 0.000000 0.438783 -0.557277 0.656137 -0.846122 0.501149 c -0.332213 -0.178258 -0.412158 -1.000903 -0.057778 -1.129572 c 0.470792 -0.170935 0.903900 0.678319 0.903900 1.200309</path>
+        <exitX>0</exitX>
+        <exitY>4.156</exitY>
+        <bbox>
+          <minX>-1.135</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>4.156</maxY>
+        </bbox>
+        <length>7.729</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

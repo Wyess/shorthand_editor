@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>めいん</index>
+      <characterNames>WasedaMein</characterNames>
+    </entry>
+    <entry>
+      <index>めーん</index>
+      <characterNames>WasedaMein</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMein</name>
+      <description>めいん</description>
+      <model>ER4CR1NE1F</model>
+      <head>ER</head>
+      <tail>NEF</tail>
+      <headModel>ER4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>1.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.578910 -0.911600 4.000010 -1.236400 4.000000 0.000000 c 0.000000 0.596400 -0.501169 0.989285 -0.806628 0.775321 c -0.390326 -0.273410 0.104104 -0.653823 0.578906 -1.307220 l 1.060660 -1.060660 M 6.305050 -2.946400</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>6.305</exitX>
+        <exitY>-2.946</exitY>
+        <length>9.005</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 1.578910 -0.911600 4.000010 -1.236400 4.000000 0.000000 c 0.000000 0.596400 -0.501169 0.989285 -0.806628 0.775321 c -0.390326 -0.273410 0.104104 -0.653823 0.578906 -1.307220 l 1.060660 -1.060660 M 6.305050 -2.946400</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>6.305</exitX>
+        <exitY>-2.946</exitY>
+        <length>9.005</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaDesu)</key>
+        <path> M 0.000000 0.000000 c 1.578910 -0.911600 4.000010 -1.236400 4.000000 0.000000 c 0.000000 0.596400 -0.501169 0.989285 -0.806628 0.775321 c -0.390326 -0.273410 0.104104 -0.653823 0.578906 -1.307220 l 1.060660 -1.060660 M 6.805050 -2.946400</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>6.805</exitX>
+        <exitY>-2.946</exitY>
+        <length>9.005</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_N(WasedaTei)</target>
+        <by>X_N(WasedaDesu)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

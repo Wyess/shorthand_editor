@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>とり</index>
+      <characterNames>WasedaTori</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTori</name>
+      <description>とり</description>
+      <model>S8CL1</model>
+      <head>S</head>
+      <tail>SCL</tail>
+      <headModel>S8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-4.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 0.021129 6.739060 c 0.001460 0.466669 -0.158809 1.230220 0.419996 1.259990 c 0.730631 0.037576 0.924407 -0.981626 -0.419996 -1.259990</path>
+        <exitX>0.021129</exitX>
+        <exitY>6.73906</exitY>
+        <length>10.429</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

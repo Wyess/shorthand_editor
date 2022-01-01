@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>りゃ</index>
+      <characterNames>WasedaRya</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRya</name>
+      <description>りゃ</description>
+      <model>SER8</model>
+      <head>SER</head>
+      <tail>SER</tail>
+      <headModel>SER8</headModel>
+      <tailModel>SER8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NER)_X</key>
+        <path> M 0.000000 0.000000 c 1.484590 0.000000 5.223230 4.809500 4.000000 6.928200</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4</exitX>
+        <exitY>6.928</exitY>
+        <length>8.696</length>
+      </glyph>
+      <glyph>
+        <key>X_H(S)</key>
+        <path> M 0.000000 0.000000 c 2.858000 2.001200 6.723020 6.928200 4.000000 6.928200</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4</exitX>
+        <exitY>6.928</exitY>
+        <length>9.426</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 c 1.935510 1.355300 4.000000 4.578400 4.000000 6.928300</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4</exitX>
+        <exitY>6.928</exitY>
+        <length>8.238</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.263870 1.585200 5.223230 4.809500 4.000000 6.928200</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4</exitX>
+        <exitY>6.928</exitY>
+        <length>8.604</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m1.5,4.2v0.1</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaRa</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

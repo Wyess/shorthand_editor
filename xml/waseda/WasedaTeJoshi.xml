@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>テ</index>
+      <characterNames>WasedaTeJoshi</characterNames>
+    </entry>
+    <entry>
+      <index>でき</index>
+      <characterNames>WasedaTeJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTeJoshi</name>
+      <description>〜て</description>
+      <model>SW4NW1|SW4CR1</model>
+      <head>SW</head>
+      <tail>CR</tail>
+      <headModel>SW4</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2</offsetX>
+      <offsetY>-1.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NEL)_X</key>
+        <path>M 0.000000 0.000000 l -0.698300 3.938500 c -0.188300 -0.439600 -0.428000 -0.903700 -0.428000 -0.903700</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.126</exitX>
+        <exitY>3.035</exitY>
+        <length>5</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(ER8)</key>
+        <path>M 0.000000 0.000000 c -0.277551 0.665215 -0.707473 2.195770 -1.101170 3.371420 c -0.296738 0.886116 -1.056260 0.752726 -0.934914 0.254343 c 0.105034 -0.431391 0.730349 -0.860052 1.217220 -1.129940</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.819</exitX>
+        <exitY>2.496</exitY>
+        <length>6.792</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path>M 0.000000 0.000000 c -0.243546 0.728041 -0.436664 1.443310 -1.101170 3.371420 c -0.158150 0.590200 -1.202430 0.056788 -0.872945 -0.513912 c 0.175320 -0.291800 0.483816 -0.116946 1.026690 0.008360</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.947</exitX>
+        <exitY>2.866</exitY>
+        <length>6.239</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path>M 0.000000 0.000000 c -0.312294 0.669710 -0.516290 1.458360 -1.101170 3.371420 c -0.158150 0.590200 -0.808875 -0.172230 -0.670662 -0.720506 c 0.072752 -0.288600 0.444453 -0.361986 0.901864 -0.041536</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.87</exitX>
+        <exitY>2.609</exitY>
+        <length>6.075</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL4)</key>
+        <path>M 0.000000 0.000000 c -0.312294 0.669710 -0.516290 1.458360 -1.101170 3.371420 c -0.158150 0.590200 -1.193670 -0.027360 -0.864187 -0.598060 c 0.175320 -0.291799 0.515342 -0.157271 1.007520 0.126891</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.958</exitX>
+        <exitY>2.9</exitY>
+        <length>6.294</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>M 0.000000 0.000000 c -0.312294 0.669710 -0.516290 1.458360 -1.101170 3.371420 c -0.158150 0.590200 -0.959550 -0.150610 -0.824753 -0.653680 c 0.083026 -0.309857 0.587611 -0.110073 0.996301 0.089269</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-0.93</exitX>
+        <exitY>2.807</exitY>
+        <length>6.173</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>M 0.000000 0.000000 c -0.277551 0.665215 -0.707473 2.195770 -1.101170 3.371420 c -0.296738 0.886116 -0.903111 0.261654 -0.935397 -0.091877 c -0.028512 -0.312216 0.364959 -0.884598 0.646820 -0.829929 c 0.299798 0.058148 0.234156 0.467121 0.234156 1.048820</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-1.156</exitX>
+        <exitY>3.498</exitY>
+        <length>7.313</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -1.368100 3.758700 c -0.109530 -0.465502 -0.221256 -0.931004 -0.639765 -1.396510</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-2.008</exitX>
+        <exitY>2.362</exitY>
+        <length>5.556</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaXru)</key>
+        <path>M 0.000000 0.000000 c -0.312294 0.669710 -0.516290 1.458360 -1.101170 3.371420 c -0.109627 0.409119 -0.740506 0.334560 -0.920072 0.084349 c -0.210636 -0.293505 0.078591 -1.012327 0.439215 -0.990809 c 0.391030 0.023332 0.345112 0.415145 0.345112 1.123360</path>
+        <exitX>-1.237</exitX>
+        <exitY>3.588</exitY>
+        <bbox>
+          <minX>-2.092</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>3.661</maxY>
+        </bbox>
+        <length>7.212</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_HM(SER4)</target>
+        <by>X_HM(SER8)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

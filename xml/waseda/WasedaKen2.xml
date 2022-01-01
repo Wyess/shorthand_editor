@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ケン</index>
+      <characterNames>WasedaKen2</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKen2</name>
+      <description>けん</description>
+      <model>E8NW4</model>
+      <head>E</head>
+      <tail>NW</tail>
+      <headModel>E8</headModel>
+      <tailModel>NW4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SER)</key>
+        <path>M 0.000000 0.000000 h 8.000000 l -1.601090 -3.665580</path>
+        <exitX>6.39891</exitX>
+        <exitY>-3.66558</exitY>
+        <length>12</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>M 0.000000 0.000000 h 8.000000 l -2.494290 -2.780670</path>
+        <exitX>5.50571</exitX>
+        <exitY>-2.78067</exitY>
+        <length>11.735</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SWL)</key>
+        <path>M 0.000000 0.000000 h 8.000000 l -0.782036 -3.922810</path>
+        <exitX>7.21796</exitX>
+        <exitY>-3.92281</exitY>
+        <length>12</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 h 8.000000 l -2.828430 -2.828400</path>
+        <exitX>5.17157</exitX>
+        <exitY>-2.8284</exitY>
+        <length>12</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(SE)</target>
+        <by>X_H(SER)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

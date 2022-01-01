@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>なぇ なぜ</index>
+      <characterNames>WasedaNaxe</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNaxe</name>
+      <description/>
+      <model>EL8P</model>
+      <head>EL</head>
+      <tail>P</tail>
+      <headModel>EL8</headModel>
+      <tailModel>EL8P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 2.040730 0.663100 7.678210 1.825000 8.000000 0.000000 M 7.316577 0.734732 l 0.194073 0.364948</path>
+        <exitX>7.511</exitX>
+        <exitY>1.1</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>8</maxX>
+          <minY>0</minY>
+          <maxY>1.1</maxY>
+        </bbox>
+        <length>8.911</length>
+      </glyph>
+      <glyph>
+        <key>X_H(EL)</key>
+        <path>M 0.000000 0.000000 c 2.040730 0.663100 7.678210 1.825000 8.000000 0.000000 M 7.316577 0.734732</path>
+        <exitX>7.317</exitX>
+        <exitY>0.735</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>8</maxX>
+          <minY>0</minY>
+          <maxY>1.1</maxY>
+        </bbox>
+        <length>8.911</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

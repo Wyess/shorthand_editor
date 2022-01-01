@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>とい</index>
+      <characterNames>WasedaToi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaToi</name>
+      <description>とい</description>
+      <model>SW8F</model>
+      <head>SW</head>
+      <tail>SWF</tail>
+      <headModel>SW8</headModel>
+      <tailModel>SW8F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.7</offsetX>
+      <offsetY>-3.8</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -2.736160 7.517600 M -3.420200 9.396985</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>-3.42</exitX>
+        <exitY>9.397</exitY>
+        <length>8</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

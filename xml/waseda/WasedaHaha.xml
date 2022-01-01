@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>はは</index>
+      <characterNames>WasedaHaha</characterNames>
+    </entry>
+    <entry>
+      <index>はか</index>
+      <characterNames>WasedaHaha</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHaha</name>
+      <description/>
+      <model>SEL8CR4</model>
+      <head>SEL</head>
+      <tail>CR4</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>CR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-2.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 3.776402 2.072740 5.979804 4.187111 5.979804 c 1.059148 0.000000 0.504370 1.212396 0.206319 1.698741 c -0.312647 0.510163 -1.169624 0.918326 -1.686004 0.616056 c -0.868923 -0.508636 -0.869238 -2.213043 -0.485095 -2.981330</path>
+        <exitX>2.222</exitX>
+        <exitY>5.313</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.807</maxX>
+          <minY>0</minY>
+          <maxY>8.398</maxY>
+        </bbox>
+        <length>15.46</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path>M 0.000000 0.000000 c 0.000000 3.776400 2.072740 5.979810 4.187110 5.979810 c 1.059149 0.000000 0.496656 1.207750 0.206320 1.698740 c -0.280464 0.474290 -1.033310 0.846210 -1.533952 0.616050 c -1.098856 -0.505170 -1.165696 -2.698820 -1.165696 -3.435880</path>
+        <exitX>1.694</exitX>
+        <exitY>4.859</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.805</maxX>
+          <minY>0</minY>
+          <maxY>8.365</maxY>
+        </bbox>
+        <length>15.84</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(EL8)</key>
+        <path>M 0.000000 0.000000 c 0.000000 3.776402 2.072740 5.979804 4.187111 5.979804 c 1.059148 0.000000 0.566738 1.252200 0.176413 1.638928 c -1.024590 1.015147 -3.303339 -0.048180 -2.821605 -1.414936 c 0.335479 -0.951808 2.349486 -0.122624 3.265610 0.175054</path>
+        <exitX>4.808</exitX>
+        <exitY>6.379</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.825</maxX>
+          <minY>0</minY>
+          <maxY>8.022</maxY>
+        </bbox>
+        <length>17.888</length>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>M 0.000000 0.000000 c 0.000000 3.776402 2.072740 5.979804 4.187111 5.979804 c 1.059148 0.000000 0.885970 1.034112 0.583299 1.463128 c -0.670850 0.950884 -3.144505 0.959677 -3.488691 -0.130456 c -0.228915 -0.725037 0.702401 -1.332673 2.905392 -1.332673</path>
+        <exitX>4.187</exitX>
+        <exitY>5.98</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>5.002</maxX>
+          <minY>0</minY>
+          <maxY>8.144</maxY>
+        </bbox>
+        <length>17.719</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

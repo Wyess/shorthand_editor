@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>どう</index>
+      <characterNames>WasedaDou</characterNames>
+    </entry>
+    <entry>
+      <index>どー</index>
+      <characterNames>WasedaDou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaDou</name>
+      <description>どう</description>
+      <model>NE16</model>
+      <head>NE</head>
+      <tail>NE</tail>
+      <headModel>NE16</headModel>
+      <tailModel>NE16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>6.1</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 5.33028,-7.278636 c 0,0.545901 0.118182,1.053504 0.67553,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaTo</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>えん</index>
+      <characterNames>WasedaEn</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaEn</name>
+      <description>えん</description>
+      <model>SE4NE1F</model>
+      <head>SE</head>
+      <tail>NEF</tail>
+      <headModel>SE4</headModel>
+      <tailModel>NE1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l 2.828430 2.828400 c 0.061958 -0.530441 0.400725 -1.027920 0.957906 -1.446020M5.44144,0.259613</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>5.44144</exitX>
+        <exitY>0.259613</exitY>
+        <length>5.783</length>
+      </glyph>
+      <glyph>
+        <key>X_N(WasedaNodesu)</key>
+        <path>M 0.000000 0.000000 l 2.828430 2.828400 c 0.061958 -0.530441 0.400725 -1.027920 0.957906 -1.446020M6.44144,0.259613</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>6.44144</exitX>
+        <exitY>0.259613</exitY>
+        <length>5.783</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

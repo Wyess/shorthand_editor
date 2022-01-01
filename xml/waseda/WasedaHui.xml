@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ふい</index>
+      <characterNames>WasedaHui</characterNames>
+    </entry>
+    <entry>
+      <index>古く</index>
+      <characterNames>WasedaHui WasedaKai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHui</name>
+      <description>ふい</description>
+      <model>SEL8ONL4</model>
+      <head>SEL</head>
+      <tail>SELONL</tail>
+      <headModel>SEL8</headModel>
+      <tailModel>ONL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 3.776400 2.072740 5.979800 4.187110 5.979800 c 0.524011 0.000000 0.801811 -3.333340 0.055030 -3.333340 c -0.443871 0.000000 -0.452393 2.254130 -0.194127 3.330170</path>
+        <exitX>4.04801</exitX>
+        <exitY>5.97662</exitY>
+        <length>15.195</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>まいｘ</index>
+      <characterNames>WasedaMaiHitei</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMaiHitei</name>
+      <description>まいｘ</description>
+      <model>XS3F</model>
+      <head>XS</head>
+      <tail>S</tail>
+      <headModel>XS3</headModel>
+      <tailModel>XS3F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaKu)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>2.2</entryX>
+        <entryY>-0.9</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaWa)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-0.8</entryX>
+        <entryY>1.3</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaE)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-0.8</entryX>
+        <entryY>1.3</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaYu)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-0.5</entryX>
+        <entryY>-1.2</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>M(NEL8CL1)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-1</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>M(SER8CR4)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-0.2</entryX>
+        <entryY>2.1</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-1</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>0.5</entryX>
+        <entryY>-2.5</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(SE)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>-0.5</entryX>
+        <entryY>-2.5</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+      <glyph>
+        <key>T(S)_X</key>
+        <path>M 0.000000 0.000000 v 3.000000 M 0.000000 5.000000</path>
+        <entryX>1.5</entryX>
+        <entryY>-1.5</entryY>
+        <exitX>0</exitX>
+        <exitY>5</exitY>
+        <length>3</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

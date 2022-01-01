@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>２</index>
+      <characterNames>WasedaTwo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTwo</name>
+      <description>２</description>
+      <model>2</model>
+      <head>NER</head>
+      <tail>E</tail>
+      <headModel>2</headModel>
+      <tailModel>2</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.4</offsetX>
+      <offsetY>-1.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.800212 -0.936349 2.848510 -1.860510 3.526830 -0.858590 c 1.231610 1.819170 -3.053930 4.676760 -3.825780 5.366540 l 4.329200 -0.029890</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.03</exitX>
+        <exitY>4.478</exitY>
+        <length>15.455</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.800212 -0.936349 2.848510 -1.860510 3.526830 -0.858590 c 1.231610 1.819170 -3.053930 4.676760 -3.825780 5.366540 l 4.329200 -0.029890</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.03</exitX>
+        <exitY>4.478</exitY>
+        <length>15.455</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

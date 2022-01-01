@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>〜と</index>
+      <characterNames>WasedaToJoshi</characterNames>
+    </entry>
+    <entry>
+      <index>ト</index>
+      <characterNames>WasedaToJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaToJoshi</name>
+      <description>〜と</description>
+      <model>SW4NE1|SW4CL1</model>
+      <head>SW</head>
+      <tail>CR</tail>
+      <headModel>SW4</headModel>
+      <tailModel>NE1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>1.4</offsetX>
+      <offsetY>-1.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SEL)</key>
+        <path> M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.381794 0.959598 0.585067 0.693272 c 0.266024 -0.348543 -0.005663 -1.094580 -0.217845 -1.697330</path>
+        <exitX>-0.839108</exitX>
+        <exitY>2.2943</exitY>
+        <length>6.659</length>
+      </glyph>
+      <glyph>
+        <key>X_H()</key>
+        <path> M 0.000000 0.000000 l -1.368100 3.758700 c 0.120320 -0.449040 0.938561 -0.816068 1.297590 -0.816068</path>
+        <exitX>-0.070515</exitX>
+        <exitY>2.94263</exitY>
+        <length>5.606</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l -1.206330 3.298360 c -0.318513 0.870883 0.490497 0.872760 0.753496 0.665200 c 0.329153 -0.259770 -0.134344 -0.988445 -0.590566 -1.110690</path>
+        <exitX>-1.0434</exitX>
+        <exitY>2.85288</exitY>
+        <length>6.432</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(XS)</target>
+        <by>X_H()</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(XSW)</target>
+        <by>X_H()</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(XEL)</target>
+        <by>X_H()</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(P)</target>
+        <by>X_H()</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

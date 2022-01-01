@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ひょ</index>
+      <characterNames>WasedaHyo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHyo</name>
+      <description>ひょ</description>
+      <model>SWL8CL4</model>
+      <head>SWL</head>
+      <tail>SWLCL4</tail>
+      <headModel>SWL8</headModel>
+      <tailModel>CL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>4.3</offsetX>
+      <offsetY>-3.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NE)_H(SW)</key>
+        <path>m 0 0 c -0.928261 1.60779 -2.49349 4.22058 -2.61619 6.23738 c -0.01248 0.205061 -0.051148 0.983457 0.305569 1.17369 c 0.649586 0.346416 1.67284 -0.118641 2.08486 -0.728729 c 0.510709 -0.756224 0.734838 -2.43598 -0.127439 -2.7346 c -1.08613 -0.376152 -2.11784 2.22659 -2.25647 2.60746</path>
+        <exitX>-2.60966</exitX>
+        <exitY>6.5552</exitY>
+        <length>17.213</length>
+      </glyph>
+      <glyph>
+        <key>T(NE)_X</key>
+        <path>m 0 0 c -0.928261 1.60779 -2.49349 4.22058 -2.61619 6.23738 c -0.01248 0.205061 0.01481 0.965315 0.305569 1.17369 c 0.490085 0.351235 1.20942 0.020205 1.44336 -0.423252 c 0.537754 -1.01938 -0.816484 -3.05595 -1.07021 -3.28778</path>
+        <exitX>-1.93746</exitX>
+        <exitY>3.70004</exitY>
+        <length>13.353</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path>m 0 0 c -1.83452 1.05916 -4.13133 3.71125 -4.25403 5.72805 c -0.01248 0.205061 0.019706 0.887827 0.305569 1.17369 c 0.820097 0.820097 1.74209 -0.027613 2.17073 -0.649468 c 0.487919 -0.707862 0.626666 -2.29859 -0.18833 -2.5723 c -1.08991 -0.366035 -1.87292 1.29788 -2.27719 2.59065</path>
+        <exitX>-4.24325</exitX>
+        <exitY>6.27062</exitY>
+        <length>17.894</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -1.83452 1.05916 -4.13133 3.71125 -4.25403 5.72805 c -0.01248 0.205061 0.01481 0.965315 0.305569 1.17369 c 0.490085 0.351235 1.19853 0.01429 1.44336 -0.423252 c 0.529366 -0.946029 -0.598801 -2.90664 -0.852523 -3.13847</path>
+        <exitX>-3.35763</exitX>
+        <exitY>3.34002</exitY>
+        <length>13.668</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(SELCL)_H(SW)</target>
+        <by>T(NE)_H(SW)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>T(NELCL)_H(SW)</target>
+        <by>T(NE)_H(SW)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>T(SELCL)_X</target>
+        <by>T(NE)_X</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>T(NELCL)_X</target>
+        <by>T(NE)_X</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

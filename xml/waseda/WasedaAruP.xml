@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ある</index>
+      <characterNames>WasedaAruP</characterNames>
+    </entry>
+    <entry>
+      <index>有</index>
+      <characterNames>WasedaAruP</characterNames>
+    </entry>
+    <entry>
+      <index>あれば</index>
+      <characterNames>WasedaAruP WasedaHo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaAruP</name>
+      <description>加点ある</description>
+      <model>P</model>
+      <head>P</head>
+      <tail>P</tail>
+      <headModel>P</headModel>
+      <tailModel>P</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 v 0.100000</path>
+        <entryX>1.813</entryX>
+        <entryY>-0.845</entryY>
+        <exitX>0</exitX>
+        <exitY>0.1</exitY>
+        <length>0.1</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaNoJoshi)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>5.7</entryX>
+        <entryY>1.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaKotode)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>3</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaSore)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>4.7</entryX>
+        <entryY>-1</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaTeJoshi)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>3</entryX>
+        <entryY>0.2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>N(WasedaMoJoshi)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>3.2</entryX>
+        <entryY>-2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(SERF)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>3</entryX>
+        <entryY>-2</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+      <glyph>
+        <key>T(E)_X</key>
+        <path>M 0.000000 0.000000 l 0.000000 0.000000</path>
+        <entryX>2</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>0</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

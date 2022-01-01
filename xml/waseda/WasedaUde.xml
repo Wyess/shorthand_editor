@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>うで</index>
+      <characterNames>WasedaUde</characterNames>
+    </entry>
+    <entry>
+      <index>腕</index>
+      <characterNames>WasedaUde</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaUde</name>
+      <description/>
+      <model>S4ONWR4</model>
+      <head>S</head>
+      <tail>ONWR</tail>
+      <headModel>S4</headModel>
+      <tailModel>ONWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l -0.000000 4.000000 c 0.000000 0.000000 -1.742359 -0.678310 -2.656612 -1.695620 c -0.338534 -0.376690 0.011099 -0.758860 0.326427 -0.615340 c 1.215023 0.553030 2.330184 2.310960 2.330184 2.310960</path>
+        <exitX>0</exitX>
+        <exitY>4</exitY>
+        <bbox>
+          <minX>-2.795</minX>
+          <maxX>0</maxX>
+          <minY>0</minY>
+          <maxY>4</maxY>
+        </bbox>
+        <length>11.506</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

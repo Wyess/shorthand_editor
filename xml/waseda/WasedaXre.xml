@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>レ</index>
+      <characterNames>WasedaXre</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaXre</name>
+      <description>レ</description>
+      <model>SE1F</model>
+      <head>SE</head>
+      <tail>SEF</tail>
+      <headModel>SE1</headModel>
+      <tailModel>SE1F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.6</offsetX>
+      <offsetY>1.2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 1.106960 1.012240</path>
+        <exitX>2.56572</exitX>
+        <exitY>2.38042</exitY>
+        <length>1.5</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

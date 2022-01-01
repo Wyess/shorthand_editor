@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>のでして</index>
+      <characterNames>WasedaNodeshite</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNodeshite</name>
+      <description>のでして</description>
+      <model>SWR4CR1</model>
+      <head>SWR</head>
+      <tail>SE</tail>
+      <headModel>SWR4</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.7</offsetX>
+      <offsetY>-1.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(SW)_X</key>
+        <path> M 0.000000 0.000000 c 1.088520 0.628458 -1.476910 3.661600 -2.340360 3.261730 c -0.640754 -0.296735 -0.261467 -1.361220 0.427644 -0.727527 c 0.292305 0.268795 0.107496 0.095880 0.459436 0.422484 l 2.208200 2.030600</path>
+        <exitX>0.75492</exitX>
+        <exitY>4.98729</exitY>
+        <length>10.009</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 1.348140 -1.476910 3.661600 -2.340360 3.261730 c -0.640754 -0.296735 -0.261467 -1.361220 0.427644 -0.727527 c 0.292305 0.268795 0.107496 0.095875 0.459436 0.422484 l 2.208200 2.030600</path>
+        <exitX>0.754915</exitX>
+        <exitY>4.98729</exitY>
+        <length>9.713</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>T(S)_X</target>
+        <by>T(SW)_X</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

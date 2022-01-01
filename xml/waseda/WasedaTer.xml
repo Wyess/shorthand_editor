@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>てｒ</index>
+      <characterNames>WasedaTer</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTer</name>
+      <description>てr</description>
+      <model>NE8CR1</model>
+      <head>NE</head>
+      <tail>CR</tail>
+      <headModel>NE8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(R)_X</key>
+        <path>m 0 0 c -0.7355 2.5649 -1.3098 4.488 -2.2762 7.0053 c -0.4452 1.1019 0.856578 1.05446 0.650578 0.335861 c -0.1141 -0.4258 -0.110948 -0.450634 -0.374178 -0.906561</path>
+        <exitX>-1.9998</exitX>
+        <exitY>6.4346</exitY>
+        <length>10.184</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.13049 -1.58006 4.01619 -3.22646 5.97267 -5.0117 c 0.3253 -0.3253 0.407186 -0.04102 0.46407 0.1072 c 0.157612 0.410691 -0.326208 1.17013 -0.75698 1.081 c -0.258809 -0.05355 -0.260337 -0.447519 -0.159717 -0.776619</path>
+        <exitX>5.52004</exitX>
+        <exitY>-4.60012</exitY>
+        <length>10.843</length>
+      </glyph>
+      <sub>
+        <type>prevTail</type>
+        <target>E</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NELCL8</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NE</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>ECL</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>ECL4</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>CHA_HENKI</target>
+        <by>R</by>
+      </sub>
+      <sub>
+        <type>prevTail</type>
+        <target>NEB</target>
+        <by>R</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>
+

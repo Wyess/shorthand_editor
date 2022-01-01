@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>みゅ</index>
+      <characterNames>WasedaMyo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMyo</name>
+      <description>みゅ</description>
+      <model>ER8OSWR4</model>
+      <head>ER</head>
+      <tail>EROSWR</tail>
+      <headModel>ER8</headModel>
+      <tailModel>OSWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.520910 -1.070000 7.165980 -1.700100 8.000010 0.000000 c 0.401232 0.817876 -2.104960 2.521720 -2.434670 2.218450 c -0.547555 -0.503648 0.806293 -1.352220 2.434670 -2.218450</path>
+        <exitX>8.00001</exitX>
+        <exitY>0</exitY>
+        <length>15.667</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

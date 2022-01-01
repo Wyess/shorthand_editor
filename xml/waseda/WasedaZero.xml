@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>０</index>
+      <characterNames>WasedaZero</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaZero</name>
+      <description>０</description>
+      <model>0</model>
+      <head>SWR</head>
+      <tail>NWL</tail>
+      <headModel>0</headModel>
+      <tailModel>0</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2</offsetX>
+      <offsetY>-2</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -1.195000 -0.034200 -2.096000 1.455700 -2.462000 2.581600 c -0.266000 0.818800 -0.449000 2.213800 0.348000 2.557100 c 0.987000 0.424700 2.217000 -0.863800 2.636000 -1.844100 c 0.438000 -1.023900 0.652000 -2.832500 -0.522000 -3.294600</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>13.771</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

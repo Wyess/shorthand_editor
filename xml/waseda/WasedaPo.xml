@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぽ</index>
+      <characterNames>WasedaPo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaPo</name>
+      <description>ぽ</description>
+      <model>SWL16ONEL4</model>
+      <head>SWL</head>
+      <tail>SWLONEL</tail>
+      <headModel>SWL16</headModel>
+      <tailModel>ONEL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>7.3</offsetX>
+      <offsetY>-7.4</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>m 0 0 c -3.2552 3.2552 -9.19177 12.071 -6.76189 14.5009 c 0.540532 0.540533 1.43519 -0.105032 1.89102 -0.563559 c 0.479314 -0.46559 1.22132 -1.6301 0.663341 -1.99771 c -0.508869 -0.335253 -1.48042 1.81315 -1.67303 2.69242</path>
+        <exitX>-5.88056</exitX>
+        <exitY>14.632</exitY>
+        <length>24.675</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c -3.2552 3.2552 -9.19177 12.071 -6.76189 14.5009 c 0.540532 0.540533 1.43519 -0.105032 1.89102 -0.563559 c 0.479314 -0.46559 1.22132 -1.6301 0.663341 -1.99771 c -0.508869 -0.335253 -1.72729 1.75907 -2.34026 2.70947</path>
+        <exitX>-6.54779</exitX>
+        <exitY>14.6491</exitY>
+        <length>25.038</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

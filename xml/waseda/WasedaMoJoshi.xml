@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>〜も</index>
+      <characterNames>WasedaMoJoshi</characterNames>
+    </entry>
+    <entry>
+      <index>モ</index>
+      <characterNames>WasedaMoJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMoJoshi</name>
+      <description>〜も</description>
+      <model>ER8SWR4</model>
+      <head>ER</head>
+      <tail>SWR</tail>
+      <headModel>ER8</headModel>
+      <tailModel>SWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-0.6</offsetY>
+      <right>8</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.545600 -1.411100 7.486950 -1.607270 7.992400 0.279100 c 0.257836 0.962255 -1.015560 1.924350 -1.671200 2.063700</path>
+        <exitX>6.3212</exitX>
+        <exitY>2.3428</exitY>
+        <length>11.566</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

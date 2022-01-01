@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>９</index>
+      <characterNames>WasedaNine</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNine</name>
+      <description>９</description>
+      <model>CL4SW7</model>
+      <head>CL</head>
+      <tail>SW</tail>
+      <headModel>CL4</headModel>
+      <tailModel>SW7</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>3.6</offsetX>
+      <offsetY>-2.7</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.160250 -0.598048 -0.908490 -0.976057 -1.478520 -0.893913 c -1.033280 0.148902 -2.145680 1.267720 -2.113540 2.311180 c 0.010500 0.339703 0.396340 0.662680 0.733080 0.708637 c 1.184490 0.161654 3.152210 -1.710500 3.152210 -1.710500 l -2.956720 5.815690</path>
+        <exitX>-2.66349</exitX>
+        <exitY>6.2311</exitY>
+        <length>16.528</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

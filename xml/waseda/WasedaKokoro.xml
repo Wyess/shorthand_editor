@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>こころ</index>
+      <characterNames>WasedaKokoro</characterNames>
+    </entry>
+    <entry>
+      <index>心</index>
+      <characterNames>WasedaKokoro</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKokoro</name>
+      <description>こころ</description>
+      <model>E8SW4F</model>
+      <head>E</head>
+      <tail>SWF</tail>
+      <headModel>E8</headModel>
+      <tailModel>SW4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 h 8.000000 l -1.368080 3.758800</path>
+        <exitX>6.09788</exitX>
+        <exitY>5.4882</exitY>
+        <length>12</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ほ</index>
+      <characterNames>WasedaHo</characterNames>
+    </entry>
+    <entry>
+      <index>れば</index>
+      <characterNames>WasedaHo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHo</name>
+      <description>ほ</description>
+      <model>SEL16</model>
+      <head>SEL</head>
+      <tail>SEL</tail>
+      <headModel>SEL16</headModel>
+      <tailModel>SEL16</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-6.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>M(E8CL4)_X</key>
+        <path>m 0 0 c -1.55282 7.56121 1.3202 13.8564 8 13.8564</path>
+        <exitX>8</exitX>
+        <exitY>13.8564</exitY>
+        <length>18.629</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path>m 0 0 c 0 6.4086 2.7214 10.1602 8 13.856</path>
+        <exitX>8</exitX>
+        <exitY>13.856</exitY>
+        <length>16.775</length>
+      </glyph>
+      <glyph>
+        <key>X_H(SE)</key>
+        <path>m 0 0 c 0 10.815 5.0359 16.2904 8 11.1564</path>
+        <exitX>8</exitX>
+        <exitY>11.1564</exitY>
+        <length>18.557</length>
+      </glyph>
+      <glyph>
+        <key>X_H(NEL)</key>
+        <path>m 0 0 c 0 7.6983 4.64325 13.8564 8 13.8564</path>
+        <exitX>8</exitX>
+        <exitY>13.8564</exitY>
+        <length>17.205</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 0 7.6983 1.95676 13.8564 8 13.8564</path>
+        <exitX>8</exitX>
+        <exitY>13.8564</exitY>
+        <length>17.957</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(NEL4)</key>
+        <path>M 0.000000 0.000000 c 0.000000 10.815000 8.000000 14.807509 8.000000 11.156400</path>
+        <exitX>8</exitX>
+        <exitY>11.156</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>8</maxX>
+          <minY>0</minY>
+          <maxY>12.476</maxY>
+        </bbox>
+        <length>17.281</length>
+      </glyph>
+      <sub>
+        <type>key</type>
+        <target>X_H(E)</target>
+        <by>X_H(SE)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(SEL)</target>
+        <by>X_H(SE)</by>
+      </sub>
+      <sub>
+        <type>key</type>
+        <target>X_H(EL)</target>
+        <by>X_H(SE)</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

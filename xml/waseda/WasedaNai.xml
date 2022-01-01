@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ない</index>
+      <characterNames>WasedaNai</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNai</name>
+      <description>ない</description>
+      <model>USL4</model>
+      <head>SEL</head>
+      <tail>NEL</tail>
+      <headModel>USL4</headModel>
+      <tailModel>USL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-1.3</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c -0.000002 1.029260 0.631647 3.400840 1.941740 3.417480 c 1.329710 0.016904 3.110220 -2.936660 3.387820 -3.417480</path>
+        <exitX>5.32956</exitX>
+        <exitY>1e-06</exitY>
+        <length>9.199</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c -0.000002 1.029260 0.631647 3.400840 1.941740 3.417480 c 1.329710 0.016904 2.058260 -2.198380 2.058260 -3.417480</path>
+        <exitX>4</exitX>
+        <exitY>0</exitY>
+        <length>8.576</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

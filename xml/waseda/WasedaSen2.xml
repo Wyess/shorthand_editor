@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>セン</index>
+      <characterNames>WasedaSen2</characterNames>
+    </entry>
+    <entry>
+      <index>まえ</index>
+      <characterNames>WasedaSen2</characterNames>
+    </entry>
+    <entry>
+      <index>前</index>
+      <characterNames>WasedaSen2</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaSen2</name>
+      <description>せん</description>
+      <model>NE8F</model>
+      <head>NE</head>
+      <tail>NEF</tail>
+      <headModel>NE8</headModel>
+      <tailModel>NE8F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.9</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 6.472130 -4.702280 M8.09026,-5.87772</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>8.09026</exitX>
+        <exitY>-5.87772</exitY>
+        <length>8</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWL8)</key>
+        <path> M 0.000000 0.000000 l 6.472130 -4.702280 M 8.59026,-5.37772</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>8.59026</exitX>
+        <exitY>-5.37772</exitY>
+        <length>8</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

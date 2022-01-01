@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>とちょう</index>
+      <characterNames>WasedaTochou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaTochou</name>
+      <description>とちょう</description>
+      <model>NE16OWL4</model>
+      <head>NE</head>
+      <tail>NEOWL</tail>
+      <headModel>NE16</headModel>
+      <tailModel>OWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 10.284600 -12.256700 c 0.801000 -0.801100 -0.879000 -0.616100 -2.257000 -0.397900 c -0.906000 0.159800 -2.172000 0.916100 -1.200000 0.779500 c 1.148000 -0.161400 2.301000 -0.288600 3.457000 -0.381600</path>
+        <exitX>10.2846</exitX>
+        <exitY>-12.2567</exitY>
+        <length>24.596</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

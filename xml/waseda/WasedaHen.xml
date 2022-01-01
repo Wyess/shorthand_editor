@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>へん</index>
+      <characterNames>WasedaHen</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaHen</name>
+      <description>へん</description>
+      <model>SEL16CL1E1F</model>
+      <head>SEL</head>
+      <tail>EF</tail>
+      <headModel>SEL16</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-7.0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 8.294600 1.419800 15.020500 7.940300 13.753000 c 0.752487 -0.201628 0.856192 -0.593229 0.774183 -1.009200 c -0.060678 -0.307776 -0.500448 -0.495727 -0.813355 -0.473420 c -0.337609 0.024070 -0.875154 0.300984 -0.796230 0.630120 c 0.126008 0.525490 0.714220 0.320111 1.589240 0.320111 l 1.522540 -0.000003</path>
+        <exitX>12.2167</exitX>
+        <exitY>13.2206</exitY>
+        <length>25.406</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

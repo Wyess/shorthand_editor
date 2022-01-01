@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>&#12396;</index>
+      <characterNames>WasedaNu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaNu</name>
+      <description>&#12396;</description>
+      <model>EL8CL4</model>
+      <head>EL</head>
+      <tail>ELCL4</tail>
+      <headModel>EL8</headModel>
+      <tailModel>ELCL8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>0.6</offsetY>
+      <glyph>
+        <key>X_HM(SER8)</key>
+        <path>m 0 0 c 2.17652 0.7072 7.9701 1.9199 7.9701 0 c 0 -1.27517 -1.15006 -1.80581 -2.09248 -1.94966 c -0.938167 -0.143201 -2.28894 0.175962 -2.505 0.982286 c -0.231588 0.8643 1.42724 1.32677 2.50397 2.00014</path>
+        <exitX>5.87659</exitX>
+        <exitY>1.03277</exitY>
+      </glyph>
+      <glyph>
+        <key>X_HM(SWR8)</key>
+        <path>m 0 0 c 2.17652 0.7072 8.09027 1.91614 7.9701 0 c -0.10209 -1.62789 -3.27209 -2.61596 -4.51653 -1.61254 c -0.647728 0.522277 0.321846 1.58226 0.321846 2.47534</path>
+        <exitX>3.77542</exitX>
+        <exitY>0.8628</exitY>
+      </glyph>
+      <glyph>
+        <key>X_H(E)</key>
+        <path>m 0 0 c 2.1804 0.6666 7.9407 1.3575 7.9407 -0.5553 c 0 -0.6526 -0.6922 -1.1997 -1.2952 -1.2952 c -0.973 -0.1891 -2.8135 0.2503 -2.7617 1.2402 c 0.0746 1.4221 1.9804 0.8683 3.5272 0.8143</path>
+        <exitX>7.411</exitX>
+        <exitY>0.204</exitY>
+      </glyph>
+      <glyph>
+        <key>X_(SEL)</key>
+        <path>m 0 0 c 2.17652 0.7072 7.47292 1.8555 7.9701 0 c 0.308342 -1.15075 -0.523314 -1.88768 -1.29659 -1.92735 c -1.20902 -0.062018 -2.32492 1.3439 -2.32492 2.79015</path>
+        <exitX>4.34859</exitX>
+        <exitY>0.8628</exitY>
+      </glyph>
+      <glyph>
+        <key>X_N(CharSpace)</key>
+        <path>m 0 0 c 2.17652 0.7072 7.9701 1.9199 7.9701 0 c 0 -0.3301 -0.20058 -0.5731 -0.51288 -0.6806 c -0.31037 -0.113 -0.71713 -0.0975 -1.11313 0.0389 c -0.94335 0.3433 -1.7885 0.8728 -2.56867 1.5045</path>
+        <exitX>7</exitX>
+        <exitY>0.8628</exitY>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path>m 0 0 c 2.17652 0.7072 7.9701 1.9199 7.9701 0 c 0 -0.3301 -0.20058 -0.5731 -0.51288 -0.6806 c -0.31037 -0.113 -0.71713 -0.0975 -1.11313 0.0389 c -0.94335 0.3433 -1.7885 0.8728 -2.56867 1.5045</path>
+        <exitX>3.77542</exitX>
+        <exitY>0.8628</exitY>
+      </glyph>
+      <substitution>
+        <type>key</type>
+        <target>SER4</target>
+        <by>SER8</by>
+      </substitution>
+      <glyph>
+        <key>X_HM(EL16)</key>
+        <path> M 0.000000 0.000000 c 2.176520 0.707200 7.970100 1.919900 7.970100 0.000000 c 0.000000 -0.464415 -0.442276 -0.992676 -0.888852 -1.123142 c -0.717248 -0.209542 -1.491705 -0.062401 -2.075472 0.274636 c -0.789235 0.455665 -0.424817 1.400531 1.724761 1.818358</path>
+        <exitX>6.731</exitX>
+        <exitY>0.97</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>7.97</maxX>
+          <minY>-1.22</minY>
+          <maxY>1.033</maxY>
+        </bbox>
+        <length>15.547</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

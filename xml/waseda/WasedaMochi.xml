@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>もち</index>
+      <characterNames>WasedaMochi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaMochi</name>
+      <description/>
+      <model>CR1SE4</model>
+      <head>CR</head>
+      <tail>SE</tail>
+      <headModel>CR1</headModel>
+      <tailModel>SE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 c 0.000000 0.000000 -1.019870 0.914070 -1.664220 0.717583 c -0.844430 -0.257500 -0.308190 -1.253680 0.092800 -0.974894 c 0.155800 0.108338 0.355410 0.338500 0.355410 0.338500 l 2.492980 2.492944</path>
+        <exitX>1.277</exitX>
+        <exitY>2.574</exitY>
+        <bbox>
+          <minX>-2.112</minX>
+          <maxX>1.277</maxX>
+          <minY>-0.306</minY>
+          <maxY>2.574</maxY>
+        </bbox>
+        <length>7.489</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

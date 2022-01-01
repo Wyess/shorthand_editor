@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>ぢょう</index>
+      <characterNames>WasedaJou</characterNames>
+    </entry>
+    <entry>
+      <index>ぢょー</index>
+      <characterNames>WasedaJou</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaJou</name>
+      <description>じょう</description>
+      <model>NE8OWL4</model>
+      <head>NE</head>
+      <tail>NEOWL</tail>
+      <headModel>NE8</headModel>
+      <tailModel>OWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.6</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 2.9566643,-3.10252 c 0,0.5459 0.743997,1.0535 1.301345,1.20284</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaCho</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

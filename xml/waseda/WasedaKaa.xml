@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>かあ</index>
+      <characterNames>WasedaKaa</characterNames>
+    </entry>
+    <entry>
+      <index>かー</index>
+      <characterNames>WasedaKaa</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKaa</name>
+      <description>かあ</description>
+      <model>E8</model>
+      <head>E</head>
+      <tail>E</tail>
+      <headModel>E8</headModel>
+      <tailModel>E8</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 4.2192449,1.555608 c 0,0.545901 0.118182,1.053504 0.67553,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaKa</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

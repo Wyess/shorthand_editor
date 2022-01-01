@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>しかも</index>
+      <characterNames>WasedaShikamo</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaShikamo</name>
+      <description>しかも</description>
+      <model>NE8CR1NE1F</model>
+      <head>NE</head>
+      <tail>NEF</tail>
+      <headModel>NE8</headModel>
+      <tailModel>CR1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>14</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.130490 -1.580060 4.016190 -3.226460 5.972670 -5.011700 c 0.325300 -0.325300 0.412480 -0.042950 0.464070 0.107200 c 0.147920 0.430510 -0.519780 1.201210 -0.946640 1.043070 c -0.360700 -0.133630 -0.023480 -0.777770 0.169500 -1.119150 c 0.258920 -0.458000 0.633030 -1.061780 0.807800 -1.309300 M 7.530240 -7.984110</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>7.53</exitX>
+        <exitY>-7.984</exitY>
+        <length>12.866</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

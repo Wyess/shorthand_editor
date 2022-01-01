@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>チョク</index>
+      <characterNames>WasedaChoku</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaChoku</name>
+      <description>チョク</description>
+      <model>NE4OWL4</model>
+      <head>NE</head>
+      <tail>NEOWL</tail>
+      <headModel>NE4</headModel>
+      <tailModel>OWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_HM(ER16)</key>
+        <path> M 0.000000 0.000000 l 3.464100 -2.000000 c 0.981082 -0.566428 -0.358764 -0.525761 -1.735210 -0.297960 c -1.419240 0.234882 -2.393850 1.593060 -1.459360 1.291560 c 1.084830 -0.350009 2.022870 -0.612879 3.194570 -0.993600</path>
+        <exitX>3.4641</exitX>
+        <exitY>-2</exitY>
+        <length>12.681</length>
+      </glyph>
+      <glyph>
+        <key>X_HM(SR8)</key>
+        <path> M 0.000000 0.000000 l 3.464100 -2.000000 c 0.981082 -0.566428 0.921809 -0.939727 -0.397093 -1.293130 c -0.888637 -0.238109 -2.353640 -0.352747 -1.708840 0.033222 c 0.549476 0.328910 1.519780 0.882896 1.874370 1.393600</path>
+        <exitX>3.23253</exitX>
+        <exitY>-1.8663</exitY>
+        <length>10.783</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 3.464100 -2.000000 c 0.981082 -0.566428 -1.007080 -0.635543 -2.385080 -0.417343 c -0.906000 0.159800 -2.245910 0.820114 -1.267730 0.738864 c 1.144740 -0.095085 2.496810 -0.228521 3.652810 -0.321521</path>
+        <exitX>3.4641</exitX>
+        <exitY>-2</exitY>
+        <length>12.939</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

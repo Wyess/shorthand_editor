@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>りゅ</index>
+      <characterNames>WasedaRyu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaRyu</name>
+      <description>りゅ</description>
+      <model>SER8OWR4</model>
+      <head>SER</head>
+      <tail>SEROWR</tail>
+      <headModel>SER8</headModel>
+      <tailModel>OWR4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>-3.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>T(NER)_X</key>
+        <path> M 0.000000 0.000000 c 2.763690 0.000000 5.223230 4.809500 4.000000 6.928200 c -0.463317 0.802490 -2.912920 0.521997 -3.276600 0.088495 c -0.464989 -0.554261 1.624550 -0.524890 3.466540 -0.524890</path>
+        <exitX>4.18994</exitX>
+        <exitY>6.49181</exitY>
+        <length>16.368</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 2.263870 1.585200 5.223230 4.809500 4.000000 6.928200 c -0.463317 0.802490 -2.912920 0.521997 -3.276600 0.088495 c -0.464989 -0.554261 1.624550 -0.524890 3.466540 -0.524890</path>
+        <exitX>4.18994</exitX>
+        <exitY>6.49181</exitY>
+        <length>15.914</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

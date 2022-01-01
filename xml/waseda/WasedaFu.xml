@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>フ</index>
+      <characterNames>WasedaFu</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaFu</name>
+      <description>フ</description>
+      <model>NE4F</model>
+      <head>NE</head>
+      <tail>NEF</tail>
+      <headModel>NE4</headModel>
+      <tailModel>NE4F</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 l 3.237190 -2.351960 M 4.855224 -3.527531</path>
+        <entryX>0</entryX>
+        <entryY>0</entryY>
+        <exitX>4.855</exitX>
+        <exitY>-3.528</exitY>
+        <length>4.001</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

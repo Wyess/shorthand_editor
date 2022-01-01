@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>これ</index>
+      <characterNames>WasedaKore</characterNames>
+    </entry>
+    <entry>
+      <index>この</index>
+      <characterNames>WasedaKore</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKore</name>
+      <description>これ</description>
+      <model>OSWL4</model>
+      <head>OSWL</head>
+      <tail>OSWL</tail>
+      <headModel>OSWL4</headModel>
+      <tailModel>OSWL4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>2.6</offsetX>
+      <offsetY>-1.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_H(SW)</key>
+        <path> M 0.000000 0.000000 c 0.000000 0.000000 -2.248200 1.059600 -2.838900 2.054000 c -0.221000 0.372000 -0.263600 0.784300 0.111300 0.646700 c 0.938600 -0.344600 2.727600 -2.700700 2.727600 -2.700700</path>
+        <exitX>0</exitX>
+        <exitY>0</exitY>
+        <length>8.335</length>
+      </glyph>
+      <glyph>
+        <key>X_X</key>
+        <path> M 0.000000 0.000000 c 0.000000 0.000000 -2.283520 1.612930 -2.743660 2.829880 c -0.172140 0.455294 -0.138889 0.920386 0.249577 0.694679 c 0.972468 -0.565015 2.494080 -3.524560 2.494080 -3.524560</path>
+        <exitX>-3e-06</exitX>
+        <exitY>-1e-06</exitY>
+        <length>9.376</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
+

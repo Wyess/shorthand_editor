@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>じい</index>
+      <characterNames>WasedaJii</characterNames>
+    </entry>
+    <entry>
+      <index>じー</index>
+      <characterNames>WasedaJii</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaJii</name>
+      <description>じい</description>
+      <model>NEL8CL1</model>
+      <head>NEL</head>
+      <tail>NELCL</tail>
+      <headModel>NEL8</headModel>
+      <tailModel>CL1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>2.5</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M0,0</path>
+        <pathExtra>m 3.268934,-2.775263 c 0,0.545901 0.118182,1.053504 0.6755299,1.202845</pathExtra>
+      </glyph>
+      <sub>
+        <type>name</type>
+        <target>paths</target>
+        <target>entryX</target>
+        <target>entryY</target>
+        <target>exitX</target>
+        <target>exitY</target>
+        <target>model</target>
+        <target>tail</target>
+        <target>tailModel</target>
+        <target>head</target>
+        <target>headModel</target>
+        <by>WasedaShi</by>
+      </sub>
+    </character>
+  </characters>
+</shorthand>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shorthand>
+  <name>waseda</name>
+  <dictionary>
+    <entry>
+      <index>あめ</index>
+      <characterNames>WasedaAme</characterNames>
+    </entry>
+    <entry>
+      <index>雨</index>
+      <characterNames>WasedaAme</characterNames>
+    </entry>
+    <entry>
+      <index>あわせ</index>
+      <characterNames>WasedaAme</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaAme</name>
+      <description>あめ</description>
+      <model>EL4TSE4</model>
+      <head>EL</head>
+      <tail>SE</tail>
+      <headModel>EL4</headModel>
+      <tailModel>EL4TSE4</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0.0</offsetX>
+      <offsetY>0.0</offsetY>
+      <glyph>
+        <key>X_X</key>
+        <exitX>4.75</exitX>
+        <exitY>1.299</exitY>
+        <path>m 0 0 c 1.0482 0.5573 2.9748 0.5919 4 0M 3.25 -1.29904 l 1.5 2.59807</path>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>

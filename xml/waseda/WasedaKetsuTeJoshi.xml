@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shorthand>
+  <name/>
+  <dictionary>
+    <entry>
+      <index>けつて</index>
+      <characterNames>WasedaKetsuTeJoshi</characterNames>
+    </entry>
+  </dictionary>
+  <characters>
+    <character>
+      <name>WasedaKetsuTeJoshi</name>
+      <description/>
+      <model>SE8NW1</model>
+      <head>SE</head>
+      <tail>NW</tail>
+      <headModel>SE8</headModel>
+      <tailModel>NW1</tailModel>
+      <color>black</color>
+      <bold>false</bold>
+      <offsetX>0</offsetX>
+      <offsetY>0</offsetY>
+      <right>0</right>
+      <glyph>
+        <key>X_X</key>
+        <path>M 0.000000 0.000000 l 4.588610 6.553220 c -0.621993 -0.194198 -1.212518 -0.281150 -1.212518 -0.281150</path>
+        <exitX>3.376</exitX>
+        <exitY>6.272</exitY>
+        <bbox>
+          <minX>0</minX>
+          <maxX>4.589</maxX>
+          <minY>0</minY>
+          <maxY>6.553</maxY>
+        </bbox>
+        <length>9.246</length>
+      </glyph>
+    </character>
+  </characters>
+</shorthand>
